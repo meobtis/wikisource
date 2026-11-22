@@ -1,0 +1,994 @@
+---
+title: "Carya git"
+wikisource_index: "https://wikisource.org/wiki/Index%3AAN_88_Carya_Git.pdf"
+language: new
+script: deva
+buddhist: true
+plain: true
+source_scan: "https://commons.wikimedia.org/wiki/File:AN_88_Carya_Git.pdf"
+pages: 89
+proofreading: "level 3: 89"
+note: "Transcribed by Wikisource volunteers from a manuscript scan digitised with UNESCO; some pages are unproofread OCR."
+---
+# Carya git
+
+<!-- page 1 -->
+मुख्यम्हं देवराज्‌ वज्राचार्य्य स्यइ दंगी
+
+मुख्यतया म देवताहरूको राजा हुँ, वज्राचार्य, स्याई डाँगी
+
+Mainly I am the king of the gods, Vajracharya, the ink-bearer
+
+<!-- page 2 -->
+तं ॥ डाक डाकिनि सर्व्वग गणे व्यापित पुज्रित वज्राचार्य्य २ चिन्तित मानस वो
+धि स्वभाव अनुत्तरि सिर्द्धि प्रदाता ॥ ध्रु ॥ त्रिमुमाधि ज्रोगे मन्त्र विन्यास २ स्व स्व
+देव पःलि पूज्रे ॥ ध्रु ॥ काष्ट पाखाने मृत्मय रूपं अद्वयरस वेदि यो रे ॥ ध्रु ॥ वि
+श्व कुरिस मध्यः भुँ कारज्रातं कुटागार स्वभाव २ विश्व पंकज्र मध्य अद्वय रु
+पं सर्व्व देव परिस स्थितं ॥ ध्रु ॥ गुरु चरणे शिरगत धरिया भनयित थाग
+त वज्रं २ त्रीभूवन व्यापित तत्व स्वभाव फरि गे रोग गणेरीना ॥ ध्रु ॥
+
+त्यो हो। डाक डाकिनी सर्वगा गणे व्यापित पुजित वज्राचार्य २ चिन्ता मानस वो
+धि स्वभाव अनुत्तरी सिद्धि प्रदाता। ध्रुव। त्रिमुमाधि जरोगे मन्त्र कन्फिगरेसन २ स्वा स्वा
+देवा पहाली पुजरे। ध्रुव। काठका पखेटाहरू माटोले बनेका छन्, र वेदी अद्वितीय स्वादको स्रोत हो। ध्रुव। वि
+कुकुर कुरिस मध्य: भुन कर्जतम् कुटगर प्रकृति २ विश्व पंकज्रा मध्य अद्वय रु
+Pm सबै देवताहरू सर्कलमा अवस्थित छन्। ध्रुव। गुरु चर्ने शिरगत धरिया भनयत ठग
+त्यो वज्र २ ले तीन लोकमा व्याप्त छ, तत्व प्रकृति, रोगको फल गनेरी। ध्रुव।
+
+That's right. Dak Dakini Sarvaga Gane Vyapit Pujit Vajracharya 2 Chinta Manas Wo Dhi nature is the giver of unanswerable perfection. Dhruv. Trimumadhi Jaroge Mantra Configuration 2 Swa Swa Deva Pahali Pujare. Dhruv. The wooden wings are made of clay, and the altar is a source of unique flavor. Dhruv. V
+Dog Kuris Middle: Bhun Karjatam Kutgar Nature 2 World Pankajra Middle Advaya Rs Pm All the gods are situated in the circle. Dhruv. Guru charne shirgat dhariya bhanayat thag
+That thunderbolt 2 pervades the three worlds, the elements, nature, and the fruits of disease. Dhruv.
+
+<!-- page 3 -->
+अनुत्तर ॥ ३
+राग ललित ॥ अनूत्तर तथतार : वंकार भाव्य रत्न रूप चिंतित विचित्र क
+र सं २ ॐ आः हुँ कार वज्रा मृत मूदकं सप्त संशोधित ज्ञान मृत मयं चन्द्रा
+र मृत रस वोधि फरदायकं सर्व्व ज्रिन व्यापित सहज्र करसं २ ज्रगत मर
+शोधित सून्य करूणा भव संसार नासन विरक्ष रूपं ॥ ध्रु ॥ वज्र परमानु मय
+गन्धा म्वूसंं जुक्त संखस शोधित पंञ्च पियूखं २ हुँ कार मन्त्र पूष्य संग वन्धन व
+ज्र सस्थापित विपांक करसं ॥ ध्रु ॥ द्यट मरत्यं तर तप्त रूप भावे आकृत म
+करस पुज्रा ॥
+
+अनुत्तरा। ३ राग ललित। अनुत्तरा तथातरा : वंकरा भाव रत्न रुपा चिन्तिता विचित्र करा सम २ ओम आह हम करा वज्र मृता मुदक सप्त सन्धि ज्ञान मृता मायाम चन्द्र आर मृता रस वोधि फर्दयका सर्व ज्रिं व्यापिता सहज्र पृथक करास २। भव संसार नासना विरक्ष रुपम। ध्रुव। वज्र गर्जनको सर्वोच्च सुगन्ध हो। ध्रुव। सम्पूर्ण जीवनको स्रोत जो भगवानको भक्त हो, उहाँ नै सम्पूर्ण जीवनको स्रोत हुनुहुन्छ।
+
+unanswered. 3 Raga Lalit. Anuttara Tathatara : Vankara Bhava Ratna Rupa Chinta Vichitra Kara Sam 2 Om Ah Ham Kara Vajra Mrita Mudak Sapta Sandhi Jnana Mrita Mayam Chandra Ar Mrita Rasa Vodhi Fardayaka Sarva Jrin Vyapita Sahajra Prithaka Karas Be the world without the form of the detached. Dhruv. Thunder is the highest fragrance of thunder. Dhruv. The source of all life is the devotee of God, who is the source of all life.
+
+<!-- page 4 -->
+मध्या मेरू ॥ १
+ॐ नमः श्री वज्र सतत्वाय ॥ ॥ उपाध्यान आलि टाप रय्य ॥ राग भैरवि ॥
+तार टुप ॥ मध्य सेरु महामनि कन करज्रिता पूर्व्व विदेह ज्रर ज्राश्वा दिपे २ आ
+पर ग्वडा यनि उत्तर गुरू भूओन्य पंञ्च ज्रिन व्यापि यारे ॥ नमे पंञ्च
+वुद्धं २ विस्व श्री ज्रिता विस्व हित विश्व भुत पंञ्च मुरूति ॥ ध्रु ॥ अष्ट दिपान
+रवहन्ति ज्रिन मान साह रन्तु भय तिमिर द्यन द्योर रुरे ॥ ॥ ज्रात वेदने
+स्यया उपधीय राउ पदिप परि ज्रान्तु दान्य २ स्वसर साउदयी पचउ विदिगं भुव
+गुरू मण्डर दने ॥
+
+मध्य मेरु ॥ १ ॐ नमः श्री वज्र सत्वाय ॥ ॥ उपाध्यान अली तप रय ॥ राग भैरवी ॥ तर तुप ॥ सेरुको मध्य भाग महामणि हो, जसको पूर्वमा विदेह, ज्राश्वको जरा, दीपेको दीप, गुरुको उत्तरमा २, गुरुको उत्तरमा, र पृथ्वीका पाँच जृणहरू छन्। म पाँच बुद्धहरूलाई मेरो नमन गर्दछु २ विश्व श्री जृता विश्व हित विश्व भूत पञ्च मुरुति। ध्रुव। सूर्यका आठ ज्योतिहरू आकाशमा चम्किरहेका छन्, र सूर्य आकाशमा चम्किरहेका छन्। ॥ जब उनी ठूलो दुःखमा थिइन्, उनी आफ्नो पतिसँग धेरै क्रोधित भइन्।
+
+middle meru 1 Om Namah Shri Vajra Satvaya ॥ ॥ Upadhyaan Ali Tap Ray ॥ Raga Bhairavi ॥ Tar tup ॥ The central part of Seru is Mahamani, whose Purvama is Videha, Jrasvako Jara, Deepeko Deep, Guruko Uttarma 2, Guruko Uttarma and Prithvika are the five Jrinhas. I bow to the five Buddhas. 2 Vishwa Sri Jrita Vishwa Hit Vishwa Bhoota Pancha Muruti. Pole. Eight lights of the Sun are shining in the sky, and the Sun is shining in the sky. ॥ When she was very sad, she became very angry with her husband.
+
+<!-- page 5 -->
+आदि गुने ॥
+नेवा उपदीप श्री खण्ड परसु ॥ ध्रु ॥ दिर दवर पाचिय नर रुधिरया चिय सप
+अष्टा दर चु वियारे ॥ ॥ अवर राउ दिचिय सायकं चक्रामनि कूपनि धीनि खि
+र वेदयन्ति ॥ ध्रु ॥ गुरू चरन त्रिभर संभगति परिपूलि भावना मन कुस म
+उत्र फरसफरि पूज्रा २ प्रनवपलि भारथि सप्तपलि पूलिताः वज्ररनिधि स
+प्त रस्यंतु भुतंः ॥ ध्रु ॥ ॥ राग पर्द्मज्ररि ॥ ताल माथ ॥ आदि शुन्य श्वभाव वि
+श्व अनिर अनर ज्रर भुमि ॥ सम्भव मेरु सिखर माटु २ सर्व्व मण्डल सस्थि
+समाधि दने ॥
+
+आदि गुणे। नेवा उपदीप श्री खण्ड परसु। ध्रुव। दिर डावर पछी नर रुधिराय ची सप अष्ट दार छु भ्यारे। ॥ अवरा रौ दिचिया स्याकम चक्रमणी कुपानि धिनी खी रा वेदयन्ति। ध्रुव। गुरुको चरणमा तीन भार पानीले भरिएको छ, भक्तहरूले मनको पूजा गर्छन्। ध्रुव। ॥ राग पर्मजरारी। ताल मठ। सुरुवात खाली छ, ब्रह्माण्ड खाली छ, पृथ्वी खाली छ। सम्भाव मेरु शिखर मातु २ सर्व मण्डला षष्ठि समाधि दाने।
+
+etc. qualities. Newa Updeep Shri Khand Parsu. pole. After Dir Dawar, Nar Rudhirai Chi Sap Ashta Dar Chu Byare. ॥ Avara Rau Dichiya Syakam Chakramani Kupani Dhini Khi Ra Vedayanti. pole. Three loads are filled with water at the feet of the Guru, and the devotees worship the mind. pole. ॥ Raag Parmajarari. Lake Math. The beginning was empty, the universe was empty, the earth was empty. Sambhav Meru Shikhar Mother 2 Sarva Mandala Sixth Samadhi Give.
+
+<!-- page 6 -->
+मध्या मेरू ॥ १
+ॐ नमः श्री वज्र सतत्वाय ॥ ॥ उपाध्यान आलिटा परय्य ॥ राग भैरवि ॥
+तारटुप ॥ मध्य सेरु महामनि कन करज्रिता पूर्व्व विदेह ज्रर ज्राश्वा दिपे २ आ
+पर ग्व डायनि उत्तर गुरू भूओन्य पंञ्च ज्रिन व्यापिया रे ॥ नमे पंञ्च
+वुद्धं २ विस्व श्री ज्रिता विस्व हित विश्व भुत पंञ्च मुरूति ॥ ध्रु ॥ अष्ट दिपा न
+र व हन्ति ज्रिन मान साहरन्तु भयति मिर द्यन द्योर रु रे ॥ ॥ ज्रात वेदने
+स्यया उपधी यरा उप दिप परि ज्रान्तु दान्य २ स्व सर साउ दयी पच उवि दिगं भुव
+गुरू मण्डर दने ॥
+
+मध्य मेरु। १ 
+ॐ नमः श्री वज्र सत्वाय। ॥ उपाध्यान अलिता पराया। राग भैरवी। टार्टअप। मध्य सेरु सबै राजाहरूमध्ये सबैभन्दा ठूलो हो, र पाँचौं पृथ्वीको पाँचौं हो। म पाँच बुद्ध 2 विश्वश्री ज्‍याता विश्‍व हित विश्‍व भूत पन्‍चा मुरुतिलाई नमन गर्दछु। ध्रुव। सूर्यका आठ ज्योतिहरूले बूढो मानिसलाई मार्दैनन्, तर तिनीहरू सबै डरको स्रोत हुन्। ॥ ज्रता वेदाने स्याय उपाधी यारा उपा दिप परी जरन्तु दिन २ स्व सारा सौ दिन पचा उवि दिगम भुव गुरु मन्दर दाने ।
+
+Madhya Meru. 1 
+Om Namah Shri Vajra Satvaya. ॥ Upadhyaya Alita Paraya. Raga Bhairavi. Tartup. Madhya Seru is the greatest of all kings, and the fifth is the fifth of the earth. I bow to the five Buddhas 2 Vishwashri Jyata Vishwa Hit Vishwa Bhoot Pancha Muruti. Dhruva. ​​The eight lights of the sun do not kill an old man, but they are all a source of fear. ॥ Jrata Vedane Sya Upadhi Yara Upa Deepa Pari Jarantu Din 2 Swa Sara Sau Din Pacha Uvi Digama Bhuva Guru Mandar Daane.
+
+<!-- page 7 -->
+आदि गुने ॥
+नेवा उपदीप श्री खण्ड परसु ॥ ध्रु ॥ दिर दवर पाचिय नर रुधिर याचिय सप
+अष्टादर चु विया रे ॥ ॥ अवर राउदि चिय सायकं चक्रामनि कू पनिधी निखि
+र वेदयन्ति ॥ ध्रु ॥ गुरू चरन त्रिभर संभगति परिपूलि भावना मन कुसम
+उत्र फरस फरि पूज्रा २ प्रनव पलि भारथि सप्त पलि पूलिताः वज्रर निधि स
+प्त रस्यंतु भुतंः ॥ ध्रु ॥ ॥ राग पर्द्मज्ररि ॥ ताल माथ ॥ आदि शुन्य श्वभाव वि
+श्व अनिर अनर ज्ररभुमि ॥ सम्भव मेरु सिखर माटु २ सर्व्व मण्डल सस्थि
+समाधि दने ॥
+
+आदि गुणे। 
+नेवा उपदीप श्री खण्ड परसु। ध्रुव। दिर डावर पची नर रुधीर याची सप अष्टदर छु भिया रे। ॥ तिनीहरू ब्रह्माण्डको तल्लो भागहरूमा तीरहरू समात्नेहरू हुन्। ध्रुव। गुरुचरण त्रिभार सम्भगति परीपुली भावना मन कुसम उत्तर फरसा फरी पूजा २ प्रणव पाली भारती सप्त पाली पूलिता वज्ररा निधि सप्त रस्यन्तु भूतम। ध्रुव। ॥ राग पर्मजरारी। ताल मठ। सुरुवात खाली छ, ब्रह्माण्ड खाली छ, र पृथ्वी खाली छ। सम्भाव मेरु शिखर मातु २ सर्व मण्डला षष्ठि समाधि दाने।
+
+etc. times. Neva Updeep Shri Khand Parsu. Pole. Dir Davar Pachi Nar Rudheer Yachi Sap Ashtadar Chhu Bhiya Re. ॥ They are like arrows in the lower parts of the universe. Pole. Gurucharan Tribhar Sambhagati Paripuli Bhavana Man Kusam Uttar Farsa Phari Pooja 2 Pranav Pali Bharti Sapta Pali Poolita Vajra Nidhi Sapta Rasyantu Bhootam. Pole. ॥ Raga Parmajarri. Tal Math. The beginning is empty, the universe is empty, and the earth is empty. Sambhav Meru Shikhar Matu 2 Sarva Mandala Shashthi Samadhi Danae.
+
+<!-- page 8 -->
+तं ॥ डाक डाकिनि सर्व्वग गणे व्यापित पुज्रित वज्राचार्य्य २ चिन्तित मानस वो
+धि स्वभाव अनुत्तरि सिर्द्धि प्रदाता ॥ ध्रु ॥ त्रिमुमाधि ज्रोगे मन्त्र विन्यास २ स्व स्व
+देव पःलि पूज्रे ॥ ध्रु ॥ काष्ट पाखाने मृत्मय रूपं अद्वय रस वेदि यो रे ॥ ध्रु ॥ वि
+श्व कुरिस मध्यः भुँकार ज्रातं कुटागार स्वभाव २ विश्व पंकज्र मध्य अद्वय रु
+पं सर्व्व देव परि सस्थितं ॥ ध्रु ॥ गुरु चरणे शिर गत धरिया भनयि तथाग
+त वज्रं २ त्रीभूवन व्यापित तत्व स्वभाव फरिगे रोग गणे रीना ॥ ध्रु ॥
+
+यति नै हो। हे वज्र-आचार्य, तपाईं सबै राक्षसहरूले पूजा गर्नुहुन्छ र सबै राक्षसहरूले व्याप्त हुनुहुन्छ। ध्रुव। त्रिमुमाधि ज्रोगे मन्त्र विन्यास २ स्व स्व देव पहली पुज्रे। ध्रुव। काठका पखेटाहरू माटोले बनेका छन्, र स्वादको वेदी एक मात्र हो। ध्रुव। ब्रह्माण्ड कमलको फूलको बीचमा अवस्थित छ, जुन ब्रह्माण्डको बीचमा अवस्थित छ। ध्रुव। मैले मेरो आध्यात्मिक गुरुको चरणमा मेरो शिर राखेको छु र मेरो वज्र तपाईंमाथि राखेको छु। ध्रुव।
+
+That is all. O Vajra-Acharya, you are worshipped by all the demons and are pervaded by all the demons. Dhruva. ​​Trimumadhi Jroge Mantra Vinyasa 2 Swa Swa Dev Pahila Pujare. Dhruva. ​​The wooden wings are made of clay, and the altar of taste is only one. Dhruva. ​​The universe is situated in the midst of the lotus flower, which is situated in the midst of the universe. Dhruva. ​​I have placed my head at the feet of my spiritual master and placed my vajra on you. Dhruva.
+
+<!-- page 9 -->
+अनुत्तर ॥ ३
+राग ललित ॥ अनूत्तर तथतारः वंकार भाव्य रत्न रूप चिंतित विचित्र क
+रसं २ ॐ आः हुँ कार वज्रा मृत मूदकं सप्त संशोधित ज्ञान मृत मयं चन्द्रा
+र मृत रस वोधि फरदायकं सर्व्व ज्रिन व्यापित सह ज्रक रसं २ ज्रगत मर
+शोधित सून्य करूणा भव संसार नासन विरक्ष रूपं ॥ ध्रु ॥ वज्र परमानु मय
+गन्धा म्वूसं जुक्त संख सशोधित पंञ्च पियूखं २ हुँ कार मन्त्र पूष्य संग वन्धन व
+ज्र सस्थापित विपांक करसं ॥ ध्रु ॥ द्यट मरत्यं तर तप्त रूप भावे आकृत म
+करस पुज्रा ॥
+
+उत्तर ३ 
+राग ललित उत्तर तथातरा वंकरा भव रत्न रूप चिन्तित विचित्र रस २ ओम आह उपलब्ध कर वज्र मृत्यु मूडकम सात ज्ञात ज्ञान मृत्यु माया चन्द्र र मृत्यु रस वोधि फरहारा सर्व ज्रिं व्यापित सह जर्क रसमं सोह्य जक रस्म २ गुणन जगत् विरक्षित। ध्रु वज्र परमानु माया गन्ध मवुसम जुक्त संख शोधिता पञ्च पियुखम २ अधिकार मन्त्र पूष्य संग वन्धन व जृष्टपिता विपंक करसम। ध्रु, तिमी मर्दै छौ, र तिमीले मलाई जलिरहेको आगोको रूप दिदैछौ।
+
+Answer 3 
+Raag Lalit Answer Tathatara Vankara Bhava Ratna Roop Concerned Strange Rasa 2 Om Ah Providing Vajra Mrityu Moodcom Seven Knowledge Mrityu Maya Moon and Mrityu Rasa Vodhi Farhara Sarva Jrin Vapitat Saha Jarka Gurya Rasamm. Dhru Vajra Paramanu Maya Gandha Mavusam Jukta Sankha Shodhita Pancha Piyukham 2 Adhikar Mantra Pushya Sanga Bandhan and Jrishtapita Vipanka Karasam. Dhru, you are dying, and you are giving Malay the appearance of burning fire.
+
+<!-- page 10 -->
+रर्क्त वर्ण्ण ॥ ४
+न्द्राकिनी ज्रर रुपं २ उत्रि त्रिसाधन देवतार चक्राज्ञान सत्व मानि मय हृ वि
+ज्र किरनं ॥ ध्रु ॥ पाद्या आदि आच मन दान पूर सरनं समय चक्र प्रव्य सित
+विमद करसं २ महा राग दवि भुय वोधिचित्र रुपं समय सत्व ज्ञान चक्र ए
+कि भूतं ॥ ध्रु ॥ ॥ राग नातक ॥ रर्क्त वर्ण्ण त्रिय रोयन सुन्द्ररि अष्टादस
+भुज्र फरनन्तु किरणे २ तुम्ह देवी वारुनि मामकि देवी २ ज्रगत प्रसोदि रे मयन
+सुरगे ॥ ध्रु ॥ आगम व्यद पुरान वखान्य ज्रोग धर सदिक्षा गुरु उपदेस्य ॥
+पंच सारिथापिं भरू भरा पुज्रा
+
+ऋक्त वर्ण। ४ 
+इन्द्रकिणी भाग्यकी देवीको रूप हो। २ उत्री देवताहरूको त्रिगुणी साधन हो। ध्रुव। भगवानको चरण सबै ज्ञानको स्रोत हो। भगवानको सर्वोच्च व्यक्तित्व सबै ज्ञानको स्रोत हो। ध्रुव। ॥ राग नाटक ॥ भाग्यकी देवी, वारुणी, मसँग प्रसन्न होऊन्। स्वर्गीय ग्रहहरूमा तपाईं मसँग प्रसन्न होऊन्। ध्रुव। वेद, पुराण, वख, ज्रोग, सदीक्षा र गुरु निर्देशन हुन्। पंच सरितापिन भारु भर पुज्रा
+
+Rikta Varna. 4 
+Indrakini is the form of the goddess of fortune. 2 Utri is the triple instrument of the gods. Dhruva. ​​The feet of the Lord are the source of all knowledge. The Supreme Personality of Godhead is the source of all knowledge. Dhruva. ​​॥ Raga Natak ॥ May the goddess of fortune, Varuni, be pleased with me. May you in the heavenly planets be pleased with me. Dhruva. ​​The Vedas, Puranas, Vakhs, Jrogas, Sadiksha and Guru are the instructions. Pancha Saritapin Bharu Bhar Pujara
+
+<!-- page 11 -->
+ग्वकु दह ॥ ५
+॥ ध्रु ॥ पंञ्च वुर्ध स्वरूपस तुम्हेस हम्र ज्रोगिणि रैया हेरुव हेरुवा ॥ ध्रु ॥ सत गु
+रु चरन सिरें गत धरिया भनयि वाक वज्र सुरु सपिणी ॥ ध्रु ॥ ॥ राग भैर
+वि ॥ गोकुदहनु पंञ्च ज्ञान स्वरूपे २ पंञ्चमि तरस पंञ्च सारि पूज्रिया रे २ तु
+म्ह देव वरि राय त्रिभूवन वीरा २ वीरं विराप कसमया आनन्द्रे ॥ ध्रु ॥ वीरं वी
+रेश्वर हज्रा आनन्द्र कन कमरासन हृदया आनन्दे ॥ ध्रु ॥ पंञ्च वुद्धात्मक पंञ्च
+ज्ञान स्वरुपे २ देवासुरन प्रमुदिहित हृदया ॥ ध्रु ॥ ॐ आः हुँ ह्रीँखं शोधनक
+पात्र पूज्रा समय विसमय
+
+ग्वाकु दाह ५ 
+ध्रुव। पञ्च वृद्धास्वरूप तुम्हेस हमरा जरोगिनी रैया हेरुवा हेरुवा। ध्रुव। सत गुरु चरण सिरेन गत धरिया भनयी वक वज्र सुरु सपिनी। ध्रुव। ॥ राग भैर वि। हे गोकुदहनु तिमी ज्ञानको पाँच रूप हौ। तिमी ज्ञानको पाँचौ स्रोत हौ, तिमी नै सबै ज्ञानको पाँचौं स्रोत हौ। ध्रुव। वीरम वी रेश्वरा हजरा आनंदन्द्र कन कामरासन ह्रदय आनंदे। ध्रुव। ज्ञानका पाँच रूपहरू, जुन ज्ञानका पाँच रूपहरू हुन्, देवताहरू र दानवहरूका लागि परावर्ती छन्। ध्रुव। ओम आह हम ह्रिंकम शुद्धिकरण पोत पूजा समय विसमय
+
+Goku Daha 5 
+Dhruv. Panch Vriddhaswarupa Tumse Hamra Jarogini Raiya Heruva Heruva. ​​Dhruv. Sat Guru Charan Siren Gat Dhariya Bhanayi Vak Vajra Suru Sapini. Dhruv. ॥ Raga Bhaira Vi. Hey Gokudahanu you are the five forms of knowledge. You are the five sources of knowledge, you are the five sources of all knowledge. Dhruv. Veeram Vi Reshwara Hazra Anandandra Kan Kamarasan Hridaya Anande. Dhruv. Gyanka Panch Roopahaaru, Jun Gyanka Panch Roopahaaru Huna, Devataharu R Danavaharuka Laghi Paravarti Chhan. Dhruv. Om Ah Hum Hrinkam Purification Pot Puja Samay Vismay
+
+<!-- page 12 -->
+वज्रमयि भूमि ॥ ६
+लिते २ दमरु द्यण्ठा ध्वनि विरमा आनंन्द्रे ॥ ध्रु ॥ ॥ राग मधुमत ॥ तार टप
+॥ क्व ॥ वज्रमय भुमि विशुर्द्दिय मण्डल मेदनि वज्री भव वज्र वन्ध हूँ २ ज्रा ॥ सप्तर
+सातर भूमि निवासय मार सयर संत्रास करे ॥ क्व ॥ सुम्भनि २ हूँ फट्‌ गृन्ह २
+हूँ फट्‌ गृन्हा पय २ हूँ फट्‌ ॥ क्व ॥ आनय हूँ भगवनः विद्या राज्र हूँ फट्‌ क्षदय २ अ
+लि क्षदय ॥ ध्रु ॥ ज्रा ॥ हातक राज्रिय चितित उछिय वज्र पाका रहूँ २ ॥ ज्रा ॥
+अष्ट दीग मार पराय तचेश्वर सर्व्व विघ्न कृत खण्ड लोहे ॥ ॥ क्व ॥ गगणनि
+वज्र स्थापं भूमि शोधन ॥
+
+वज्रमयी भूमि। ६
+लाइट २ डमरु ड्यान्थ आवाज खुशीमा रोकियो। ध्रुव। ॥ राग मधुमत। टार ट्याप। यो कहाँ छ? वज्रमय भूमि विशुर्दिया मण्डला मेदनी वजरी भव वज्र वन्ध हुम २ जरा। सप्तर सतार भूमि निवास मार सायर संत्रास करे। यो कहाँ छ? सुम्भनी २ हम्म फट गृह २ हम्म फट गृह पे २ हम्म फट। यो कहाँ छ? हे प्रभु, मलाई ज्ञान दिनुहोस्, हे राजा, म फट क्षाद २ अ लि क्षाद हुँ। ध्रुव। जेरा। हटक राजरिया चितित उचिया वज्र पाक राहुन २। जेरा। हे आठ दिशाका स्वामी, फलामको आगोमा भएका सबै बाधाहरूलाई मार्नुहोस्। ॥ यो कहाँ छ? आकाशमा हुने गर्जन भनेको पृथ्वीको शुद्धीकरण हो।
+
+The Vajra-filled land. 6
+Light 2 Damru, the sound of Khushi, stop Dhruv. ॥ Raga Madhumat. Tar tap. Where is it? The Vajra-filled land, the Vishurdiya Mandala Meeni, the Vajri Bhava, the Vajra-bound hum 2 little. The seven-star land, the abode of the killer, creates terror. Where is it? Sumbhani 2 Hmm Phat House 2 Hmm Phat on the house 2 Hmm Phat. Where is it? O Lord, give me knowledge, O King, I am Phat Kshaad 2 A Li Kshaad. Dhruv. Jera. Hatak Rajariya Chitit Uchiya Vajra Pak Rahun 2. Jera. O Lord of the eight directions, kill all obstacles in the fire of iron. ॥ Where is this? The thunder in the sky is the purification of the earth.
+
+<!-- page 13 -->
+अवननि ॥ ७
+रा वन्धय कुलिस भिनास यकज्र वितान हूँ २ ॥ ज्रा ॥ वज्र पंज्र हूँ पहूँ २ ॥ ज्वरि
+त निवस रज्रा रत्रां संत्रां ॥ ध्रु ॥ क्व ॥ कृदन्त्रि मण्डल रात वीरेश्वर सर्व्वस
+त्वहिया प्रमोद कले २ ॥ ज्रा ॥ सतगुरू आज्ञा शिरेगत धलिया भनयिलि रास
+वज्र भुमि शुद्धि रे ॥ ध्रु ॥ ॥ राग कंन्हार ॥ अव ननिहित वा मज्रा नूरे
+सर्व्वे खर्ड्ग किरणाः मार संत्रा साराग ध्यख मोह व दिरे पाशा त्रिभूवन राया
+अचर वीरा ॥ नमा सि श्री चन्द्रमहारोखन ज्रात मृत्रु भनिछेन्द्रिता २ विश्व
+किरं देव पूज्रा ॥
+
+अवनानी। ७ 
+रा वन्धाया कुलिस भीनास यक्ज्रा विताना हुं २। जेरा। वज्र पंजरा हुँ पाहुन २ ज्वरो त निवास राजरा रातम् सन्तम् । ध्रुव। यो कहाँ छ? कृष्णत्रि मण्डला रात्रि वीरेश्वर सर्वसा त्वहिया प्रमोद काले जरा। सतगुरु आज्ञा शिरगता ढलिया भनाइली रस वज्र भूमि शुद्धि रे। ध्रुव। ॥ राग कान्हार। हे तरवारधारी सूर्यका किरणहरू, तिमी नै सम्पूर्ण ज्ञानको स्रोत हौ। तिमी नै सबै भयको स्रोत हौ। तिमी नै सबै भ्रमको स्रोत हौ। श्री चन्द्रमहारोखना, जरता, मृतु, भानीचन्द्रिता, 2 विश्वकिरा, हे पूजनीय प्रभु तिमीलाई नमन।
+
+Avnani. 7 
+Ra vandhaya kulis bhinas yakjra vitana hun Jera. Vajra Panjara Hum Pahun 2 Jvaro Ta Nivasa Rajara Ratam Santam. Dhruv. Where is it? Krishnatri Mandala Night Veereshwara Sarvasa Tvahiya Pramod Kale Jara. Satguru command shirgata dhaliya bhanaili ras vajra bhumi shuddhi re. Dhruv. ॥ Raga Kanhar. O rays of the sword-bearing sun, you are the source of all knowledge. You are the source of all fear. You are the source of all illusion. Shri Chandramaharokhana, Jarata, Mruthu, Bhanichandrita, 2 Vishwakira, O worshipable Lord, I bow to you.
+
+<!-- page 14 -->
+नाथ विश्व व्यापित विर विक्रर्म महाक्लोट राया ॥ ध्रु ॥ अति भिखनागा उग्र
+पचन्द्रा द्रष्ट कराया विदित किरणा पिदित अटराके करन याना वैरिसंत्रा
+साराख हू सरणा ॥ ध्रु ॥ माधव माया पूरन्द्रर व्रम्हा रुद्र पिशाचा पांदव
+भरंता समरसं माया राग विमोहा ज्ञान राहनू सर्व्व मोदित देहा ॥ ध्रु ॥
+रत्ना भरणा प्रज्वरित मोरि केयुरनो पूर रूण टुनकारा सुर नर नागा व
+न्दित चरणाः राय सुरेश्वर अचर वीराः ॥ ध्रु ॥ ॥ राग भैरवि ॥ तार ट
+
+हे भगवान, तपाईं ब्रह्माण्डमा व्याप्त सबै शक्तिशाली राजाहरूमध्ये सबैभन्दा महान हुनुहुन्छ। ध्रुव। तिनीहरू धेरै भिखारी, उग्र, उग्र छन्, र चन्द्रमा देखेका छन्। ध्रुव। हे माधव, माया, पुरान्द्र, व्रह्म, रुद्र, पिशाच, पाण्डव, भरन्त, समरस, माया, राग, विमोहा, ज्ञान, राणानु, सबै खुशी छन्। ध्रुव। हे देवताहरूका स्वामी, हे देवताहरूका स्वामी, तपाईंको चरण देवताहरूले पूजा गर्छन्, जो रत्नहरूले सजिएका छन्। ध्रुव। ॥ राग भैरवी ॥ तार त
+
+O Lord, you are the greatest of all the powerful kings who pervade the universe. Dhruva. ​​They are very beggarly, fierce, fierce, and have seen the moon. Dhruva. ​​O Madhava, Maya, Purandra, Brahma, Rudra, the demons, the Pandavas, Bharata, Samarasa, Maya, Raga, Vimoha, Gyan, Rananu, all are happy. Dhruva. ​​O Lord of the gods, O Lord of the gods, your feet are worshipped by the gods, who are adorned with jewels. Dhruva. ​​॥ Raga Bhairavi ॥ Tar Ta
+
+<!-- page 15 -->
+पूर्व्व द्वारे ॥ ८
+प ॥ पूर्व्व द्वारे य र्मान्त करे फरयि अनन्त चक्लोटरे २ मारयि इन्द्रादि सगन
+पलि वारानास य माललि वृन्द रे ॥ द्य द्य द्याटय २ सर्व्व दुष्टरे किरय हूँ फट्‌ पाप
+रे श्री वज्रसत्व आज्ञा रे काय वाक चिर्त्त किरय ॥ ध्रु ॥ राग ॥ दक्षिन द्वारे
+प्रज्ञान्त करे फरयि अनंन्द रक्लोट रे२ मारयि य र्मादिस गणपरि वारा नास
+य मारारि वृन्द्र रेः ॥ ध्रु ॥ राग ॥ पछिम द्वारे प्रर्द्मान्त करे फरयि अनन्त
+क्लोटरे २ कारयि वरूणादि सगन परि वारा नास य मारारि वृंद्र रे ॥ ध्रु ॥ राग ॥
+किरदेव स्वाय गुरू नित्य ॥
+
+पूर्व द्वारमा। ८
+पृष्ठ ॥ पूर्वी द्वार जसले रमन्त हातहरू फरायी अनन्त चकलोतरे २ ले इन्द्र र अन्य सगनहरूलाई मारे पाली वारणासा या मलाली वृन्द रे ॥ द द द दयते २ म सबै दुष्टको तरवार हुँ हे श्री वज्रसत्व, हे शरीर, वाणी र मन, मलाई आज्ञा दिनुहोस्॥ ध्रुव। राग। दक्षिणी ढोकाबाट प्रजनन्थ करे फरी आनन्द रक्लोट रे२ मराय या रमदिस गणपरी वर नास या मारारी वृन्द्र रे। ध्रुव। राग। पश्चिमद्वार प्रर्दमन्तले फरायी अनन्तता गर्छ
+क्लोत्रे २ हे वृन्द्रा, मैले वरुण र अरूलाई तिम्रो विरुद्ध लड्न बनाएको छु। ध्रुव। राग।
+किरदेव स्वय गुरु नित्य।
+
+At the eastern gate. 8
+Page ॥ The eastern gate, which, with its graceful hands, spread out its endless eyes, 2 killed Indra and the others, Pali Varanasa or Malali Vrinda Re ॥ Da da da dayate 2 I am the sword of all evil, O Lord Vajrasattva, O body, speech and mind, command me. Dhruv raga Through the southern door prasantha kare fari anand raklot re2 marai or ramdis ganpari var nas or marari vrindra re. Pole. melody. west door pradmantale farai infinity
+Clotre 2 O Vrindra, I have made Varun and others fight against you. Pole. melody. Kirdev Swayam Guru Nitya.
+
+<!-- page 16 -->
+उर्त्तद्वारे विघ्नान्त करे परयि अन्त चक्लोटरे २ मारयि यक्षादि सगन परिवारा
+नासय मारारि वृन्द्ररे ॥ ध्रु ॥ राग ॥ ईशोन क्वणे अचर वीरा फरयि अन्त
+क्लोटरे २ मारयि त्रीसुरादि सगण पलिवारा नास यमारारि वृन्द्ररे ॥ ध्रु ॥
+राग ॥ अग्ने क्वने तकिराज्र वीरा फरयि अन्तर क्लोटरे २ मारयि अनूरादि स
+गण परिवारा नासय मारारि वृन्द्ररे ॥ ध्रु ॥ राग ॥ नैझत्य कोणे निरदं दवी
+राफरयि अनन्त रक्लोटरे २ मारयि राक्षसादि सगन पलिवारा नास यमा
+
+हे उर्तद्वार, तपाईं सबै बाधाहरूको अन्त्य हुनुहुन्छ, र तपाईं चक्रको अन्त्य हुनुहुन्छ। ध्रुव। राग । हे महावीर, कृपया देवताहरू र अन्य देवताहरूलाई मार्नुहोस्, जो देवताहरूका शत्रु हुन्। ध्रुव। राग । हे अग्नि, तपाईं देवताहरूका राजा हुनुहुन्छ, र तपाईं देवताहरूका नायक हुनुहुन्छ। ध्रुव। राग । नैझत्य कोने निर्दम दवी रफरायी अनन्त राक्लोतरे २ मरयी राक्षसदी सगन पालिवर नास यम।
+
+O Urtadvara, you are the end of all obstacles, and you are the end of the cycle. Dhruva. ​​Raga. O Mahavira, please kill the gods and other gods, who are the enemies of the gods. Dhruva. ​​Raga. O Agni, you are the king of the gods, and you are the hero of the gods. Dhruva. ​​Raga. Naijhatya kone nirdham davi rafarayi ananta raklotare 2 marayee rakshasadi sagan palivar naas yama.
+
+<!-- page 17 -->
+रा रिवृन्द्र रे ॥ ध्रु ॥ राग ॥ वायू व्य क्वने महा वर वीरा फरयि अनन्तर क्लोट
+रे २ मारयि प्रवनादिस गणपलि वारा नासय मारा रिवृन्द्र रे ॥ ध्रु ॥ राग ॥
+उर्द्ध द्वारे उष्णी चक्ररे फरयि अनन्तर क्लोट रे २ मारयि व्रम्हादिस गणपलि
+वारा नासय मारा रिवृन्द्र रे ॥ ध्रु ॥ राग ॥ अधो द्वारे सुम्भ राज्र वीरा फरयि
+अनन्तर क्लोट रे २ मारयि णागादिस गणपरि वारा नासय मारा रिवृन्द्र ख रे
+॥ ध्रु ॥ राग ॥ दह दीग दश वर हूँ कारु रे प्रणमामि दश क्लोट रे २ आसा पुवे
+
+रा रिवृन्द्र रे। ध्रु। राग। वायु व्याकुने महावरा वीर फरायी अनन्तरा क्लोता रा २ मराय प्रवणादिस गणपाली वरा नष्ट रिवृन्द्र ध्रु। राग। ऊ तपचक्रको माथिल्लो द्वारमा गए र त्यसपछि २ जना ब्रम्हादीहरूले गणपालीलाई मारे र रिवृन्द्र ध्रुलाई नाश गरे। राग। द्वारको प्रवेशद्वारमा सुम्भ राजा वीरा गए अनन्तर क्लोता र २ मरायी नगदीस गणपरी वर नसाया मारा रिवृन्द्र बि ध्रु। राग। दह दिग दश वर हूं करू रे प्रणामामि दश क्लट रे २ आसा पुवे
+
+Ra Rivrindra Ray. pole raga Vayu vyakune mahavara veer farai anantara klota ra 2 marai pravanadis ganapali vara destroyed rivrindra dhru. raga He went to the upper gate of the tapachakra and then 2 Brahmadis killed Ganapali and destroyed Rivrindra Dhru. raga At the entrance of the gate Sumbha Raja Veera went to Antar Klota and 2 Marayi Ngadis Ganapari Var Nasaya Mara Rivrindra Bi Dhru. raga Dah dig das var hoon karu re pranamami das clot re 2 asa puve
+
+<!-- page 18 -->
+प्रमोदिता ॥९
+दान प्रति रे मार विघन निर वारु रे ॥ ध्रु ॥ श्री वज्रसत्व आराधिया रे अनु
+त्तर सिर्द्धि मोक्ष प्रदाता ॥ ध्रु ॥ 𔓘 ॥ राग मधुमत ॥ तार व्टपः ॥ प्रमोदि
+त आदि दशभूमि सुंदरिसन मेरु मण्डलसन स्थितर यना २ द्वदश भूज्र च
+उ वदन सूसोभा वज्र वाराहि आरिंगणा २ हूँ हूँ ३ हूँ दशदिग भुवने मारस
+यर सम्वर वोधि यारे २ द्वंद आरिं गण अद्वय स्वभावनांचयि दाने सम्वर रा
+या ॥ कुरिस घण्ठ गज्र चर्म्म त्रिसुराः करति दमरु शुभ व शोभिता ॥ ध्रु ॥
+गुरु प्रमोदिता नित्य ॥
+
+प्रमोदिता ॥९
+दान प्रति रे मार विघन निर वरु रे॥ ध्रुव। हे भाग्यकी देवीका उपासक, तिमी अतुलनीय पूर्णता र मुक्तिको दाता हौ। ध्रुव। 𔓘 राग मधुमत। तार व्टपः प्रमोदिता आदि दशभूमि सुन्दरीसन मेरु मण्डलासन स्थितिरा यना २ द्वादस भुज्र चउ वदना सुशोभा वज्र वराही अरिङ्गाना २ हुम ३ हुम दशदिगा भुवने मरास यार सम्वर वोधी यारे थेरेक, थेरेलेक थेरेक, तीन देवता, डमरु, शुभ र सुन्दर। ध्रुव। गुरु सधै प्रसन्न रहनु हुन्छ।
+
+Delighted ॥9
+Kill the obstacles to charity and remove them. Dhruv. Oh worshiper of the goddess of fortune, you are the giver of incomparable perfection and liberation. Dhruv. 𔓘 Raag Madhumat. Tar Vtapah Pramodita Adi Dashabhumi Sundarisana Meru Mandalasana Sthitira Yana 2 Dvadas Bhujra Chau Vadana Sushobha Vajra Varahi Aringana 2 Hum 3 Hum Dashadiga Bhuvane Maras Yaar Samvar Vodhi Yaare Therek, Therelek Therek, Three Gods, Damru, Shubh and Sundar. Dhruv. The teacher is always happy.
+
+<!-- page 19 -->
+वंम्भ व वसुंधरा
+मद्यपूरि सतकपार खत्वांगे पास परसु व्रम्ह शिरे धरा ॥ ध्रु ॥ पंचज्रिन
+वरम कूत आरंकृत षद मूद्रा आभरन भूखिता ॥ ध्रु ॥ आलि कालि दुय
+आलिट चा प्रयि व्यार्घ चर्म्म निर्व्यसन कृष्णतनुः ॥ ध्रु ॥ नर शिर मारा रं
+व श्री सम्वर दिव्य चक्षु तिनि करुन हिदया २ ज्ररम ज्ररम मूरू भुजु प्रयिस
+चने गावन्ति पर माद्य वज्र ज्रर्म्म ॥ ध्रु ॥ आलि ढाकाय ॥ ध्रु ॥ राग ललित ॥
+तार व्टप ॥ वंम्भ व वसुंधरा पीत वर्ण्ण एक मुष विचित्रा भरन भूखनीया ॥
+वाफ स्थापं ॥
+
+बम्भा र वसुन्धराले 
+मध्यपुरीको बाटो काटेर ब्रह्मा ध्रुको टाउकोमा खट्वाङ हुँदै गए। पञ्चज्रिनाले भोकाएको ध्रुले छ वटा आसनमा झुकेर आफूलाई श्रृंगार गरे। अली काली र अलिता नपुंसकलाई समर्पित थिए जसको छाला कृष्ण ध्रुले निकालेका थिए। नर शिर मरा र्वा श्री सम्वर दिव्य नेत्र करुणा तिमीमाथि हिदया २ जरराम जरराम मूरु भुजु प्रार्थनास चने गाउँ मद्य वज्र ज्रम्मा ध्रु। अली ढाकाया ध्रु। राग ललित। टार व्टप। पहेँलो रङको बम्भा र वसुन्धराले अनौठो र भोकले भरिएको वाष्प स्थापना गर्छ।
+
+Bambha and Vasundhara 
+crossed the road to Madhyapuri and went through Khatwang on the head of Brahma Dhru. Panchajrina, hungry Dhru, bowed down in six positions and adorned himself. Ali Kali and Alita were dedicated to the eunuch whose skin was removed by Krishna Dhru. Male head Mara Rwa Sri Samvar Divine eyes Karuna You are the guidance of Hidaya 2 Jarram Jarram Muru Bhuju Pratyaas Chane Gaun Madya Vajra Jaramma Dhru. Ali Dhakaya Dhru. Raga Lalit. Tar Vtp. Yellow-colored Bambha and Vasundhara establish a strange and hungry vapor.
+
+<!-- page 20 -->
+कनक भद्र द्यट वाम कर धारि दहिन अभय मुद्रा श्वेतांवरा ॥ ॐ वज्री भव हूँ
+आः र शां त रे ॐ वज्री भव दृट तिष्ट मेदनि २ ॐ मेदनि वज्री भव वज्र वन्ध हूँ वि
+श्व भरन सयर विश्वर भवन्तु ॥ : ॥ ध्रु ॥ ए हे हिमातरि इदं मद्य पूज्रा ग्रा
+हेन्ति वज्र सत्व पूज्रिया रे २ मण्डर कर्म सूसाधय २ ह्रीँ ह्रीँ हूँ हूँ स्वाहा ॥ ध्रु ॥
+नौ मिश्री साधन दुरित पातार वृन्द्रे विविधि उपहार पूज्र यामि २ श्री साक्य सिं
+ह मुनि मार वर भंज्रन देवी श्री वसूंधरा मण्डल लक्षामि ॥ ध्रु ॥ सत गुरू चर
+
+उनले आफ्नो बायाँ हातमा सुनको गहना र दाहिने हातमा सेतो पोशाक धारण गर्छिन्। ॐ वज्री भव हम आह रा शांता रे ॐ वज्री भव दृष्ट तिष्ट मेदनी २ ॐ वज्री भव वज्र वन्धा हम विश्व भरण सयार विश्व भवन्तु। : ॥ ध्रुव। हे जाडोकी आमा, यो घाँसले पूजा गर्ने रक्सी हो, जसलाई वज्र र सत्वले पूजा गर्छिन्। ध्रुव। म नौ मिश्रित साधनहरू, दुष्टताको रक्षक, वृन्द्रा र विभिन्न उपहारहरूको पूजा गर्छु। ध्रुव। सत गुरु चार
+
+She wears a gold ornament in her left hand and a white dress in her right hand. Om Vajri Bhava Hum Aah Ra Shanta Re Om Vajri Bhava Drishta Teesta Medani 2 Om Vajri Bhava Vajra Vandha Hum Vishwa Bharan Sayar Vishwa Bhavantu. : ॥ Dhruva. ​​O mother of winter, this is the liquor worshipped with grass, which is worshipped with Vajra and Sattva. Dhruva. ​​I worship the nine mixed instruments, the protector of evil, Vrindra and various gifts. Dhruva. ​​Sat Guru Char
+
+<!-- page 21 -->
+निर्म्मा नां वुज्र ॥ ११
+ण कसर शिरेगत धरिया २ गा वम्ति आचार्य्य संघसा २ भुमि शोधन विधि तस्य
+फरदं सर्व्व सत्वहिया संसार तरणे ॥ ध्रु ॥ ॥ राग भैरवि ॥ तार टप ॥ नि
+म्मी नां वूज्र मध्यगत कर सापं वा मृत रस पूरिता २ विधं मय गर्व्वित पंञ्च प
+रवा नीर वर्ण्णर शिर सिथा पिया ॥ हूँ हूँ हूँ कर हू वज्राचार्य्य मन्त्री विन्यासिता
+कर्म्म वज्री सहीतन प्रज्ञा स्वरुपि ॥ ध्रु ॥ वज्र सिक्षाम परिपूर्ण्ण हे भूना भवस
+मूद्रा सलन त्रिसरणा ॥ ध्रु ॥ पूर्व्व दरगत पंञ्च सुत्र सरज्रिता पंचविंस
+रंग थायं ॥
+
+निर्म्म वुज्र हो। ११ 
+ण कसर श्रीगत धारीय २ ग वाम्ती आचार्य संघा २ भूमि शुद्धिकरण अनुष्ठानहरू उहाँको लागि सर्पको सबै कल्याण भौतिक संसारलाई बचाउन प्रयोग गरिन्छ। ध्रुव। ॥ राग भैरवी ॥ तर तप ॥ मेरो हातको बीचमा एउटा सर्प छ, र म मृत रसले भरिएको छु। हम हम हम दो हम वज्र-आचार्य मन्त्री वज्र-व्यवस्थित कर्म वज्र सहतान प्रज्ञा स्वरूपी ध्रुव। हे वज्र, हामीले सिद्ध हुन सिकेका छौं, हे भूण, तपाईं त्रिगुणात्मक आन्दोलनको छाप हुनुहुन्छ। ध्रुव। पूर्व गुफामा पाँच धागोहरू पच्चीस रंगहरूले ढाकिएका छन्।
+
+Nirmma Vajra. 11
+ṇ kasar śrīgata dhārīya 2 ga Vāmti Āchārya Sangha 2 land purification rituals are used for him, the serpent, to save all welfare of the material world. Dhruva. ॥ Rāga Bhairavi ॥ But penance ॥ In the middle of my hand there is a serpent, and I am filled with dead essence. Ham ham ham do ham Vajra-Āchārya minister Vajra-arranged action Vajra Sahatāna wisdom-formed Dhruva. O Vajra, we have learned to become accomplished; O Bhūṇa, you are the mark of the threefold movement. Dhruva. In the eastern cave, five threads are covered with twenty-five colors.
+
+<!-- page 22 -->
+तिभे दित बुध काय २ दक्षिन दरगत वज्र खस मरु पं त्रिभुवन समरस
+शोपाय विशुर्द्धि ॥ ध्रु ॥ पश्चिम दरगत शंख संशोधिता धवर वर्ण्ण भा
+ज्रना २ उत्तर दरगत घण्ठ घो खनादिता ज्ञान स्वरुपिनी विश्व ज्रननि ॥
+॥ ध्रु ॥ अग्न्यादि दरंगत श्वेत पितारुणा श्याम वर्ण्ण रज्र थापियारे ॥ पुष्पा
+विन्यासिता विधंमय पुज्रिता प्रणमामि वज्रसत्व सिर साधिता ॥ ध्रु ॥
+॥ राग मधुमत ॥ तार व्टप ॥ क्व ॥ वज्रधर पंञ्चवुर्द्ध रायगत वर भूपस
+
+तिभे दिता बुध काया २ दक्षिण दगत वज्र खस मारु पाम त्रिभुवन समरस शोपाय विशुद्धि। ध्रुव। पश्चिमी गुफामा रहेको शंखको शंख परिमार्जित छ, र यसको रंग सेतो छ। ॥ ध्रुव। आगो र अन्य गुफाहरू सेतो, पितृ-रातो, कालो रंगको र धूलो रंगको छन्। म भगवानलाई मेरो सम्मानपूर्वक प्रणाम गर्दछु, जसको शिर बज्र जस्तै छ। ध्रुव। ॥ राग मधुमत ॥ तर व्त्प ॥ यो कहाँ छ? वज्रधर पंचवुर्ध रायगत वर भूपास
+
+Tibhe dita Budha Kaya 2 Dakshina Dagat Vajra Khas Maru Paam Tribhuvan Samaras Shopaya Vishuddhi. Dhruva. ​​The conch shell in the western cave is modified, and its color is white. ॥ Dhruva. ​​The fire and other caves are white, pitra-red, black in color and dusty in color. I respectfully bow to the Lord, whose head is like a thunderbolt. Dhruva. ​​॥ Raga Madhumat ॥ Tar Vtpa ॥ Where is it? Vajradhara Panchavurdha Rayagata Vara Bhupas
+
+<!-- page 23 -->
+मुद्रा २ ज्रा ॥ मण्डल सुत्र सं प्रार्थना सांज्र लिखमिब भाबे समं ॥ क्व ॥ शाश्वत
+बज्र सुत्र मे प्रयछः मण्डर सुत्र सं प्रार्थयामि ॥ ज्रा ॥ सिंहासना स्थित पुर्ण्ण
+चन्द्र द्युतिबर अभिमंत्र सुख फरदायधि ॥ क्व ॥ ध्रु ॥ रत्नाधृकपीत
+बर्ण्ण दहिन बरद कल अस्वारूढ बिचाज्रिता २ ॥ ज्रा ॥ महामण्डल भूमि
+सुत्र नाय हूँ २ आरोरिक दहित लिर्द्धिसिर्द्धि ॥ ध्रु ॥ ज्रा ॥ धर्म्म बज्रि र
+र्क्त बर्ण्ण मयूरासन स्थित ध्यान मूद्रा अम्वूनाथ २ ज्रा ॥ सुत्र पातनमे शोध
+
+मुद्रा २ जेरा। मण्डला सुत्र सम् प्रार्थना संज्रा लिखमिभ भबे समम। यो कहाँ छ? म प्रार्थना गर्दछु कि तपाईंले मलाई अनन्त गर्जनको धागो र मन्दारा धागो दिनुहोस्। जेरा। सिंहासनमा विराजमान भएको पुर्णिमा अति तेजस्वी छ। यो कहाँ छ? ध्रुव। रत्नधारकपिता बर्णा दहीं बराद कला अश्वरुध बिचजृत ज्रा। महामण्डला भूमि सुत्र नय हम २ आरोरिक दहित लिरद्धिसरधि। ध्रुव। जेरा। धर्म बजरी रक्त बर्ण मयूर आसन ध्यान मुद्रा अम्वुनाथ २ ज्रा। सूत्र ड्रपिङमा अनुसन्धान
+
+Mudra 2 Jera. Where is this? Dhruva. Ratnadharaka yellow in color granting boons, mounted on a horse, adorned with bija. Mahamandala, ground, sutra, nay hum 2, aarorik, burning, lirdhi-saradhi. Dhruva. 2. Dharma Vajri, red in color, peacock seat, meditation mudra, Amvunath 2. In the sutra draping, contemplation.
+
+<!-- page 24 -->
+य दानप्रति संरक्षता ॥ ध्रु ॥ क्व ॥ कर्म्म बिज्रि ज्रिनबर अभय मूद्रा धर
+गरद्रासन स्थित रना २ ततोज्ञान बिज्ञान सिर्द्धि बर महामण्डल सुत्रया
+मि ॥ ध्रु ॥ ❈ ॥ राग मधुमत ॥ तार झप ॥ समीरय हूँ कः कमर निचल
+ज्रर सुवर्ण्ण चरज्रर ज्रबन २ पस्फूरित दिन मनिसाय रगौलि मष्ठ
+कतनु जुगरिनगति ॥ ॐ आः हूँ हूँ २ मुन्द्र मार ब्यार्घ चर्म्म भूखि
+तखट मूद्रा हा हाँ कारभैरब बला २ ज्वलित कुरिस घण्ठस्ठ दुतर दिभु
+
+जो परोपकार विरुद्ध रक्षा गर्दछ। ध्रुव। यो कहाँ छ? कर्म, चट्याङ, ज्रिन्बरा, निर्भयता, मुद्रा धारण, गलामा बसेर लड। ध्रुव। ❈ राग मधुमत। तार झाप। म सास फेर्छु, जसको कम्मर तल्लो छ, सुनौलो, मनमोहक, जलिरहेको ओम आह हम हम २ मुन्द्रा मार ब्यार्गा चर्म्मा भुखी तख्त मुद्रा हा हा कारभैरब बाला २ ज्वलित कुरिस घनस्थ दत्तर दिभु
+
+He who protects against harm to others. Dhruva. Where is this? Karma, lightning, jrinbara, fearlessness, holding the mudra, sit at the throat and fight. Dhruva. ❈ Rāga Madhumat. Tāra Jhāpa. I breathe, whose waist is low, golden, enchanting, burning, Om Ah Ham Ham 2 mudra māra byārga charmma hungry throne mudra ha ha Kārabhairava child 2 blazing kurisa dense giver divhu
+
+<!-- page 25 -->
+ज्रे हरूके आरिंगण आरिट प्रदं २ बिश्व बिधक सिय अर्द्ध चन्द्रन रसं खँसे
+षरसोहिय नादरं २ दशदीग प्रशादि रे मारबीरेश्वर त्रिबर्क्त भिख बेदमु
+खं २ समरस महासुह वोधियना ॥ नातकरगण समर भूवे अबधुबय्र
+बिसयि सहज्रा श्री सम्वर अनूत्तर गगण समर भूवे ॥ ध्रु ॥ ❈ ॥ राग भै
+रवि ॥ टार दुर्ज्जमान ॥ नम हुँ कारुण देह धरु २ सेछयिसत्व उतार मरू व
+तेना हूँ २ तेना ते ते हूँ ॥ धवर सुसंखिय देह धर २ सोर दस्व हियकार सरु
+
+जे हारुके अरिंगणा आरित प्रदम् २ विश्व विधाक सिया अर्द्ध चन्द्राणा रसम खंसे षार्षोहिया नादरा २ दशदिग प्रशादि रे मारवीरेश्वर त्रिवर्ता भिखा बेदामु खम २ समरसा महासुहा वोधियाना । नाटककारहरू र अब्दुबैर बिसायी सहज्र श्री सम्वर अनुत्तरा गगन समरा भुवे बीच युद्ध भयो। ध्रुव। ❈ राग भाइ रवि। तार दुर्जमान। हे दयालु, म तिमीलाई प्रणाम गर्छु, आफ्नो शरीरलाई धारण गर्नुहोस् २. सेछ्यसत्व हटाउ र मर्नुहोस्। धवर सुसंखिया देह धार २ सोर दसव हियकर सारु
+
+Those whose arena is arranged first 2, universal method, siyaa, half-moon essence, khaṃse, ṣārṣohiya nādara 2, pleasing the ten directions O Māravīreśvara, threefold turning, alms, without division, khaṃ 2, sameness, great bliss, Bodhiyāna. The dramatists and Abdubair Bisāyī, Sahajra Śrī Saṃvara Anuttara like the sky, a battle occurred between the worlds. Dhruva. ❈ Rāga Bhairavi. Tāra Durjaman. O compassionate one, I bow to you; hold the body 2. Remove the sentient beings and die. Dhavara, well-numbered, holding the body 2, essence of the ten sounds of the heart.
+
+<!-- page 26 -->
+व ॥ ध्रु ॥ द्वंद आरिंगण ज्रोग धरू २ बज्र घ्रण्ठ समुद्रातार मरव ॥ ध्रु ॥
+माया वृन्देरी नज्रग्यौ २ सोहियं बज्र सत्व पमेश्वर ॥ ध्रु ॥ ❈ ॥ राग मधु
+मत ॥ टार झप ॥ त्रिचक्रर बिससि मण्डल माझ स्थिति आनंद्र मुरुति धरा
+२ बज्रबाराहि आरिंगण सम्वर नानालस निस्तर हूँ हूँ ज्रोरा २ तेना हूँ २ ते
+ना हूँ २ तेना ते ते हूँ ज्वरा ॥ निर बर्ण्ण चतुबर्क्त प्रतिमुख त्रिनेत्रर परमा
+आनन्द मुरुति धरा ॥ ध्रु ॥ विश्व बज्र अर्द्धचन्द्र ज्रता सकुत धर हा ड आ
+
+विक्रेता। ध्रुव। द्वन्द अरिङ्गन जरग धरु २ बज्र घर्ठा समुद्रतार मारवा। ध्रुव। माया वृन्दिरि नजरग्यौ २ सोह्यम् बज्र सत्व पामेश्वर ध्रुव। ❈ राग मधु मत। तार झाप। त्रिचक्ररा बिसासी मण्डला माझ स्थति आनन्द मुरुति धारा २ बज्रबाराही अरिंगण सम्वरा नानालास निस्तार हु हु जरो २ तेना हु २ तेना हुरा २ तेना ते हु ज्वरो । पृथ्वी सबै सुखको स्रोत हो। ध्रुव। विश्व बज्र अर्धचन्द्र ज्राता शकुत धर हद आ
+
+Vendor. Dhruva. Dual arena, hold firmly 2, Vajra bell, ocean-crosser, Māravā. Dhruva. Illusory cluster, not seen 2, Sohyam Vajrasattva Pāmeśvara. Dhruva. ❈ Rāga Madhumat. Tāra Jhāpa. Three circles, trusted maṇḍala, abiding in the middle, stream of blissful form 2, Vajravārāhī, arena, Saṃvara, various delights, liberation hu hu jaro 2, tena hu 2, tena hurā 2, tena te hu jvaro. The earth is the source of all happiness. Dhruva. Universal Vajra, half-moon, knower, bearing power
+
+<!-- page 27 -->
+भरन सुशोभिता ॥ ध्रु ॥ बज्रघण्ठ गज्र चर्म्म डमरू खत्वार्ग धर बिरमा
+आनन्द्र मुरूतिधरा ॥ ध्रु ॥ करति कपार खत्पर सुपासधर त्रिसुरब्र
+म्ह शिरेधरा ॥ ध्रु ॥ दिगंबि दिगंका कास्या दिगज्रर्म्मादाः दियारे सहज्रा
+नन्द मुरूति धरा २ नमामि २ श्री चक्रसम्बर सतगुरुचन आराधियारे ॥
+॥ ध्रु ॥ ❈ ॥ थने ॥ शिष्य धरंदंके ॥ महाबलि दिगुबलि बियबलि चचा ॥
+हूँ हूँ दे ह हा रे ॥ चक्रिकुण्ड ॥ समयाचक्र ॥ पा २ मधितय मार ॥ ❈ ॥ इति
+
+भरण सुशोभिता। ध्रुव। तिनले वज्र, हात्तीको छाला, खैँज, तरवार, तरवार, तरवार, तरवार र आनन्दको आकृति धारण गर्छिन्। ध्रुव। उनले आफ्नो शिरलाई तरवार बनाउँछिन्, तरवार समात्छिन्, र त्रिसुरब्रको शिर धारण गर्छिन्। ध्रुव। हे दिगम्बी, दिगंका, कास्य, दिगज्रा, र्ममादा, दियारे, सहज्रा, नन्द, मुरुति, धरा, हे श्री चक्रसाम्बा, भगवान् परमात्माको उपासना गर्ने परमात्मालाई म नमन गर्दछु। ॥ ध्रुव। ❈ ठाणे। शिष्य धरान्दाके। महाबली दिगुबली बियाबली चाचा। हामी हामी देख हा रे। चक्रीकुण्ड। समयचक्र। प २ माधितय मार ❈ अहिलेसम्म
+
+Bharan is beautiful. Dhruva. ​​She takes the form of a thunderbolt, an elephant skin, a tambourine, a sword, a sword, a sword, a sword, and Ananda. Dhruva. ​​She makes her head a sword, holds a sword, and wears the head of a trisurabra. Dhruva. ​​O Digambi, Diganka, Kasya, Digajra, Ramada, Diyare, Sahajara, Nanda, Muruti, Dhara, O Sri Chakrasamba, I bow to the Supreme Soul who worships the Supreme Soul. ॥ Dhruva. ​​❈ Thane. Disciple Dharandake. Mahabali Digubali Biyabali uncle. Yes yes see yes. Chakrakunda. Time cycle. P2 Madhitaya Mar ❈ Ahilesam
+
+<!-- page 28 -->
+किरण चचा थुति ॥ ❈ ॥ देखाया मण्डल प्रतिस्थाया न्हि क्रियायाच चाहा रे थु
+ति ॥ मध्यमेरु ॥ आदिशुन्य ॥ अनुत्तर ॥ चर्क्तवर्ण्ण ॥ गोकुडह ॥ ❈ ॥ थुति धू
+नेव किरनपूज्रा ॥ गीतादि अवननि हा रे ॥ थन ॥ मण्डलस पुज्रा याय ॥ गीत ॥
+॥ राग ॥ ताल दुर्ज्जमान ॥ मण्डल समय चक्रमण्डर संपुर्ण्ण द्वादशे भुज्रच वुचा
+पियारे २ ज्रानन्तु करुणे श्री सम्बर योगिनि ॥ श्री यंबाछरादे बितारुनिया ॥ ध्रु ॥
+डाकिनी रामाखण्ड लोहारुपिनी चारिमारच वुच पियारे ॥ ध्रु ॥ काय बाक चि
+
+किरण चाचा थुटी। ❈ देख्या मण्डला प्रतिष्ठा न्ही क्रियायच चाह रे थु ति। मध्यमेरु। आदिशुन्या। अनुत्तरा। चरकवरण। गोकुडा। ❈ थुटी धु नेवा किरणपूजरा। गीतादी अवनानी हा रे। भन्दा मण्डल पुजरा यया। गीत। ॥ राग। लय दुर्जमान। समयको चक्र, चक्रको चक्र, बाह्रौं हातमा पूरा हुन्छ। श्री यम्बच्रदे बितारुनिया। ध्रुव। बोक्सी, रामखण्डा, फलामको रूपमा, आफ्नी प्यारी पत्नीलाई भनिन्, "चरिमार्च।" ध्रुव। बाकी के छ चि
+
+Kiran Uncle Thuti. ❈ See Mandala Pratishtha Nhi Kriyayach Chah Re Thu Ti. Madhyameru. Adishunya. Annuttara. Charakvaran. Gokuda. ❈ Thuti Dhu Newa Kiran Pujara. Gitadi Avanani Ha Re. Rather than Mandal Pujara. song. ॥ Passion. The rhythm is bad. The cycle of time, the cycle of cycles, is completed in the twelve hands. Sri Yambachrade Bitaruniya. pole. The witch, Ramkhanda, as an iron, said to her lovely wife, "Charimarch." pole. The rest is salt.
+
+<!-- page 29 -->
+त्र त्रिनिभुवने दानप्रतिया शुभ अवतारु रे ॥ ध्रु ॥ योग योगिणिमेरिया समर
+संभावे अष्टस्म स्वाने श्री हेरुवा ॥ ध्रु ॥ ❈ ॥ थन ॥ दिग पूज्रा याय ॥ ❈ ॥
+॥ राग भैरवि ॥ तार दुर्ज्जमान ॥ पुर्व्व दिगांचने चंद्रग्रह स्मस्वाने देबि ब्रम्हायनि
+हं सासनि २ भैरब महाकार गणपति कुमार बिरक्ष क्षत्रपार यक्ष यस्क्षनी ॥ पूज्रि
+याते ममअलि बलि रुधिराः चौसथि ज्रोगिनि मात्रिगना २ रुद्र भूवन श्री अष्ट स्म
+स्वाने भूत प्रेत पिशाचणा ॥ ❈ ॥ उत्तर दिगांचन ग्रहोर स्मस्वाने देबिरूः
+
+हे शुभ अवतार, कृपया तीनै लोकलाई दान दिनुहोस्। ध्रुव। योग योगिनीमेरिया समरा सम्भवे अष्टस्मा स्वाने श्री हेरुवा। ध्रुव। ❈ ॥ थान ॥ दिग पूजा याया ॥ ❈ ॥ ॥ राग भैरवी ॥ तारा दुर्जमन ॥ हे देवी, तपाईं पूर्व दिशामा अवस्थित हुनुहुन्छ, र तपाईं चन्द्रमा-देवी हुनुहुन्छ। तपाईं ब्रह्माकी आमा हुनुहुन्छ। जब उपासक मेरोमा गए, अली, बली, रक्त, चार, बिरामी, आमा, २, रुद्र, भुवन, श्री, आठ, स्वाने, भूत, पिशाच र राक्षस। ❈ ॥ स्मस्वाने ग्रहको उत्तर दिशामा देबिरु।
+
+O auspicious incarnation, please give charity to all the three worlds. Dhruva. ​​Yoga Yoginimeria Samara Sambhav Ashtasma Swane Shri Heruva. ​​Dhruva. ​​❈ ॥ Than ॥ Dig Puja Yaya ॥ ❈ ॥ ॥ Raga Bhairavi ॥ Tara Durjaman ॥ O Devi, you are situated in the eastern direction, and you are the Moon-Goddess. You are the mother of Brahma. When the worshipper went to me, Ali, Bali, Blood, Four, Sick, Mother, 2, Rudra, Bhuvan, Shri, Eight, Swane, Ghost, Vampire and Rakshas. ❈ ॥ Smswane Deviru in the northern direction of the planet.
+
+<!-- page 30 -->
+श्री ३
+ॐ नमो श्री गुरु बज्र सत्वाय ॥
+॥ ॥ राग मधुमत ॥ ॥ प्रमोदित आदि दश भुमि सु
+न्दरी सनमेरुमण्डल सनस्थितर यना ॥ द्वादश भुज्र
+चड बन्दन सुशोभा बज्रबाराहि आलिगणा ॥ ॥
+हूँ हूँ हूँ ३ दशदिग भुवने मारसयर सम्बर वोधिया
+रे २ द्वंद आलिगन अद्वय शोभाबे नाञ्चयी दाने सम्ब
+र वोधि यारे ॥ ॥ कुलिस द्यण्ड गक्र चर्म्म त्रिशुचा कचर्त्ति
+डमरु शुभ शोभिता २ माझे पुरिसत कपार खत्व्हांग पाशप
+र शुब्रम्ह शिचधरा ॥ ॥ पञ्चमित बर मकुट आत्मं कृत
+षट मुद्रा आभरण भुषिता २ आलिकालि दुयि आरीद्ध
+पापयि व्याघ्र चर्म्म निवेसन कृष्णुतनु ॥ ॥ नरसिर
+मार आलंभ श्री सम्बर दिव्य चक्षु त्रिणि करुण हिदया २
+ज्ररम क्ररमो गुजु पयिशरणे गावन्ति परमाद्य बज्र
+गीता ॥ ० ॥ ध्रुबा ॥ हूँ हूँ हूँ ३ ॥ ॥ ॥
+
+३ ओम नमः श्री गुरु बज्र सत्वय ॥ 
+॥ ॥ राग मधुमत ॥ ॥ पृथ्वीमा स्थित सूर्यदेव धेरै सुन्दर हुनुहुन्छ। उहाँका बाह्र हात छन् र उहाँ बन्दनाले सजिएको छ। ॥ 
+हम हम ३ पृथ्वीको दश दिशामा, हे मर्स्यार, तपाईं सबै सुखको 
+स्रोत हुनुहुन्छ। ॥ कुलिष द्यण्ड गक्र चर्म त्रिशुच 
+कचर्ति दमरू शुभ रूपमा सजिएको ॥
+पाँचौं पट्टी मुकुट आफैले बनायो
+अलंकारले सजिएको छ मुहर २ आलिकाली दुइ आरिद्ध
+हे पापी, बाघको छालाले ढाकेको कालो शरीर छ। ॥ नार्सिसस
+मार आलम श्री सम्भर दिव्य नेत्र त्रिनि करुणामय हृदय
+जरराम क्ररामो गुजु पयिशरणाने गवन्ति परमद्य बजरा
+गीता। ० ध्रुव। हम हम हम 3 ॥ ॥
+
+Om, obeisance to the revered Guru Vajrasattva.
+Rāga Madhumat
+The Sun God situated on the earth is very beautiful.
+He has twelve arms and is adorned with ornaments.
+Hum Hum Hum
+In the ten directions of the earth, O Lord, you are the source of all happiness.
+Adorned with vajra, staff, discus, skin, trident, and damaru (drum), in an auspicious form.
+The fifth-tier crown is self-made.
+Decorated with ornaments and seals.
+O sinner, the dark body is covered with tiger skin.
+Glorious Sambhara, possessing three divine eyes, with a compassionate heart.
+... (the remaining lines contain several words that are unclear or corrupted in the provided text and cannot be translated reliably without the original manuscript)
+Dhruva (Refrain):
+Hum Hum Hum.
+
+<!-- page 31 -->
+द्रायनि बृख बाहनी ॥ ❈ ॥ पश्चिम दिगांचन ज्वाराकुर स्मस्वानेदेवी इन्द्राय
+नि गज्रबाहनी ॥ ❈ ॥ दक्षिन दिगांचन करंकर स्मस्वानेदेवी वाःराहि म
+ही खासनी ॥ ❈ ॥ अग्ने क्वणे घोरान्धक स्मस्वानेदेवीको मारिमयूरासनी
+॥ ❈ ॥ नैऋत्य कोणे लक्ष्मिवन्त स्मस्वानेदेवी चामुन्द्रा प्रेतासनी ॥ ❈ ॥
+बायुब्य कोणे किरिंकर स्मस्वानेदेवी चामुन्द्रा प्रेतासनी ॥ ❈ ॥ इशान को
+णे अष्टहास स्मस्वानेदेवी महालक्ष्म सिंहासनी ॥ ❈ ॥ ❈ ॥ थन ॥ देव
+
+द्रयणी बृख बाहानी ॥ ❈ ॥ भाग्यकी देवी, जसको हात हात्ती जस्तै छ, ले पश्चिम दिशामा इन्द्रलाई आफूलाई अर्पण गरिन्। ❈ ॥ दक्षिण दिशा करणकर, स्मस्वनेदेवी, वह्राही, खसानी हो। ❈ ॥ हे अग्नि, तिमी सबैभन्दा भयानक छौ, र तिमी भाग्यकी देवी हौ। ❈ ॥ दक्षिणपश्चिम कुनामा भाग्यकी देवी लक्ष्मीवन्त छिन्, जो मृतकको आसनमा बस्छिन्। ❈ ॥ देवी चामुन्द्रा आफ्नो हातको कुनामा मृतकको आसनमा बसेकी थिइन्। ❈ ॥ उत्तरपूर्व कुनामा आठ मुस्कुराइरहेकी देवी महालक्ष्म छिन्, जो सिंहासनमा बस्छिन्। ❈ ॥ ❈ ॥ ❈ ॥ थन ॥ भगवान
+
+Drayani Brikha Bahani ॥ ❈ ॥ The goddess of fortune, whose hands are like elephants, offered herself to Indra in the western direction. ❈ ॥ The south direction is Karankara, Smaswanedevi, Vahrahi, Khasani. ❈ ॥ O Agni, you are the most terrible, and you are the goddess of fortune. ❈ ॥ In the southwest corner is the goddess of fortune Lakshmivanta, who sits on the seat of the deceased. ❈ ॥ Goddess Chamundra sat on the seat of the deceased in the corner of her hands. ❈ ॥ In the northeast corner is the eight-smiling goddess Mahalakshma, who sits on a throne. ❈ ॥ ❈ ॥ ❈ ॥ THAN ॥ Bhagwan
+
+<!-- page 32 -->
+पूज्रा याय ॥ गीतादि धुप चचाः ॥ त्रिचक्र ॥ बलि चचा ॥ स्वांकितंके ॥ गु
+रु पुज्रा ॥ देन्हादं २४ मण्डरे तय ॥ म्हयातं काय ॥ पंचाकुस ॥ समया चक्र
+काय ॥ ❈ ॥ थुति न्हि किला जुर ॥ ❈ ॥ थन ॥ अधि बासन ॥ दनके ॥ ❈ ॥
+॥ थ्वयारीव चाकिरा जुय ॥ शिष्य स्वने ॥ किमण्डर दंके ॥ धुप थना प्रदक्षिणा
+॥ ❈ ॥ दिग पूज्रा याय ॥ गीतादि चंद्रग्रह स्मस्वान ॥ ❈ ॥ राग भैरवि ॥ ता
+र षटुर्कगा ॥ चन्द्रग्रह स्मस्वाने सिरस बृक्षा बासुकि नागा गर्ज्रित मेघा २
+
+पूजा गर्न। गीता र अन्य धूप चाच त्रिचक्र । बलि चाच । स्वांकितंके । गु रु पुज्रा । उनी देन्हा २४ गए र मन्दरे लिए। शरीर लिए। पञ्चकुसा । समयको चक्र लिए। ❈ । थुति न्हि किला जुर । ❈ । यहाँ । अधि निवास । दंके । ❈ । ॥ यो यह्यारीको सेवक बन्यो। स्वाने शिष्य । किमन्दर दंके । धूप हेर्दै। ❈ । उनी चन्द्रमाको पूजा गर्छन्। चन्द्रमा र गीता जस्ता ग्रहहरू ❈ । राग भैरवी । ता र शतुरकाग । चन्द्रमा स्मस्वाने सिरस रूख बासुकी सर्प गर्जने बादल
+
+Worship. Geeta and other incense sticks in the three circles. Sacrifice. Owned. Guru worship. He gave 24 years to the temple. He took the body. Panchakusa. He took the time cycle. ❈ . He did not spit on the fort. ❈ . Here. He resides. ❈ . ॥ He became the servant of Yahyari. His disciple. He took the temple. He saw the incense. ❈ . Worship of the moon. Moon and Geeta are the planets. Raga Bhairavi. There is a snake in the moon. Smiling the moon, Siras Rukh Vasuki, the serpent roaring clouds
+
+<!-- page 33 -->
+ग्रहोर स्मस्वाने अश्वक बृक्षा घूनित मेघातक्षक नागा ॥ ❈ ॥ इन्द्र ज्रर्म्म
+ज्ररेंद्रबंन्हि घायु राक्षसा दिगविदिगं चरिदेव तिरे ॥ ❈ ॥ अष्ट स्मस्वाने
+छतिसंवीरेश्वर नाचयि सहज्रा आनन्द्र रे ॥ ❈ ॥ कंकरि घोरा बतित
+मेघा ज्वाराकुर स्मस्वाने र्कक्वतक नागा ॥ ❈ ॥ करंकलि बाराबर्ण्णक मेघा
+सरसिज्र नागा चुतक बृक्षा ॥ ❈ ॥ अष्टहास स्मस्वाने शंखपार नागा प्रच
+न्द्र मेघा बत्रमहिरुहा ॥ ❈ ॥ लक्ष्मिवंत स्मस्वाने करज्रर बृक्षा घुनितमे
+
+ग्रहहरू झुण्डिरहेका छन्, घोडाहरू झुण्डिरहेका छन्, रूखहरू झुण्डिरहेका छन्, बादलहरू झुण्डिरहेका छन्, र सर्पहरू झुण्डिरहेका छन्। ❈॥ स्वर्गका राजा इन्द्रलाई चारैतिर घुमिरहेका राक्षसहरूले मारे। ❈॥ हे वीरहरूका स्वामी, तपाईं आठौं आकाशमा नाच्नुभयो, र तपाईं धेरै खुसी हुनुभयो। ❈॥कंकडहरू भयानक छन्, बादलहरू उडिरहेका छन्, ज्वारभाटाहरू उम्रिरहेका छन्, र सर्पहरू उडिरहेका छन्। ❈॥ त्यहाँ करंकली, बारावर्णक, मेघ, सरसिज्रा, नाग र चुटक नामक रूखहरू छन्। ❈॥ आठवटा मुस्कानहरू थिए, र शंख आकारका सर्पहरू, चन्द्रमा, बादल र रूखहरू थिए। ❈॥ लक्ष्मीवंत स्मस्वाने करज्जर रूखले टोक्यो।
+
+The planets are hanging, the horses are hanging, the trees are hanging, the clouds are hanging, and the snakes are hanging. ❈॥ The king of heaven, Indra, was killed by the demons roaming around. ❈॥ O lord of heroes, you danced in the eighth heaven, and you became very happy. ❈॥ The pebbles are terrible, the clouds are flying, the tides are rising, and the snakes are flying. ❈॥ There are trees called Karankali, Baravarnaka, Megh, Sarsijra, Nag and Chutak. ❈॥ There were eight smiles, and there were conch-shaped snakes, the moon, clouds and trees. ❈॥ Laxmivant Samswane was bitten by the Karajjar tree.
+
+<!-- page 34 -->
+घा महापर्द्मनागा ॥ ❈ ॥ घोरांधक स्मस्वाने पभुक बृक्षा अनन्तनागापुर
+नरमेघा ॥ ❈ ॥ किरिं २ बारा अजुन बृक्षा कुरिकनागा वर्षन मेघा ॥ ❈ ॥
+॥ द्वादस भूज्र द्वादश नयना चतुब्रम्ह बदना द्वादश नयना ॥ ❈ ॥ भनयि
+कर्ण्णपा राखहु सम्वरे कारि रात्रि रिपुचापयि बदना ॥ ❈ ॥ ❈ ॥ थन ॥
+गुरु मात्रा थायसं विज्याय ॥ गुरु मण्ड त्रिसमाधि दना ॥ सिन्ह मोहनि साधं
+॥ ज्राय धुप पूज्रा ॥ ❈ ॥ पिन्य किन स्वान बोय देवदेवी स्वरुपनं त्रोत्र क्षमा
+
+घ महापर्दमनागा ॥ ❈ ॥ आकाशमा भयानक अँध्यारो छ, र अनन्तनागा शहरका रूखहरू बादल जस्तै छन्। ❈ ॥ किरीम २ बाह्र अजुन् रूखहरू कुरिकानागा वर्षा बादलहरू। ❈ ॥ ॥ ॥ उनका बाह्र हात, बाह्र आँखा, चार ब्रह्मामुख र बाह्र आँखा छन्। ❈ ॥ हे कानका रक्षक, कृपया मलाई रातमा न्यानो राख्नुहोस्। ❈ ॥ ❈ ॥ ❈ ॥ थान ॥ गुरु मात्रा थयसम विजया। गुरु मण्ड त्रिसमाधि दान ॥ सिंह मोहनी साधम ॥ जराया धुपा पुज्रा ॥ ❈ ॥ पिन्या किन हंस केटा देवी रूप त्रोत्र क्षमा
+
+Mahāpardama Nāgā❈
+In the sky there is terrifying darkness, and the trees of the city of the infinite Nāgas are like clouds.❈
+Kirim, Kirim, twelve Arjuna trees, Kurikā Nāga rain-clouds.❈
+He has twelve hands, twelve eyes, four Brahmā faces, and twelve eyes.❈
+O protector of the ears, please keep me warm during the night.
+❈ ❈ ❈
+Thān
+Guru mantra, thus victorious.
+Guru maṇḍala, the gift of the three samādhis.
+Lion-enchanting sādhana.
+Incense offering and worship.❈
+Pinyā Kin Haṃsa boy, goddess-form, praise, forgiveness.
+
+<!-- page 35 -->
+पन ॥ ❈ ॥ थन ॥ नंदि नमस्कार ॥ ताल्हाय ॥ ग्यांकुरुछाय ॥ ❈ ॥ ❈ ॥
+ॐ नमः श्री वज्रसत्वाय ॥ ॐ नम श्री चक्रसंवराय ॥ ॐ नमः श्री नृत्यश्व
+राय ॥ धवर सुधामय २ ॥ क्वरा ॥ बाज्रा ॥ क्वरा ॥ ❈ ॥
+॥ ❈ ॥ कमरबरे ॥ समुद्वित २ ॥ त्रेज्र ॥ ज्राव ॥ ❈ ॥
+॥ ❈ ॥ सहस्रकरे ॥ समरसं २ ॥ भाव ॥ क्वरा ॥ ❈ ॥
+॥ ❈ ॥ समाधिगुन ॥ ❈ ॥ अद्वय २ ॥ ज्ञान ॥ ❈ ॥ ज्राव ॥ ❈ ॥
+
+प्यान। ❈ भन्दा नन्दी नमस्कार। तल्ह्या। ज्ञानकुरुचाय। ❈ ❈ ॐ नमः श्री वज्रसत्वाय। ॐ नमः श्री चक्रसंवराय। ॐ नमः श्री नृत्यस्व राय। धवरा सुधामाया २ क्वारा। बाजरा। क्वारा। ❈ ॥ ❈ कमराबारे। समुद्वित २। ट्रेजरा। ज्राव। ❈ ॥ ❈ सहस्राकरे। समरसम् २। भव। क्वारा। ❈ ॥ ❈ समाधिगुन। ❈ अद्वय २। ज्ञान। ❈ ज्राव। ❈
+
+Pan. ❈ Greetings from Nandi. Talhya. Jnanakuruchaya. ❈ ❈ Om Namah Sri Vajrasatvaya. Om Namah Sri Chakrasamvaraya. Om Namah Sri Nrityasva Raya. Dhavara Sudhamaya 2 Quara. Millet. Quara. ❈ ॥ ❈ About the room. Samudvit Treasurer. Jrav. ❈ ॥ ❈ Sahasrakare. Samarasam be. Quara. ❈ ॥ ❈ Samadhigun. ❈ Advaya Knowledge. ❈ Jrav. ❈
+
+<!-- page 36 -->
+॥ ❈ ॥ सुसरिरमन ॥ ज्रिनबर २ ॥ भूखित ॥ क्वरा ॥ ❈ ॥
+॥ ❈ ॥ देहबरे ॥ तथता २ ॥ संजुर्क्त ॥ ज्राव ॥ ❈ ॥
+॥ ❈ ॥ करुणरस्य ॥ समुदित २ ॥ बिरासित ॥ क्वरा ॥ ❈ ॥
+॥ ❈ ॥ धर्म्मतनु ॥ त्रिभूवन २ ॥ ज्रयं ज्रयं ॥ ज्राव ॥ ❈ ॥
+॥ ❈ ॥ कुलिसकरे ॥ स्वनित्यंति २ ॥ भाव ॥ क्वरा ॥ ❈ ॥
+॥ ❈ ॥ श्री बज्रसत्व ॥ परमगुरु ॥ ❈ ॥ क्वरा ॥ ❈ ॥
+
+॥ ❈ सुसरीरामन। जर्नबर २ भोको। क्वारा। ❈ ॥ ❈ देहभरे। तथ्य २। सान्जुर्क्ता। ज्राव। ❈ ॥ ❈ दयालु को। समुदिता २ बिरासित। क्वारा। ❈ ॥ ❈ धर्मतनु। त्रिभुवन २ जरम जरम। ज्राव। ❈ ॥ ❈ कुलीसकरे। स्वनित्यन्ति २। भव। क्वारा। ❈ ॥ ❈ श्री बजरसत्व। परमगुरु। ❈ क्वारा। ❈
+
+॥ ❈ Susariraman. January 2 Bhoko. Quara. ❈ ॥ ❈ Full of body. Fact Sanjurkta. Jrav. ❈ ॥ ❈ To the kind. Samudita 2 Inherited. Quara. ❈ ॥ ❈ Dharmatanu. Tribhuvan 2 Jaram Jaram. Jrav. ❈ ॥ ❈ Kuliskare. Svanityanti be. Quara. ❈ ॥ ❈ Mr. Bajrasattva. Paramguru. ❈ Quara. ❈
+
+<!-- page 37 -->
+१ राग अन्धारि ॥ तार माथ ॥ बां सं कंचनंर खंर्परं पां यं रं नरभेंदियां २ बंज्र
+कं रं मूंस्ति दृं ढं मां रं चंवु दंर्शनें ॥ ध्रु ॥ त्रिंभंग्यंनांमंयिंरें २ त्रिंभंग्यनांसें
+तेनांचैं ॥ हें वंज्रांचांयां ॥ ध्रु ॥ नींर वंर्ण्ण नींरकंण्ठियां संत्व वंरं सु कंरूणां ॥ रं
+र्क्त त्रिंयंनं यंनंबिंकरंलं सुबंदन्यं ॥ ध्रु ॥ लोंर लंलिंत ज्रिंह्व मुंद्वं अद्वयंरं
+सपिं वयिघं नं नं व मूंहंत थांसुकांयां ॥ ध्रु ॥ गगनं संय संर्व्व मंयं भांसुंरंसु
+बंदनं ॥ ध्रु ॥ फंरयिं संहांरंनें बांज्रंयिं डमंरुं चां २ भंनयिं संगोंडां रिंत्रिं
+
+राग अँध्यारो छ। माथिको तार। बम साम कंचनार खानपरम पम यम रण नरभेन्डियाँ २ बंजरा
+जसलाई देख्नेहरूका लागि कृष्ण रामले द्र्रम दम्मा राम निल्नुहुन्छ। ध्रु। त्रिभाङ्ग्यान्नम्मान्येन्रे २ त्रिभाङ्ग्यानसे
+यी हुन् । हे वज्रचान्याय। ध्रु। तिनीहरू एक कोमल विविधताका छन् र तिनीहरू सबै पवित्र र दयालु रन हुन्
+अर्कता तीन पटक यान विङ्करलं सुबन्दन्य ध्रु। लोन्र लनलिंट ज्रिम्ह्वा मुंडवम् अद्वयम्राम
+सबै आएर चन्द्रमा गए ध्रु। गगनम् सन्य संर्व्वा मन्यम् भानसुरांसु
+बन्दनम। ध्रु। फनरायिम संहानरन्नेम बंज्रान्यिम दमनरुम चाम २ भन्नयिम संगोन्दम रिन्त्रिम
+
+The raga is dark. The strings above. Bam sama kanchanar khanparam pam yama rana narbendiyan 2 banjara
+For those who see him, Krishna Rama swallows the dram damma ram. Dhru. Tribhangyannammanyenre 2 tribhangyanase
+These are. O Vajracanyaya. Dhru. They are of a gentle variety and they are all holy and kind ranas
+Arkata thrice yana vinkaralam subandanya Dhru. Lonar lanlint jrimhwa mundavam advayamram
+All came and went to the moon Dhru. I consider the sky to be the sun of the gods
+Bandanam. Dhruv. Fanrayim samhanarnnem banjranyim damanrum cham 2 bhannayim sangundam rintrim
+
+<!-- page 38 -->
+भूवंनं सं हें रूंवां ॥ ध्रु ॥ ❈ ॥ खाज्रा पात्र ल्हाय देतछायाव गुरु मात्राया
+तकाय ॥ ❈ ॥ गीत हूँ हूँ देह हा रे ॥ ❈ ॥ राग विभास ॥ हूँ हूँ हूँ ३ हूँ देह ध
+रूः संसार भयतरु दे २ द्वंद आदरिंर्गन जोग धरु ॥ हे बज्रातुम्हः तेना हूँ ॥
+॥ ध्रु ॥ हे बज्रातुम्हातेना हूँ हूँ हूँ २ तेना २ ते ते हूँ हूँ हूँ हूँ ॥ ❈ ॥ सुरन रव
+न्द्रित चरन वरे कुसुम बिरेपंन ज्रोग धरू ॥ ध्रु ॥ भाव बिमकुट बिस्यहं
+शा २ भुम्ह गुण कोटिया रे ॥ ध्रु ॥ नमामि २ श्री हे बज्रा २ भुम्ह गुण पिथि
+
+भुवनम् सम हे रुवन। ध्रुव। ❈ खजराको भाँडोलाई हल्का छायादार बनाइन्छ र भारी खुराक लिइन्छ। ❈ गीत हु हु देह रे । ❈ राग विभास। हम हम हम 3 हम देहा धा रुह संसार भयतरु दे 2 दवन्द अदाररिंग योग धरु। हे बज्रतुम्हा, त्यसैद्वारा म हुँ। ॥ ध्रुव। हे बज्रतुम्हतेना हु हु हू २ तेना २ ते ते हु हु हु । ❈ सुरन रावन्द्रित चरण वारे कुसुमा बिरेपन जरोग धरु। ध्रुव। भव बिम्कुट बिस्याहम् ष २ भुम गन कोटिया रे। ध्रुव। नमामि २ श्री हे बजरा २ भुम्हा गुण पिथी
+
+Bhuvanam sam he Ruvan. Pole. ❈ Khajrako Bhandolai is made in light shade and takes heavy diet. ❈ Geet Hu Hu Deh Re. ❈ Raga Vibhas. Hum Hum Hum 3 Hum Deha Dha Ruh Sansar Bhayataru De 2 Dawand Adarring Yoga Dharu. O Vajrata, through him I am. ॥ Pole. O Bajratumhatena hu hu 2 tena 2 te te hu hu hu. ❈ Suran Ravandrit charan ware kusuma birepan jarog dharu. Pole. Bhava bimkut bisyaham sha 2 bhum gun kotiya re. Pole. Namami 2 Shree He Bajra 2 Bhumha Guna Pithi
+
+<!-- page 39 -->
+यारे ॥ ध्रु ॥ ❈ ॥ पिने ॥ कि बिय ॥ चिंपौति बोयका लवल्हाना काय ॥
+॥ अर्घ याके ॥ अदुवा, हाकु, ह्याउ ज्रज्रंका, चक्षुबंध तय ॥ ❈ ॥ दुत हय ॥ ख क
+ने ॥ ❈ ॥ थन ॥ प्रबि सतु ॥ गुरु नित्य ॥ ❈ ॥ राग भैरवि ॥ तार झप ॥ प्र
+विसतु भगवन महामूक्ष पूरबे, देसयिनुर्त्तर बोधिप्रदं २ ज्ररा मरण,
+भय बन्धन मोचय, परमा मृत मय परम गुरु ॥ ध्रु ॥ ए हे हि बत्सम दा
+यानरयोः भुम बोधिचिर्त्त मृत पानरन्ते २ देसयि क्षयहम गोचर गुदे,
+
+<!-- page 40 -->
+तथकानुतर बोधिप्रदं ॥ ॐ सर्ब्ब तथागत पुजनया मृत घातया मृत पाप
+तनु ॥ पर्ञ्जुपासदेषि ॥ परिः ब्यास्थित, कमर कूरिस, परिभाम करो ॥ ध्रु ॥
+कूसुम उदक मकुटासन कमरा, जिनकूर समया आचार्य्य प्रदं २ मन्त्र अं
+जन दर्पन भरक्ष, पंदसबर गतिपलि भाम करे ॥ ध्रुन मामि २ श्री चक्रस
+म्वर, गुरु बाक्य चिर्त्त दृढधः सिया २ सतगुरु चरन कमर प्रशोदे, अनु
+र्त्तर बोधिपदं मोक्ष प्रदं ॥ ध्रु ॥ ❈ ॥ थनंलि दसाभिष्यक ॥ ❈ ॥ थन ॥ गा
+
+<!-- page 41 -->
+छेतय ॥ ❈ ॥ राग सिंगार मारव ॥ सहज सरोरुहहेरूवूराया २ त्रभू
+वण नाथा, देहि बिरास्या ॥ भुँज यिमः हारस, गुह्याभिष्यके २ कमर कुलि
+सहसं, जोग संभाबा ॥ ध्रु ॥ ज्ञान स्वरुपिनि, देवी बिश्वरुपिनि २ क्रिदंति
+रमने, महासुखनाता ॥ ध्रु ॥ उर्द्धाद्वेख दानाकारि, रुधिया प्रबिशे २ प्रान
+विन्दुरन भेदिया गय हूँ ॥ ध्रु ॥ गुरु प्रशोदे, अनूत्तर किया २ देहि मेता
+रण, संसार समूद्रा ॥ ध्रु ॥ ❈ ॥ थनंलिव प्रज्ञा बिय ॥ ❈ ॥ थन ॥ पारन
+
+<!-- page 42 -->
+याय ॥ ❈ ॥ राग कोरयि पञ्चम ॥ तार माथ ॥ कोरयि रे थिय बोरा ॥ मुमृ
+निरे कंकोरा २ घनक पिथि ॐ बोरा ॥ करुण्य क्रियालिन लारा २ मरय ज
+कून्दुरु बाजयिया २ दिदि मन्त्रः हिनबायिया ॥ तहिंबरुखा बयि गाध्य २ म
+यना पिज यि या यि या २ हरिंकालि ओजलसा सिजर, दुंदुरु राजन या यि या ॥ ध्रु ॥
+चवु समकस्तु सिल्हा २ कपुर रावन या यि या २ मारयि इन्धन शारिंज रे ॥
+॥ तहिं बरूखाज यि या यि या ॥ ध्रु ॥ प्रेखन क्षत्र करन्ते ॥ शुर्द्धा शुर्द्धन मूमिया
+
+<!-- page 43 -->
+यिया ॥ निर सुह अंग्र चन्द्राव यि या ॥ तहिजः सुरावनः प्रणमामिया ॥ ध्रु ॥
+॥ ❈ ॥ थन ॥ प्रग्याभिखेक ॥ ❈ ॥ गुह्याभिखेक ॥ गाछेतय ॥ ❈ ॥ राग
+श्रृंगार ॥ तार माथ ॥ बासाद हिन, एदुयिघरनिं २ माझे बिरा बिंरास यि महा
+सुखरीना ॥ भुँजहूल जो यि या, सहजस अनेहा २ सयर बिसयरा, समय रसं
+कसिया ॥ ध्रु ॥ एकेध्यावे यि या, अमिर यि या २ आवरे पानिगाट सिया ॥
+॥ ध्रु ॥ गयने प्रबने, चियमिर यि या २ काय बाक चिर्त्त, रीनक लिया ॥
+
+<!-- page 44 -->
+॥ ध्रु ॥ पाबयि रे गुरु, पाय प्रशादे २ भनयि बाक वज्र, शुन्य समाधि ॥ ध्रु ॥
+॥ ❈ ॥ थन ॥ मूद्राल स्वय ॥ मूद्रान्यास याय ॥ ❈ ॥ राग विभास ॥ भारमाथ
+॥ धर धर दु धर धार धरे, धारय धारय चक्रिसि रे २ मद मद वज्र धृक स
+मय, कूँ दुरु जोग विर वरे ॥ कुरू कुरू वज्र धर्म्म समय, त्वं आरोरि कर्ण्ण बरे
+२ कुँदलि कूण्डलि देह धरे, सूसमाकर सितक मर धरे ॥ वज्र सूर्य्य आज्ञान
+तमो, बृधं मय समर संदातु महँ २ कंथि कण्ठ कमार धरे, रतनाधिक बर
+
+<!-- page 45 -->
+वज्र शिरे ॥ शाश्वत निस्वर भाब परमं, शाश्वत सहज्र स्वभाव परमं २ एहि
+एहि जिन जिक समरे, काय निबन्धनरु चक्र धरे ॥ हूँ हूँ ह्रीँ ह्रीँ प्रज्ञा धृकस
+गतो, सेखर मण्डलत प्रवनव सुखे २ हूँ फट्‌ आदीन चरन बरे, प्रनमामि
+सुरत वज्र शिरे ॥ ध्रु ॥ ❈ ॥ राग अहेडि ॥ तार झप ॥ हाद आभरणे, क्री
+यारि रे संवर, धरयिक वारि रे भेसा २ भुम्ह वोरन्ते मण्डलयः स्मस्वाने, म
+कुतकेसि दिगम्वः रा ॥ ले ले मोरुव सम्बररैया, सहज सुन्दरि मोरु कोरा
+
+<!-- page 46 -->
+२हम बिराहि रे, वज्रबाराहि, फेदा महिरे मोरु कोरा ॥ शारिंरे भोयनः ब
+रसु हमयेने, कपुर भरयितं बोरा २ गगन निरा वर्ण्ण, वन्दिरे जोरा, मे
+रु मण्डल भवरीनाः ॥ ध्रु ॥ त्रियंधनु खातंगे, छाद यग्यरो सम्वल, प्रपि
+सयि सुन्य भव भारा २ हम विराहि रे, वज्रवाराहि, भुम्ह विनु देख हूँ अं
+न्धारा ॥ ध्रु ॥ गावन्तरिरा वज्रज्व यि या आरिंगण, सत गुरुरचण आ
+राध्य॥ समया आनन्दे, फरंग्यरो मण्डल, सम्वर वज्रवाराहि ॥ ❈ ॥
+
+<!-- page 47 -->
+१ राग ग्वत्रग्रि ॥ तार क्रति ॥ चक्री चक्री मोदिचे, दाहिना चन्द्रारि २ हिथं
+कार अमोघसिर्द्धि चर्क्तवर्ण्ण संभाव्य ॥ जैया २ हेरुव वज्रकवारि, खने
+न्हने छादिग्य रोनीरवर्ण्ण संभाव्यः ॥ ध्रु ॥ हिथ्यंकार अछति हेरुव, सह
+ज स्वभाव, प्रज्ञोपाय उधारी रे, त्रमरुख त्वांगे ॥ ध्रु ॥ मोरु श्री हे रुव, रुद्र
+मून्द्र करागे, भनतिग्व स्वामिनि हे रुववर्ण्ण संभाव्य ॥ ध्रु ॥ राग ग्वत्र
+गि ॥ तार एकतरि ॥ ❈ ॥ चक्रि कूंण्डल कण्ठिरो चक्रमेखल भूखितः ग्रीवे
+
+<!-- page 48 -->
+रुण्ड रनल सिर मारा २ सरो चःक्र चकिरैया भस्म विभूखित, गगणन्तु
+हुरि वंधुरि वारा ॥ ❈ ॥ अमबु सशि हे रुवहे हे मोरु कोरा, जग्यनाथ सह
+स उरोरा २ वज्र करोतक हाथ्य धरिःया, कण्ठे थिर हूँ खत्वांग्ये ॥ ध्रु ॥ सं
+पुत जोगिणि कमर विहाथिंग्यरो, महासुख मेरिपरसादे ॥ ध्रु ॥ वज्रवा
+राहि आलिं गण सम्वर, नांचयि वन्ह विहभंग्व ॥ ध्र ॥ बाछरि कोरयि
+किदंन्ति हे रुव, अर्द्धभुव फरन प्ररशोदेः ॥ ध्रु ॥ सहज सुमैत्री रैया,
+
+<!-- page 49 -->
+गोवन्ति कर्ण्णपा हे वरुव चरन प्ररशोदे ॥ ध्रु ॥ प्रज्ञा आरिंग्णण हे रुव
+नीरा वर्ण्ण, विरासयि सुन्य करुना ॥ ध्रु ॥ ❈ ॥ थन ॥ मूद्राको कायाव,
+लस्वय ॥ ❈ ॥ थन ॥ भिक्षुचर्य्य, सिल्हाहुस पिण्डपात्र, कछागा ॥ ❈ ॥
+॥ राग देशाख, रामकलि ॥ भारब्टप ॥ ❈ ॥ सुप्रति मण्डित, मण्डस चक्रा २
+उछित छत्र प्रताक वितान ॥ सुप्रतिनादित भुर्य्या मन्यकं २ तदनुच गीत
+एरेन मनोग्य ॥ ध्रु ॥ पंञ्चबुद्धामक सर्व्वजज्ञायं २ पश्यं कुनात कुचिर्त्तक
+
+<!-- page 50 -->
+दिवां ॥ ध्रु ॥ जातहिए कुमहा सुहनामा २ नृत्यन्ति गीत बरेन मनोज्ञे ॥
+॥ ध्रु ॥ श्लाबकया नमसिखित भिक्षु २ मर्थ चरि चर भद्र चरा यं ॥ ध्रु ॥
+बुर्द्ध चरी चर बुर्द्ध शुन्यकं ॥ एकु निदान भबिक्ष स्वयंभु ॥ ध्रु ॥ वध्यन्ति
+जेन जरापरि मूच्यन्ति, तेन बुर्द्ध २ वोधि विभाव नया विपरित, इद सक
+र प्रसोदं ॥ ध्रु ॥ ❈ ॥ थुति थरुय विधि जुर ॥ ❈ ॥ थन ॥ मुरचाः या ॥
+सिंन्धुराचा कंथलिप्पते ॥ ❈ ॥ गीत, सध्य मेरु ॥ आदि शुन्य ॥ अनुर्त्तर ॥
+
+<!-- page 51 -->
+रक्त वर्ण्ण ॥ गोकुदह ॥ भानु मण्डर ॥ 𔓘 ॥ थन ॥ सिन्धुर मु समण्डर पुजा
+॥ त्रिदसरोह ॥ 𔓘 ॥ राग कन्ह ॥ जयं बाछरिदेवीः रुवदेवी घरनी २ सय
+रसु रासुर बंदित चरणे ॥ ध्रु  ॥ ते भगवतिया‍ दुक मरमहिमण्डित ने ॥
+पुररु नव्दुन काराः हा दं मभर आःभरन विभुखित माषर घण्ठउराे ॥ 
+राति निति निति नयन्ति नयनातेः नांन्ता ॥ ध्रु ॥ करति खपर धारि मु
+ण्ड मार भुः खिता २ स्कंध्य खत्वार्ग धारिः मकुतके श्री दिगंबरा ॥
+
+रातो रङ। गोकुडा। भानु मन्दर। 𔓘 भन्दा सिन्धुर मु समन्दर पुजा। त्रिदसरोहा। 𔓘 राग कान्हा। जय बचरीदेवी रुवादेवी घरणी २ साया रसु रसुरा बन्दिता चरणे । ध्रुव। परमात्माको महिमाले सजिएका छन्। पुरारु नवदुन कार हा दाम मभर आभरण विभुखिता मशरा घन्थौरे। रति नीति नीति नयन्ति नयनति नयन्ता। ध्रुव। उसले आफ्नो टाउकोमा तरवार राख्छ र पृथ्वीलाई मार्छ।
+
+Rato Rang. Gokuda. Sun Temple. 𔓘 Than Sindhur Mu Samandar Puja. Tridasroha. 𔓘 Raag Kanha. Jai Bacharidevi Ruvadevi Gharani 2 Saya Rasu Rasura Bandita Charane. Dhruv. They are adorned with the glory of God. Puraru navdun car ha dam mabhar jewelery vibhukhita mashra ghanthaure. Rati Niti Niti Nayanti Nayanti Nayanta. Dhruv. He puts his sword in his sheath and strikes the earth.
+
+<!-- page 52 -->
+शिर सिंन्धुर धारिः बिनय बरंगीता २ कस्तुरि कपुरयितं वोरा ॥ ध्रु ॥
+भनयिसुरत  बज्रः बाछरि दास्य २ प्रनमामि बज्रजाोगिणि भेद भबपास्य ॥
+॥ ध्रु ॥ ❀ ॥ कितंक्य ॥ प्रग्याकाय ॥ देबपुज्रा ॥ नम हुँकार ॥ त्रिचक्र ॥ ❀ ॥ 
+॥ गुरु पुज्रा ॥ दक्षणा ॥ क्षमापना ॥ क्षमापन ॥ ❀ ॥ थुतिन्हि पुज्रा ॥ समया चक्र ॥ ❀ ॥
+॥ ❀ ॥ थन ॥ मुल चायाः रात्रिया कंथ ॥ धमुस्वने ॥ डुनेक्रियाजुः
+य ॥ गुरुः मात्राः पदक्षिणा ॥ दिगवन्धः निगुली संयाय ॥ ❀ ॥ दिगपु
+
+प्रमुख सिन्धुरधारी विनय बाराङ्गिता २ कस्तुरी कपुरायितम वोरा । ध्रुव। भनयीसुरात बज्राह बछरी दास्या २ प्रणामामी बजराजयोगिनी भेदा भापस्या। ॥ ध्रुव। ❀ किताङ्क्य। प्राज्ञकया। देवपुज्रा। नाम हमकार। त्रिचक्र। ❀ ॥ गुरु पुजरा। दक्षिणा। क्षमा। क्षमा। ❀ थुटिन्ही पुजरा । समय चक्र। ❀ ॥ ❀ भन्दा जराको चिया रातको क्यान्था हो। धमुस्वने। दुनेक्रियाजुः हो। शिक्षक खुट्टाकी आमा हुन्। दिगबन्धह निगुली सन्या। ❀ दिग्पु
+
+Chief Sindhurdhari Vinay Barangita 2 Kasturi Kapurayitam Vora. Dhruv. Bhanayisurat Bajrah Bachari Dasya 2 Pranamami Bajrajayogini Bheda Bhapasya. ॥ Dhruv. ❀ Numbers. Prajnakaya. Devapujra. Name Humkar. Trichakra. ❀ ॥ Guru Pujara. Alms. Sorry. Sorry. ❀ Thutinhi Pujara. Time cycle. ❀ ॥ ❀ What is the nightmare of tea than burning. Dhamusvane. Dunekriyajuh ho. The teacher is the mother of Khutta. Digbandha Niguli Sanya. ❀ Digpu
+
+<!-- page 53 -->
+ज्रा ॥ गीत चन्द्र ग्रह स्मस्वांन ॥ ❀ ॥ गुरू मात्रा चिधंगु मण्डरे ॥ गुरुम
+ण्ड त्रिसमाधिदनाः सिन्हंः माेहनि साधन पुजा ॥ ❀ ॥ नंदिः नमस्कार ॥
+॥ ❀ ॥ गुरू मात्रा सिंघासनस विज्याके ॥ थन ॥ उपाध्या गुरूं ॥ मुद्राः
+न्पास याय ॥ ❀ ॥ देवयात मण्डरस ॥ खाज्र पात्र भाग छाय ॥ गुरूया तम
+त्याेनि ॥ ❀ ॥ दुवा रसः गाछे तया ॥ ❀ ॥ थन ॥ खाबलिबिय ॥ अर्घ याके
+॥ ❀ ॥ थन ॥ गुरूः मात्रा ॥ हरशिर ॥ राग काेजिओं बरिथ्वानाः प्याहांवि ॥
+
+जेरा। गीत चन्द्र ग्रह स्मस्वान। ❀ गुरु मात्र चिदङ्गु मन्देरे। गुरुमन्द त्रिसमाधिदानः सिन्हा महनी साधना पूजा। ❀ नन्दी : नमस्ते । ॥ ❀ गुरु मात्र सिंहासनस विजयके। भन्दा उपाध्याय गुरुण मुद्रा नपास यया। ❀ देवायत मन्दरसा। खजरा भाँडा भाग छाया। गुरुय तम त्यानी। ❀ दुवा रसः गछे तया । ❀ भन्दा खबालिबिया। अर्घा याके। ❀ भन्दा शिक्षक आमा हुन् । हरशिर। राग काजियोँ बरिथवानः प्याहन्वी।
+
+Jera. Song Moon Planet Smaswan. ❀ Guru only Chidangu Mandere. Gurumanda Trisamadhidanah Sinha Mahani Sadhana Puja. ❀ Nandi: Hello. ॥ ❀ Guru only of throne victory. Thana Upadhyaya Guru Mudra Napas Yaya. ❀ Devayat Mandarsa. Khajra vessel part shadow. Guruy Tam Tyani. ❀ Duva rasah gache taya. ❀ Than Khabalibia. Argha Yake. ❀ Teachers are mothers. Harshir. Raag Kajiyon Barithvanah Pyahanvi.
+
+<!-- page 54 -->
+ज्याना ओ नित्य ॥ ❀ ॥ खदर्ग न्यास याय ॥ ❀ ॥ राग गन्धार भैरवि ॥ ता
+र व्ढप ॥ ❀ ॥ हरशिर मकूत किरत्नमनि भासित चरन जुगां २ सोहियं
+बज्रसत्वं परमेश्वरः प्रदुम पदंः आ हा हाँ ॥ ध्रु ॥ गाधसुनि वह पिथिकं
+थाेगतः देहधरं ॥ ध्रु ॥ चारितु फरनः चालि गुहे गतः पद्मजुगां ॥ ध्रु ॥
+॥ ❀ ॥ राग चाैतार ॥ त्रिभुवन ज्वलित मुरुति अनुरायनः विनयंति
+ ः आ हा हाँ ॥ ❀ ॥ नांचयि वज्रसत्व त्वं परमेश्वरः लीनजाेति ॥ लक्ष्मिसह
+
+ज्ञान ओ नित्य ॥ ❀ ॥ खदर्ग न्यास यया ॥ ❀ ॥ राग गन्धार भैरवी ॥ तार वधप ॥ ❀ ॥ भगवान शिवको शिर मोतीको हार जस्तै चम्किरहेको छ, र उहाँका पाउ चट्याङ जस्तै चम्किरहेका छन्। ध्रुव। गधासुनीले पिठिका थैगत शरीर वाहकलाई बोकेका छन्। ध्रुव। फर्न गुफामा घुम्दै कमलको फूलमा गयो। ध्रुव। । ❀ ॥ राग चौतार ॥ अनुरयनका जलिरहेका मूर्तिहरूले तीनै लोकलाई नम्र बनाएका छन्।
+
+Knowledge O Nitya || ❀ || Khadarga Nyasa Yaya || ❀ || Raag Gandhara Bhairavi || Tar Vadhapa || ❀ || Lord Shiva's head is shining like a pearl necklace, and his feet are shining like lightning. Dhruva. ​​The donkey is carrying the body carrier on the back of the donkey. Dhruva. ​​The fern wandered in the cave and went to the lotus flower. Dhruva. ​​. ❀ || Raag Chautar || The burning idols of Anurayana have humbled all three worlds.
+
+<!-- page 55 -->
+म्रकिरन दशा सूर्य्य, हासवंति ॥ ध्रु ॥ वहूविह रुपविसहम्र अनुरायन,
+सत्यवंति ॥ ध्रु ॥ ❈ ॥ थन ॥ देव लिहां विज्याके ॥ ❈ ॥ चिंयति, किंस्वां वो
+यके ॥ अदेवा, चक्षु वन्धन तय ॥ उपाध्यान किंनं, ज्वना दुत हय ॥ त्रिदसरो
+उपाध्या नित्य ॥ ❈ ॥ राग सुपति स्थित नात ॥ एकतार ॥ त्रिदर सरोरुह
+दिन कर मण्डर राजितजि भूवन जननि २ चकतकने उपति नयने, मा
+र चतुर गनछेन्द्रः निदेवी करति कपाल धरा ॥ भुखित नरसिर मार
+
+<!-- page 56 -->
+२ कमर कुरिस दुयितार, बाजयि नांचयि सहज संरूपिनि ॥ ध्रु ॥ चक्रि
+शीरे कर्ण्णे कुण्डर, कण्ठि कण्ठ कंशोभा २ हाथ्यरो चक्र कर्त्तिया उमेखर, च
+रणेनो पूर भुखनि ॥ ध्रु ॥ भव प्रदयान रन्तेज धरन्ते, दाहिनि ज्ञानक
+राया २ भावां भाववि वर्जित, अनुर्त्तर गगनसं रूपिनी ॥ ध्रु ॥ पदुम वज्र प
+दशि रे गत धरिया, गावयि हास कुरिसा २ अनुर्त्तर सिर्द्धि प्रमोक्ष प्रदाय
+निः प्रनमामि श्री वज्रजोगिणीः ॥ ध्रु ॥ ❈ ॥ खकनेः ॥ प्रविसतु, उपाध्या
+
+<!-- page 57 -->
+नित्य ॥ ❈ ॥ अजिमाया, मण्डर केने, प्रतिमां कने ॥ ❈ ॥ थन ॥ धमूत, ध
+रं दंके ॥ ❈ ॥ थन ॥ ब्यला जुलसा, मन्त्र प्रदान बिय ॥ तिर्त्तिकर साभिष्यक ॥
+॥ मण्डर दरशन, सकस्यातं ॥ वज्राभिष्यक ॥ मकुटाभिष्यक ॥ सिन्ह मोह
+नि, देततना, सकस्यांतं तके ॥ ❈ ॥ गीत, उदिता तर हा ले ॥ ❈ ॥
+॥ राग विभास ॥ तार माथ ॥ उदिता तरयन प्रबनदुता २ बरदा मरुक, का
+कलिता ॥ घोर दुष्टर भय निसाचलिता २ अखय निरंजन, मोक्ष कृता ॥
+
+<!-- page 58 -->
+॥ ध्रु ॥ दिनकर मण्डल, मध्यगता २ देवासुर नरसि रे नमिता ॥ ध्रु ॥
+॥ दगधालि अलि भय प्रतिनिहता २ करुणा मृत रसस्य विक्रिया ॥ ध्रु ॥
+॥ गावन्ति प्रबन पलि गुरु भगता २ वज्रबाराहि भुजुसि रे नमिता ॥ ध्रु ॥
+॥ ❈ ॥ किकर सचिपंथियके ॥ प्रग्या छाय, बिय ॥ खाज, पात्र छाय ॥ गुरु
+, मोत्रां, काय, बिय ॥ ❈ ॥ हूँ हूँ देह ॥ त्रिहंडा चापयि हाले ॥ राग पर्द्मंज
+रि ॥ टार झपः ॥ त्रिहं दाचापयि जोगिनिदेवी कवालि २ कमल कुलि सघ
+
+<!-- page 59 -->
+न, कहुन बिया रे ॥ ध्रु ॥ जोगिनि तुम्ह बिनु खन हुन जि बयि २ तोरा
+मुह चुबिया रे, कमरस पिवयि ॥ ध्रु ॥ क्षप हुँ जोगिणि रे नजायि २ मनि
+कुर बहिया रे, ओदिया निमम्य ॥ ध्रु ॥ साणुत घेरे घेरे, कुँञ्चि कुता
+रि २ चन्द्र सूर्य्य दुयि पक्षन भंद्रा ॥ ध्रु ॥ भनयि गुडालि कुंदुरुबीरा २ नर
+य नारि माझउ भयन बीरा ॥ ध्रु ॥ ❈ ॥ प्रग्यान बिय ॥ ❈ ॥ थन ॥ पार
+न ॥ कोलयिहाले ॥ नुचायके ॥ मुख शुर्द्धि ॥ ❈ ॥ द्यो, देवीयात, धमुतसक
+
+<!-- page 60 -->
+स्यानं, भोग बिय ॥ ❈ ॥ चकी कुदर ॥ ❈ ॥ राग ग्वडग्रि ॥ तार एकल ॥ च
+क्रि कुण्डल कण्ठिरो चक्र, त्यादि ॥ देव, क्षमापन ॥ मूद्रालि तय ॥ ❈ ॥ थुति
+॥ मुचाया, चाकिरा चचा जुलो ॥ ❈ ॥ सति खुन्हु, पुर्ण्णा, मांसाहूति, जज्ञे
+याय ॥ ❈ ॥ उपाध्यानं, परक्ष, सिंन्धुर पुजा याय ॥ ❈ ॥ थन ॥ थापं यायगु,
+थुति ॥ क्लस, श्री लक्ष्मि, जक्ष जक्षणि, नाग प्व, इनाक्वं, पंञ्च धारा, पंञ्च पात्र,
+सिंन्धुर मण्डल, अग्निकुंद ॥ थुति थापना ॥ ❈ ॥ थन ॥ शुर्य्यार्द्य ॥ पूजाभलसं
+
+<!-- page 61 -->
+कल्प ॥ स्वभा पुजा ॥ तार पुजा ॥ चग्व धग्व पुजा ॥ ❈ ॥ गीत, मध्य मेरु, आ
+दि शुन्य, अनुर्त्तर, रक्त वर्ण्ण, गोकु दह ॥ ❈ ॥ अग्नि स्थापं ॥ प्रथमाहूति ॥
+॥ तछाय ॥ ❈ ॥ राग भैरवि ॥ तार ॥ तिनिरोयन चतुव्रम्ह विहारा २ रवि
+सशि चापिरे, आचार्य्य वैस्थारा ॥ ध्रु ॥ होम करैया होमेन हिचउ मारा २ राग
+ध्यख मोहन वेदिरे स्थादिया ॥ ध्रु ॥ बाम दहिन करेशु बारे प्रात्रि २ ज्वर यिव
+जानर आहूति जोयिया ॥ ध्रु ॥ प्रग्या घण्ठा उपायी रे बज्र २ बज्र पबन चियसं
+
+<!-- page 62 -->
+भोग्य ॥ ध्रु ॥ कर्ण्ण वोरंते, अत्यत होमे २ करहू प्रतिस्था मण्डल होमे ॥ ध्रु ॥
+॥ ❈ ॥ ज्ञानाहूति, धुनेव ॥ ❈ ॥ थन ॥ उपाध्याजुं, पुरक्ष, कोरास्या पूजा याय
+॥ ❈ ॥ मारसा कुम्भनी भांजन ॥ ❈ ॥ ❈ ॥ राग ललित ॥ ताल दुर्ज्जमान ॥
+॥ कुम्भ निरभांजन, पंञ्च ज्ञान स्वभावा, कंका राक्षर विज मूत्यना ॥ ❈ ॥
+निवासित महास्वभाव मामकि, सुरसुन्दरिन बज्रौबनि ॥ ❈ ॥ नमामि
+श्री बारु निर सिब ज्रादे, भैख जेसमूत्यनाभा ॥ ❈ ॥ आरिर्द्धस्यखवी नयनस
+
+<!-- page 63 -->
+स्थिता एकमूखत्रिरोयनि देवि ॥ ❀ ॥ अष्ठा दस भूजधारि केकरधकवा
+र सरक्षयंदितियंकरे ॥ ❀ ॥ पासांकुस खपरे ध्वज गडा वज्र नवमेव
+रदप्रथमकरे ॥ ❀ ॥ अपर उद्धकस्फेतक धनु वज्र वंध खत्वाग कमर ध
+रंते ॥ ❀ ॥ त्रिसुर मूर्गर बज्र वेगन नयन्ति दनूकरातरे ॥ ❀ ॥ उँ ह हा
+ह्रीँ हंकारे हरतेवर्ण्भु मन्तराकारन्तुभावयत ॥ ❀ ॥ तेनोभव अहिनिसकू
+रुवालुनि परमाद्य वज्र जपमारा ॥ ❀ ॥ ❀ ॥ राग षट्क गार ॥ ताक मा
+
+<!-- page 64 -->
+थ ॥ निरवर्ण्भुवारुनि देवी चक्रिकुण्ड कण्ठि २ लोच क्रमेखलै भुषित रुप धा
+रिता ॥ ध्रु ॥ सुसमानस्य भक्तिसंपुज्रिता ॥ स्वस्वविज्राक्षरै समुत्यन्ना देविमा
+मकि ॥ ध्रु ॥ नमामि २ देवि श्री मामकि २ नव जौवनत्रिनेत्रसुरशुन्दरि ॥ ध्रु ॥
+॥ पंञ्च कुम्भे अमृतपात्र सुरासुरनलैवंण्डित चरना ॥ ध्रु ॥ रागव्यनि ॥ ताल
+माथं ॥ पातवर्ण्भुमामकि देवी विश्व व्यापिता अमृत पान रुपतारुनि देवि ॥ ❀ ॥
+॥ ध्रु ॥ नवजौवन त्रैलाक्य सरशुन्दरि स्व स्व बिज्राक्षर समुत्यन्ना ॥ ध्रु ॥
+
+<!-- page 65 -->
+॥ चक्रि कुण्डण कण्ठी लोचक्रमेखला ॥ चक्षनसंजुक्तगातविभूषिता ॥ ध्रु ॥
+॥ नमामि वारुनि देवि सुरेश्वरि २ पुज्रयामिमनो वाछिता ॥ ध्रु ॥ सतगुरु
+चरने प्रणमामि भक्त्या २ अनुभ्तर सिर्द्धिमोक्षसंप्रद ॥ ध्रु ॥ ❀ ॥ राग क
+हु ॥ तार षट्कंगार ॥ हरितवर्ण्भागि त्रिनयनसुन्दनि नवजौवर्ण्भराव
+नरेदा ॥ ध्रु ॥ तुम्ह देवि मामकिवारुनि देवी ॥ ध्रु ॥ अष्ठादस भूज्रा फरन
+न्तुकिरने पंचबुद्धश्वरुपाच तुम्ह ज्रोगिनि श्वलो ॥ ध्रु ॥ हकालेन हरतेव
+
+<!-- page 66 -->
+र्ण्भु होकार गंध नासन ॥ हिंकार विज्रहंता अमृताकारं ॥ ध्रु ॥ सतगुरुच
+रने सिलेंगत धरिया भनयिसिद्धिवज्र वज्राचार्य्यगिता ॥ ध्रु ॥ ❀ ॥
+॥ म्वालसा ॥ भानुसण्डरहारे ॥ ❀ ॥ राग नात ॥ तासष्ठय ॥ भानुमण्डल
+माझे ज्वरित हुँ कारा २ अरिकालिदुय चाप्रसि हे रुवा ॥ ध्रु ॥ नमामि २ श्री
+निरारंव त्रिभूवन नाथ ॥ वज्रवाराहि आलिंगण अद्वय ॥ ध्रु ॥ कृष्भुव
+र्ण्भु चतुवदनत्रिनेत्र विश?वकुसिस अर्द्धचन्द्रज्रठाजुर्क्त ॥ ध्रु ॥ डाकिणिरा
+
+<!-- page 67 -->
+माखण्डरोहारुपिनि ॥ चतुरदेविक्रिदंतिविरासा ॥ ध्रु ॥ भूषितखतमु
+द्रा छत्रिसंविरेश्वर २ भनयि अनुपर्द्म वज्रहे रुकदासा ॥ ध्रु ॥ ❀ ॥ थन ॥
+॥ मुल पुज्रा याय ॥ ❀ ॥ श्री तज्रयंवाछरि ॥ प्रग्या काय ॥ ❀ ॥ थन ॥ देवपुजा
+॥ द्यो चचा नमहुँका त्रिचक्र निपुहारे ॥ ❀ ॥ थन धमुत धरंदंके ॥ ❀ ॥
+॥ मांसाहुतिजुय ॥ ज्रोग्निस्वने पुजा ॥ ताल्हाय ज्ञांकु लूछाय ॥ ❀ ॥ पंञ्च धाराल
+वल्हाय ॥ ❀ ॥ कोलयि हारे क्वचायव ॥ ❀ ॥ पात्र ल्हाय ॥ गीत ज्वलित वज्रानर
+
+<!-- page 68 -->
+हाले ॥ ❀ ॥ राग मधुमत ॥ ज्वलित वज्रानरश्री चक्रसवर हुँका रोँब ज्रिह्वा
+ह्रप्रमाण ॥ मांसाहुति मद्यमांससंजुता पंञ्च सारिसद्यमांस भुक्षन्तु ॥ ❀ ॥ खख
+झा २ रेग्व कुदहना पंञ्चमियारस अरिना ॥ श्री वज्रजोगिणि रामाखन्दरोहा
+रुपिणी ॥ पंञ्च जोगिणि ॥ छतिसंविरनीरे श्वरमण्डल करसकिरिः किराय
+मान ॥ ❀ ॥ दमरुघण्ठा ध्वनि प्रमुदित वाज्रियारे दानप्रतिविघ्न विनासिता ॥
+॥ ❀ ॥ योगिणि पंच देवा पंञ्च मद्यत त्यना भवन्तु शुभ शान्ति पुस्तिया ॥ मार
+
+<!-- page 69 -->
+विनासनर क्षसयरा अभिसन्त्र सुख फरमोक्ष भवन्तु ॥ ❀ ॥ सर।व।वसिर्द्धि वाक्य
+जग्य जागना कराहुति आचार्य्य सान्तचिर्त्तसा२ परामाहुति फर पानि सयरा
+अनुत्तर ज्ञान सत्व मोक्ष प्रदाता ॥ ❀ ॥ ❀ ॥ थन ॥ गुरु मात्राया खाजकाय
+पात्रहिरके सकस्यातं खाज विय पात्र हिरके ॥ ❀ ॥ गीत हुँ हुँ देह ॥ हा
+त्रआभरण हारे ॥ ❀ ॥ थन ॥ प्रग्या छाय सकस्यातंविय ॥ ❀ ॥ थन ॥ महा
+वलिविय ॥ पुर्ण्णाजोयके ॥ ❀ ॥ चाक्र पुजा ॥ दिगुवलिविय ॥ ❀ ॥ गीता ॥
+
+<!-- page 70 -->
+वसिचरा हारे ॥ ❀ ॥ ❀ ॥ राग भैरवि ॥ उँ आः हुँ फट् अन्ते स्वाहा मन्त्र
+विस्यख उचारुले २ पुजा पुजित पुज संभाव्य सत्व रुपस्मार भवहंन्तुरे ॥
+ख ख खा हित अलिवरि पुजा ले घ घ घाटय विघ्नरे पंचामियार
+सपंचसारिरे पंचज्ञाहन सर्व्ववरिना ॥ ❀ ॥ सर्व्व यक्ष राक्षस भूत प्रेत रे
+पिशाच अपस्मारुरे २ डाक डाःकिन्य दि अष्ठस्मस्वाने इदं वसि गृन्ह गुन्ह
+हंतुरे ॥ ❀ ॥ समया आरक्षन्तु मोक्ष सिर्द्धरे सुखसंभव दवि शुर्द्धरे २ ज
+
+<!-- page 71 -->
+थै वयथै भूज्र र्थयि वथरे जि घण्ठ कामनोरर्थरे ॥ ❀ ॥ दानपति सर्व्व
+कार्य्य सिर्द्धि रे मनोरथ सर्व्व सुख पद शान्ति रे २ आर संसार तथागत वचने
+स्वहायंकर वन्तुरे ॥ ध्रु ॥ ❀ ॥ श्वाकितंक्य ॥ गुरु पुजा ॥ दक्षणा ॥ पंचांकु
+स ॥ मण्डर दर्शन ॥ वजाभिष्यक ॥ झोतनं कुयक्ये ॥ सिन्हरं तिके ॥ उदितात
+र हाले ॥ कित्रिकरस छाय विय ॥ ❀ ॥ पुरक्ष यागु खाज पात्र उपाध्या
+नं कया सकर सिष्य पिंतं विय ॥ ❀ ॥ गीत चक्रि कुंण्डल ॥ राग ग्वतग्रि ॥
+
+<!-- page 72 -->
+चक्रिकुंण्डल कण्डिरो चक्रमे खल भूखितः श्री वेरुण्ड रन रसिर मारा २ सरो
+चःक्रच किरैया भस्म विभूखित गगण न्तुहुरि वंधु रिवारा ॥ ध्रु ॥ अम्बु
+सशि हे रुब देहे मोरुकोरा जुग्य नाथ सहज्र उरोरा २ वज्रकरोतक हाथ्य धरिः
+या कण्ठे थिर हुँखत्वांग्य ॥ ❀ ॥ संपुतजोगिणि कसर विहासिंग्यरो महासुख
+मेरियरसादे ॥ ❀ ॥ वज्रवाराहि आलिंगण सम्वरनांचयिवहुँ विह भंग्य ॥ ❀ ॥
+वाछरि कोरयि किदंन्ति हे रुव अर्द्ध भूवनय रणोदेः ॥ ❀॥ सहजसुमै
+
+<!-- page 73 -->
+त्रीरैया गावन्तिकर्ण्णपाहे रुव चरन परशादे ॥ ❀ ॥ प्रज्ञा अरिंर्गंण हे रुव
+नीरावर्ण्ण विरासयि सुन्य करुना ॥ ध्रु ॥ ❀ ॥ थन ॥ खाज्रलि ल्हाय ॥ समयाच
+क्रविय ॥ ❀ ॥ थन ॥ मण्डरोपन ॥ तियागुधि लिकाय ॥ महामण्डलया न्हेव
+ने गुभाजुं गुरु मण्ड छपु दना वलि छयात विय ॥ थुति धूनेव ॥ ❀ ॥ कोस
+यिवं शाहा रे ॥ ❀ ॥ ॥ राग कोपंस ॥ तार ॥ कोयिरे वंशा वाज्रिरे वैशा अ
+नुहत सर्व्वदेव त्रिभूवन लीना ॥ ध्रु ॥ अनुभम बुज्रिरे दारुकरैया २ भेंदि
+
+<!-- page 74 -->
+रे ऋर्द्धिसिर्द्धि रोहि प्रसादे ॥ ❀ ॥ गंगा जमुजा एहुय तंति गगण शिखर मा
+रे प्रवण हन्द्रोरा ॥ ❀ ॥ उदिगेरो चंदार विअष्ठांगे शोखिरेर विसशि
+गगण दुवारा ॥ ❀ ॥ प्रवन पंचायि रे एकुक्षरे वंधा विइरित करुणे दा
+रुकंसिर्द्धा ॥ ❀ ॥ ❀ ॥ थन स्वस्ति वाक्यं पदक्षिणा स्वाचाक उले ॥ धमुथा
+कुलिं मोह १ दक्षिना छाय ॥ सकस्यानं छाय ॥ ❀ ॥ देवपिंक्य क्षमा याय वल
+फोने ॥ ❀ ॥ थन ॥ शताक्षर वोना मण्डल लोपन याय ॥ म्हुय ॥ थन ॥ उपाध्या
+
+<!-- page 75 -->
+जुनं सारा देव लोपन ॥ देव लितय जुर ॥ मण्डरस तय ॥ मण्डरस मुनाव पो
+चिय ॥ वयितर किरंदेत अर्घ याय ॥ चिले ॥ ❀ ॥ थन ॥ कुमारि पुजा याय
+॥ स्मया चक्र ॥ ❀ ॥ थन ॥ जाभुल छुय ॥ भोजन याय ॥ थुतो पुर्ण्ण ॥ ❀ ॥ न्हुयां
+थन खुनु मुद्रालि तय ॥ ❀ ॥ कोयिना ओने ॥ सिन्ह मोल हुय न्हिकं स्यने सक
+स्यातण ॥ गुरुपिंत दक्षिणा बिय ॥ ❀ ॥ कोयिना पुजा व क्वदिसि माथं ववा हा
+र उथ्यं ॥ देर झइव पुजा धुप चचा द्यो चचा ॥ राग तरावरि ॥ तार माथ ॥ ❀ ॥
+
+<!-- page 76 -->
+इन्द्र सिरोमनि सुर सरिर नन्दनं देव करिवर वंदन सुंदर वरा २
+ऋद्धिसिद्धि वर सुमर दायनि सकर विध्नं विनासकालितं नाञ्चयि रे
+ग भुवन बिजयसगणः गणेश्वरा ॥ ❀ ॥ राग मधूमत ॥ अथ॥ धनाश्री ॥ ता
+र झप ॥ ❀ ॥ अगनि तकरुख विदारुन देवा विघ्नान्तक महाक्रोढ राया २
+सरनर नागयक्ष गण वन्दिता देवा देव गणेश्वर भुव व्यापिता ॥ ❀ ॥
+नमानि २ श्री गणप्रति चलण ऋद्धिसिधि वेदाता ॥ दुलित हरण शुरु
+
+<!-- page 77 -->
+मर्ग्गर दायका सर्व्वलक्षन संपालिःता ॥ ❀ गज मूख त्रिनयन लंव क
+रतना बजसंवोदर नृत्यंधिया २ ता दव पद अति रावन देहा रक्त वर्ण्ण
+महोज्वरा ॥ ❀ ॥ रत्ना भरन बिभुषित देहा व्यार्घ चर्म्म नोद मनोरथा
+२ कछपांगिरि निवासकर गणप्रति धिध्याभुपुरिता ॥ ❀ ॥ ह्ररम २ मो
+रु गप्रति सरणे अभिमंत सुख फर दायनि २ सतगुरु चरने शिरे ग
+त धरियाः गावन्त सहजानन्द्र गीता ॥ ❀ ॥ ❀ ॥ राग तराओसि ॥ ❀ ॥
+
+<!-- page 78 -->
+॥ रंवोकल रंधादर तिनयना स्कध्य सोभास्कर सिन्दुर लपिता ॥ ❀ ॥
+॥ तेनाता ३ ॥ घाघर ने उर हाथ्य प्ररशू धरे २ भुज मुर अक्ष सुत्र धारिता
+॥ ❀ ॥ जम्भ निस्तम्भ निमोहनि आकर्षनि २ आदिम ध्यान्तक शूभ कल्या
+न मिता ॥ ❀ ॥ स्वर्ग मध्य पातार त्रिभुवन्य गनपति पुजिरे सर्व्व कार्य्य
+सिर्द्धि ॥ तेनाता ३ ॥ ❀ ॥ ❀ ॥ राग ॥ राघ वसुचरित चतु अंगनासि
+त यदुह विनाशय जय विगन्यश्वर ॥ तेनाता ३ ते हे नांता ॥ ❀ ॥ ❀ ॥
+
+<!-- page 79 -->
+राग ॥ ऋद्धिसिर्द्धि शुभ सेवासंपुर्ण्णा २ जय विगणेश्वर त्रिभुवन व्या
+पिता ॥ तेनाता ३ ते हे हे हे नांता ॥ ❀ ॥ ❀ ॥ ऊँ नमो श्री गणाधि पत्य स्व
+राय ॥ सिध्रुर लारुन वरकुर कुम्भ निजवरकरा प्ररतं सर्व्वगना
+धिप सिद्धि तस्यवं ॥ नौमिसद्रागन नायक देवं ॥ ॥ ॥ निल दरा दजरा
+य भुनित्ये ॥ हस्ति सनो हरयि वरवक्त ॥ नलस्वमंत प्रप्रदराव नौ मि ॥
+॥ २ ॥ शुर्य्य समाछत कर्न्न विसार नार समु रुतारि तुतार पलिमरसा
+
+<!-- page 80 -->
+मित विहंरहाव नौमि ॥ ३ ॥ पासफल किसनिर जहस्तं कोमर पिओर
+सुदशुजस्त नदिक राहतमुज शुहाओ नौमि ॥ ४ ॥ कोतु कन्यकभिंगशू
+हाओ विकतमुखा कृततमिकाय मुखकराज कुतासननाव नौमि ॥ ५ ॥
+नाग मनोहलकर्ण्ण विहारं रम्भ गुरु दरभार बुदारं स्यतमनोरथसम
+तसावं नौमि ॥ ६ ॥ तामसलिरस रोकरवेन खप्रद्रवारुन चंचर कर्ण्ण
+एक सितायत दंत सुहावं नौमि ॥ ७ ॥ रत्नबिभुखित भुखी तगातं रंदु
+
+<!-- page 81 -->
+ककारुन रार सपुतं घाघर नादविनोदित देवं नौमि ॥ ८ ॥ वारसरा
+सुतिपंदित भाखं देव विनायक तोत्रविसेखं जेचपथंतिसन्द्रा शुभ वित
+त भूभ व भुमहोदु विद्या नौमि ॥ ९ ॥ इतिश्री गणेस्वर तुत्रं समाप्तं ॥
+॥ ❀ ॥ ❀ ॥ थन ॥ क्वय न्हा पुजा सतिषुन्हु ॥ धमुसय वोक दिसिमाथं पुजा ॥
+सिन्हरंतिय पात्र खाज हिरक्य ॥ स्मयाचक्र ॥ धुस्यंरी ॥ ❀ ॥ गुरु प्रमुषं
+धमुसकस्यातं ॥ ग्वपलव ल्हाय ॥ ❀ ॥ ग्वखेंम्हतिं मात ॥ धौ सगं खें सगं ॥
+
+<!-- page 82 -->
+॥ धमूसय छथाजक जुओसा ॥ भूरु मात्रा उपाध्या चचाया कतांगुलि सु
+सिं ॥ थुतिसयात धमुसकस्यानं ल्हाना बजि रा लापि क्वातया भपके मा
+र ॥ ❀ ॥ थुति धमुसय जुर ॥ ❀ ॥ थन ॥ देव सिकओने ॥ ❀ ॥ वन जात्रा
+ओनेमार ॥ ❀ ॥ दनुयाय मांसाहुति याय माल ॥ ❀ ॥ थुति देख पुरे जुर ॥
+॥ ❀ ॥ शुभ ॥ संवत् ९७८ म्ति कार्त्तिक शूक्रया षष्टमि शुक्रवार थ्व षुन्हु
+संपुर्ण्ण सिधु दिन जुर ॥ ❀ ॥ ऋखि तं हेर्ण्ण वर्ण्ण महाविहार ङाखा चुकन
+
+<!-- page 83 -->
+नि यन्ता गृह वज्राचार्य्य श्री भिंख्वा धन जुनं सिखापिता ॥ थ्व सफु थव कु
+पनित दयका जुलो ॥ शुभं ॥ ❀ ॥ देखाया न्हि कि लासं चाकि रासं आगंवो
+तय वो १६ जुर ॥ न्हिकिलास सम्हय मार ॥ ❀ ॥ किलं खुन्हु तविय त ९
+मार ॥ न्हिकि लास त ७ मार ॥ चाकिरास त २ मार ॥ दिग पुजा नमस्का
+र ॥ मुरा षुन्हु त ९ प्रज्ञानित २ मार ॥ पुर्ण्ण षुन्हु त ९ प्रज्ञानित २ मार ॥
+॥ ❀ ॥ म्हतिं कुर ६ थरकु जाकि ॥ छावहयादां महतिं शुका ॥ ध्यवा जुर ॥
+
+<!-- page 84 -->
+१ राग विभास ॥ अथसिंगार मारशी ॥ ❀ ॥ धनकरि सागर धाने वि
+हि मण्डल माझ थितया वसुन्धरी ॥ ॥ श्री रक्षि धनेश्वरि गुननिधी
+श्री वजाचार्य्यन २ ततोमन्त्रन्यास मण्डसथोतया ॥ ❀ ॥ पुजनयास्मो भव
+तारुनि देवि पीतवर्ण्ण मेक मुख षत भूजया २ रलितासन दहिनव
+ररस्न मज्वरिता ॥ ❀ ॥ वज धर सागर गुरु सिरसवासकरथित शुव
+र्ण्ण कलसंधांन्यमज्वरि प्रज्ञा पुस्तक सनिमकत सिरसं व्यापिनिधालिता
+
+<!-- page 85 -->
+॥ ❀ ॥ दिव्यरुपि भवता रुनि चिन्ता भरन विविधीर विभुखन २ चि
+न्तामनि धासिता ज्वतिमयं ॥ ❀ ॥ वामथित वजपाणि लोक्यश्वर दहिन २
+जरेजन वरुनज इन्द्रादिदेव गन लोक पारसहिता ॥ ❀ ॥ श्री गुरु भा
+स्कर वज्राचार्य्यन चिन्ता ॥ ❀ ॥
+
+<!-- page 86 -->
+ॐ ह्रीकारेण पर्द्म भांगनं तत्रमाकारेण मामकी पंञ्च बुद्ध स्वरुपिणी ॐ हुँ त्राँ
+ह्रीँ खँ शुक्ल कृष्ण पीत रक्त स्याम वर्ण्णादि भूजाः वजहस्ता संपुतयोगेण दविभूतंप स्यंत् ॥
+ॐ मत्रकरोतक शुन्यं भावयेत् ॥ कंकारेण कपाल साकारेण वारुणी अष्ठा दश भू
+जा एक मुखा त्रिनेत्रा खड्गवाना कुश सर्द्दकपार कुसिस ध्वजाः तथागत्रा तथाद्दङ
+ठा नवमंच वरप्रदा स्फेतकाधनुपाशञ्च त्रिशूल मुंगल वानां त्रिचोत्तरेन व
+यौवन संथर्न्ना त्रिनेत्रा शूभ सुंदरी ॥ २ ॥
+
+<!-- page 87 -->
+राग नाटक ॥ ताल झप ॥ भामु मण्डल मध्ये ज्वलित हुँकार आलिकालि दुयि चापयि
+हेरुक ॥ नमामिर्णी निलालम्वत्रि भुवन नाथं ॥ वज्रवाराही आलींगण अद्वय ॥ ध्रु ॥
+च्णष्त्तचर्ण्ण चतुवदन त्रिनेत्र २ विश्व कुलिओ अर्द्व चन्द्र जटा युक्त ॥ ध्रु ॥ डाकिनी रामाख
+ण्डरो हारुपिणी २ चतुर्द्दवीक्रीडन्ति वीरं वीरासा ॥ ध्रु ॥ भुषित षट्मुद्राच्छत्री संवीरे
+ण्चर २ भनयि अनुपद्म बज्रहरुकदास्प ॥ ध्रु ॥ ❀ ॥ नीलाञ्ज नालि रुचिभी
+षणवीरमूर्त्ति ॥ राकाल रुपं वझववल चनद्रकेश ॥ उग्रड्तण त्रयकलाल मुख ॥ क
+
+<!-- page 88 -->
+पाली भैरव सकल मातृक राग नाथ ॥ ॥ राज भैरवी ॥ ताल ॥ ॥ ऊ आहुफट्
+अन्त स्वाहा ॥ मन्त्र विस्पखउचारुणा पुजा पुजित पुजसंभाव्य सत्व रुपस्मार भव हतुरे
+॥ ख ख खाहित अलिवलि पुजा ले घ घ घाटय अटय विघ्न रे पंचामिया रस पंचणारि
+रे पञ्चज्ञान सर्ववरिना ॥ ❀ ॥ सर्वभुड्गराड्त भुत प्रेत रे पिशाच अपस्मारु रे २ डाक
+डाकिन्यादि अट्षण्मणाने इदंवलि गृन्ह गन्हन्तु रे ॥ ❀ ॥ समया आरड्तन्तुमोड्ग र्सिद्धि रे
+सुखसंभव पदविशुर्द्धि रे २ जथै वज णे वभुज थपि वथरे जि घ्रण्ठ मातृका मनोरथे रे ॥
+
+<!-- page 89 -->
+॥	॥ दानपति सर्वकार्य्य सिर्द्धि रे मनोरथ सर्व सुखयद शान्ति रे २ आर संसार तथा
+गत वचने स्वायंकर भवन्तु रे ॥ ध्रु ॥ ❀ ॥ ॥
