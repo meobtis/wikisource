@@ -35,22 +35,6 @@ pujāyacopacāre : stri bhūvananamitaṃ : medanihurabhaya bhakaptā
 dcāya namo dharmāya namo saṃghāya .. .. oṃ namo śrī mahā
 makaparastai lokya vijayīvīro guhyacātkūliśeśvara
 
-anuvāda-
-
-1 oṃ namaḥ buddhāya. sabai dhārmika siddhāntaharūko srota, mokṣako srota ra sabai saṃgatako srota ādhyātmika gurulāī ma mero vinamra praṇāma arpaṇa gardachu.
-aṃḍaravarlḍa jebhukṣaṅgamā kṛṣṇa : phaṇīmaṇī kirāṇā : dhyānasarvandha
-indra: trimukhama dvāra bhūtama: muni varavacanam guruntamayanti: sarvya
-kṣakumbhanu kinnā candra: garuḍa harihara sakrabramhati daiva
-ma prastāva gardachu: jhukeko śilasā. tanāma mahāyāna gurutama. ḥ namo yu
-oṃ manjunāthāya namaḥ. .. athavarjādhara śrīmāna durdāntatra
-
-mṛtakalāī oma. edevāsantimu: vācakanakāmayāmaṇḍileyaca
-kalā: kailāsya trivirāse: pramudita hṛdayajarecāvidyādhāre
-siddhi, gandharva ra nāgamā dānava devatāharū, icchā garne putraharū āūn.
-pūjayacopacāre: strī bhuvananāmitama: medanihurabhaya bhakapta
-ma paramapuruṣa paramātmāmā bhāvapūrṇa śraddhāñjalī arpaṇa gardachu. .. oma namo śrī mahā
-guhyacata kulīeśvarabāṭa vijayī nāyaka mākaparastai lokya
-
 <!-- page 2 -->
 .. 1 .. vibuddha : puṇḍalīkākṣa : posphulakamalānana : .. porāraya vajravalaṃ : sāekareṇa muhurmahu ..
 2 .. bhṛkuti talaṃga pramukhai : ratnataivajrapāṇibhi : .. durdāntatramakaivīrai : vīravībhatsarūpibhi .. 
@@ -63,8 +47,6 @@ guhyacata kulīeśvarabāṭa vijayī nāyaka mākaparastai lokya
 9 .. bhagavān jñānakāyasya : mahāeṣṇīṣasya gṛyate .. maṃjuśrījñānasa . tvasya : jñānamutte svayambhuva ..
 10 .. mahārārthā :
 
-anuvāda-
-
 <!-- page 3 -->
 mahārārthāḥ mahārthāmāsamā śivān .. ādima dhyāntakalyāna : nāmasaṃgitīmurttemāṃ ..
 11 .. yātitaibhāṣitāmbuddha : bhāṣiṣyente jyanāgutā .. praṃtyupanṇāśca sambuddha
@@ -75,8 +57,6 @@ kṣāminiryyānaṃca dṛdhāśaya .. yathā bhagavānmyahaṃnāthaṃ : sarv
 thāṣāedaśa .. .. athaśākyamuni bhagavānsaṃbuddhodvīpadotama .. 1 .. smitaśandasyalokānāṃmapā
 yatrayaśodhana .. stailokyabhāsakalena : caturmārālisāsanaṃ .. 2 .. trīlokya māpurayīṃtvā : bramhāmadhulayagirā .. pramyabhāṣaṭatuhyandro : vajrapāṇima
 
-anuvāda-
-
 <!-- page 4 -->
 hāvala .. 3 .. sādhubajradharaśrīmāna
 sādhūte vajrapānaya .. yastvaṃ jragahitārthāya : mahākaruṇayāmvita ..  4 .. mahārthānāmasaṃgītī : pravivatrāmaghanāsani
@@ -85,16 +65,12 @@ thāṣat .. athasākyamuni bhagavāna : sakala mantrakula mahat .. mantravidyā
 mahat .. mahāmudrākulaṃ cāgra : mahāeṣhīṣakulaṃ mahat .. 2 .. ṣaṭkurāevalāekamalāgāthā dve .. 1 .. imā ṣatmantra rājānaṃ : saṃyuktomadvayāe : anutpādadharmī
 ṇī gāthā bhāṣante samagirāṃmpate .. 1 .. a ā i ī u ū e ai o au aṃ a .. sṭhito hudi jñānamurttirahaṃ buddho vuddhānāṃdhvavarttinā .. 2 .. oṃ vajratiṣṇa dukha chenda : prajñājñānamuttatya .. jñānakāyavāgīśvara : aṃlapaṃcanāya te nama .. 3 .. māyā jālābhisaṃbodhī : kramagāthohatīsana .. 0 ..
 
-anuvāda-
-
 <!-- page 5 -->
 tadyathā bhagavānbuddho : saṃbuddhokālasambhava : akālasarvavardhāgromahārtho paramākṣara .. 1 .. mahāprāṇo hṛnutpādo vāgayadāhāravarhita .. sarvabhirāpahetogra;
 sarvavāsoprabhāśvara .. 2 .. mahāmrahamahārāja : sarvasatvaratīkara : mahāmahamahāddheṣa sarvakleśamahāripu .. 3 .. mahāmahamahāmoho : mūḍhadhīmohasūda
 na .. mahāmahamahākrodho : mahākrodhoriyu mahān .. 4 .. mahāmahamahālobha : sravalobhanisuṃdana .. mahākāmomahāsauṣyo : mahāmodomahārati .. 5 .. mahārupo mahākāyo : mahāvarṇomahāvayū .. mahānāmo mahādāro : mahāvipulamaṇḍala .. 6 .. mahāprajñāyudhaṃdharo : mahākleśākuśoguṇi .. mahāyasā mahā
 kīrtimahājyotimahādyuti .. 7 .. mahāmāyādharo viddhān : mahāmāyārthasādhaka .. mahāmāyāratiratva : mahāmāyādrajālika .. 8 .. mahādānaprati śreṣṭho; mahā
 śīlodhalograṇi .. mahākṣāntidharo dhīro : mahāviryyaparākrama .. 9 .. mahādhyānasamādhisṭhā : mahāprajñāśarīdhṛka .. mahābaro mahāpāya : praṇiśijñānasāgala
-
-anuvāda-
 
 <!-- page 6 -->
 .. 10 .. mahāmaitrīmayomayo : mahākāruṇikrograṇi : mahāprājño mahādhīmān mahāpāya maṭākṛti .. 11 .. mahāṛddhibalopeto : mahāvego mahājava .. maharddhiko mahesā
@@ -103,8 +79,6 @@ ttamo guru : mahāyānaṇayoruḍho mahāyānanayottama .. 14 .. vajra dhātu m
 ntronayobhūto; mahāmantranayātmaka .. 15 .. daśapāramitāprāpto : daśapāramitāśraya .. daśapāramitāśuddhi : daśapāramitānaya .. 16 .. daśabhūmiśvaronātho
 dasabhūmipratisṭhita .. daśajñānaviśudhātmā .. daśajñānavisuddhadhṛka .. 17 .. daśākārodaśāthārtho : mūnindrodaśavalo vibhu .. aśeṣaviśvārthakāro : daśākārovaśi mahān ..
 ḥ .. anādinikṣapaṃcātmā suddhātmā tathatātmaka .. bhutavādi yathāvādi tathākāli anayonyavān .. 18 .. advayo dvayavādī caḥ bhūtakoṭivyavasṭhita .. nairātmyasiṃhanīrā
-
-anuvāda
 
 <!-- page 7 -->
 da : kūṭītthamṛgabhītkara .. 6 .. sarvvatragomodyagati : tathāgatamanojrava jrino jritālivijrayi : cakravarttimahāvala .. 7 .. gaṇamukhyo ganācāryya : ganeśvara gaṇamativasi

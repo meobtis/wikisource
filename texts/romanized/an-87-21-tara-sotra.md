@@ -28,20 +28,12 @@ lopete ṣaṭpadodgītaniḥsvane .. kiṃnerairmadhurodgīte mattabāraṇasa�
 bidyā dharagaṇai rgaṃdhabaiśva ninādite .. munibhi rbītarāgaiśva satataṃ saniṣebite .. 4 ..
 1
 
-anuvāda
-
-oṃ triratnalāī namana . oṃ śrī ārya tārālāī namana . śrīmān potalāko ramaṇīya, nānā dhātule suśobhita, anekauṃ vṛkṣa ra latāle bharieko, anekauṃ pakṣīharūko guñjanale bharieko . 1 . anekauṃ jharanāharūko jhaṃkārale bharieko, anekauṃ mṛgaharūle bharieko, anekauṃ phulaharūle cāraitira sugandhita banāeko . 2 . anekauṃ manamohaka phalaharūle bharieko, bhamarāharūko guñjanale bharieko, kinnaraharūdvārā madhura gīta gāieko, matavālā hāttīharūle bharieko . 3 . siddha vidyādharaharūko samūha ra gandharvaharūdvārā guñjāyamāna, rāgabāṭa mukta muniharūdvārā sadhaiṃ sevita . 4 . 1
-
 <!-- page 2 -->
 bodhisatva gaṇaiśvānyai rdaśabhūmīśvarairapi .. āryyatārādibhirdebyai rbidyārāja sahasrakaiḥ .. 5
 krodharāhagaṇaiscānyai rhayagrībādibhirbṛtaḥ .. sarbasatva hitodyukto bhagavāna valokitaḥ ..
 .. 6 .. bijahāra tataḥśrīmān padmagarbhāsane sthitaḥ .. mahatā tapasā yakto maitryāca
 kṛpayānvitaḥ .. 7 .. dharmaṃ dideśa tasyāṃ ca mahatyāṃ debaparṣadi .. tatropabiṣṭamāgamya
 bajrapāṇirmahābalaḥ .. 8 .. paramakṛpayā yukto pa prachatyavalokitaḥ .. taskaroraga
-
-anuvāda-
-
-bodhisattvaharū, daśa bhūmikā īśvaraharū, āryatārā ādi devīharū, hajārauṃ vidyārājaharū, krodharājagaṇaharū, hayagrīva ādibāṭa gheriekā, sabai prāṇīharūko hitamā udyata bhagavāna avalokiteśvara, tyasapachi śrīmān padmagarbhāsanamā basera, mahān tapasyāle yukta, maitrī ra karuṇāle bharipūrṇa bhaera vihāra garnubhayo. tyasa viśāla devapariṣadmā dharmako upadeśa dinubhayo. tyahām̐ āera basekā mahābalī vajrapāṇile parama karuṇāle yukta bhaera avalokiteśvaralāī sodhe.
 
 <!-- page 3 -->
 siṃhāgni gaja byāghrāṃ bu saṃkaṭe .. 9 .. sīdantyamīmune satvā magnā saṃsāra sāgare ..badhdā
@@ -50,10 +42,6 @@ ne .. ebamukte jagannātha saśrīmānnabalokitaḥ .. 11 .. ubāca madhurāṃb
 prabodhanīṃ .. śrṛṇu guhyakarājendra amitābhasya tāyinaḥ .. 12 .. praṇidhānabaśo ba
 śotpannā mamājñā lokamātaraḥ .. mahākaruṇayopetā jagadu ddharaṇodyatā .. 13 ..
 2
-
-anuvāda-
-
-siṃha, agni, hāttī, bāgha jastā saṅkaṭamā parekā, saṃsāra sāgaramā ḍubekā yī prāṇīharū rāga, dveṣa ra mohale bhariekā sāṃsārika bandhanamā bām̐dhiekā chan. he mahāmuni, jasale gardā tī prāṇīharū mukta hunchan, tyo malāī bhannuhos. yasto bhandā jagannātha, śrīmān navalokitale madhura vāṇīmā vajrapāṇi prabodhanīlāī bhannubhayo- he guhyakarājeṃdra, amitābhako tāyinīko bāremā sunnuhos. mero ājñā, lokamātā, praṇadhānavaśa utpanna bhaekī, mahākaruṇāle paripūrṇa bhaekī, jagatako uddhārako lāgi udyata chin.
 
 <!-- page 4 -->
 uditā dityasaṃkāśā pūrṇendubadanaprabhā .. bhāsayanti imāṃtārā sadebāsuramānu
@@ -127,8 +115,6 @@ duḥkhitasya sukhī nityaṃ daridro dhanabān bhabet .. jaḍo bhabetmahāprā
 dhābī nātra saṃśayaḥ .. 48 .. bandhanānmucyate baddho vyavahāre jayo bhavet ..
 śatravo mitratāyānti śṛṇagiṇaśvāpi daṃṣṭriṇaḥ .. 49 .. saṃgrāmeśaṃkaṭe du
 
-anuvāda-
-
 <!-- page 13 -->
 rge nānābhaya samākule .. smāraṇā devanāmāni sarvabhayā nyapohati .. 50 ..
 nākāla mṛtyuṃbhavati prāpnotivipulaṃyaśaḥ .. mānuṣya saphalaṃjanma stasyai
@@ -136,17 +122,7 @@ kasya mahātmanaḥ .. 51 .. yastvidaṃ prātarutthāya mānavaḥ kīrtayiṣy
 dīrghakāla māyuṣmān śriyācalabhate naraḥ .. 52 .. devānāgāstathāyakṣā
 gandharbā kaṭapūtanā .. piśācā rākṣasī bhūtā mataro raudratekṣasāḥ .. 53 ..
 
-anuvāda-
-
 <!-- page 14 -->
-ḍākinyostāḍakā pretāḥ skandomāndāmahāgrahāḥ .. chāyāpasmārakrā śvai
-va ye ca kākhordakādayaḥ .. 54 .. betāḍācicvakā prekhyā ye cānya duṣṭaceta
-sāḥ .. chāyāmapi nalaṃghante kiṃ pun stasyavigrahaḥ .. 55 .. duṣṭasatvānavādha
-nte byādhayonta kramantica .. sarvaiśvaryya guṇairyuktāḥ putrapautrāśvavarddhate .. 56 ..
-jātismaro bhaverddhomān kulīnaḥ priyadarśanaḥ .. prītimā nsamahāvāgmī sa
-
-anuvāda
-
 ḍākinyostāḍakā pretāḥ skandomāndāmahāgrahāḥ .. chāyāpasmārakrā śvai
 va ye ca kākhordakādayaḥ .. 54 .. betāḍācicvakā prekhyā ye cānya duṣṭaceta
 sāḥ .. chāyāmapi nalaṃghante kiṃ pun stasyavigrahaḥ .. 55 .. duṣṭasatvānavādha
@@ -157,5 +133,3 @@ jātismaro bhaverddhomān kulīnaḥ priyadarśanaḥ .. prītimā nsamahāvāgm
 rvaśāstraviśāradaḥ .. 57 .. kalyāṇamiṃtrasaṃsebī bodhicittabibhūṣitaḥ .. sadā
 virahito buddhairyatrayatro papadyate .. 58 .. iti śrīāryyatārābhaṭṭārikā
 yā nāmāṣṭottara śatakaṃ buddhabhāṣitaṃ parisamāptaṃ .. .. ❀ ..
-
-anuvāda

@@ -31,17 +31,6 @@ bamavravīt .. 5 .. sādhu śrṛṇu mahābhāga yathāme guruṇīditaṃ .. t
 mijagadvite .. 6 .. tadyathāsau mahārājo bhūyośokonarādhīpaḥ .. vihāre kukkuṭārāme dharmma
 śrītaṃsamaṃcaret .. 7 .. tatrasa samupāviśya samantrijana paurikāḥ .. upa guptaṃta marhantaṃ
 
-anuvāda
-
-oṃ namaḥ śrī dharmarājaya .. .. .. gurulāī namana gardachu ra tīna ratnaharūko saṃkṣipta varṇana gardachu . .. yo sabai jīvita prāṇīharūko hitako lāgi dhārmika siddhāntaharū jitne vyaktiko satya kathā ho. 1 .. .. tyasapachi dhaumana, mahāna saṃta, jina śrī rāja
-je. ātma-cetana. jaya śrī yāntile āphno ṭāuko uṭhāe ra hāta joḍera yī śabdaharū bhane. 2 .. .. bhadanta śrītu micchāmi
-saṃgharatnasyāsatamatiḥ .. .. .. .. īśvarako sarvocca vyaktitva, śrī mātolokako mahānatā, uhām̐kā guṇaharūmadhye sarvottama ho. 3 .. .. tacchima
-uhām̐ tīna lokakā svāmī hunuhuncha ra duī prakārakā śaktiharū hunuhuncha. he brahmāṇḍakī āmā, kṛpayā malāī bhautika prakṛtiko guṇaharūko mahimā bujhāunuhos.
-4 .. .. jaba uhām̐lāī yasarī prārthanā gariyo, jñānī puruṣa jaya śrī prakaṭa bhae. jina śrī rāja malokya tayantime
-bāmavravita. 5 .. he bhāgyamānī, kṛpayā mero ādhyātmika gurule malāī bhaneko kurā sunnuhos. tathāhantele puvakṣyako sārāṃśa dinchan
-mijagadvite .. 6 .. yasarī nai mahāna rājā bām̐daraharūko rājā bane vihāra kukhurāko khoramā dharma
-śrītansamacareta .. 7 .. nāgarikaharū āphnā mantrīharūsam̐gai ḍarāera base .. unale lukna yogyako
-
 <!-- page 2 -->
 puṇatvāsaṃmupāśrayat .. 8 .. tatrasasamupāgatya tamahentaṃyatiṃmudā .. abhyarcyasāñja
 lirnatvā prārthayadevamādarāt .. 9 .. bhadantaśrītumicchāmi lokeśasyajagatprabhīḥ .. saï
@@ -52,8 +41,6 @@ munijegaṭguruḥ .. dharmmarājomahābhijñaḥ sarvajño'rhanmanauśvaraḥ .
 ghanaḥ śāstā tathāgatī vināyakaḥ .. mārajitsugatonātha straidhātukodhipojinaḥ .. 14
 śrīmato'nāthamāthasya gṛhasthasya mahātmanaḥ ..vihāre jetakodyāne vijahārasa sāṃdhikaḥ
 .. 15 .. tadātatramahāsatvo vodhisatvo jinātmajaḥ .. maitreya pramukhāssaversaïrmmaśrītu
-
-anuvāda
 
 <!-- page 3 -->
 māgatāḥ .. 16 ..  tatrataṃśrīghanaṃ dṛsdvā supusannāśayāmudā .. tatpādāvjepraṇatvātatsabhā
@@ -66,8 +53,6 @@ rbesaddharmmāmṛtalālasāḥ .. paśyaṃto duratonatvā śāstāraṃtaṃ s
 pramukhāḥ sarvelokapālāḥ pramoditāḥ .. bhagavantaṃtamālokyadūrāṃnnatvā samāgatāḥ .. 3
 4 .. tathāsarvecagaṃdharvādhatarāṣdrādayopite .. sudūrātsaṃnirīkṣantā namaṃtaḥ sahasāgatāḥ
 
-anuvāda
-
 <!-- page 4 -->
 .. 25 .. viruḍhakādayaḥ sarve kubhāṇḍaśca pramoditā .. tepisadūratodṛṣdvā namaṃtaḥ saha
 sāgatāḥ .. 26 .. virupākṣādayaścāpri sarvenāgādhipāstathā .. tepidṛṣdvāsudūrāntaṃ
@@ -78,8 +63,6 @@ sarvāstārāgaṇāścāpi sarvavidyādharāapi .. 29 .. sidvāḥ sādhyāśca
 kinnarendrādramādayaḥ .. vemacitrādayasarvedaityandrārākṣasāapi .. 31 .. mahoragāścanā
 gāścasarvapijalavāsinaḥ .. sarvepidevaputrāśca sarvepicāpsarāgaṇāḥ .. 32 .. sarvāgaṃ
 dharvakanyāśca sarvāḥ kinnarakanyakāḥ .. nāgakanyāścadibyāṃgā rakṣākaṃnyāścabhadrikāḥ
-
-anuvāda
 
 <!-- page 5 -->
 .. 33 .. yakṣa kanyā asaṃkhyeyā tathācadaityakanyakāḥ .. asaṃkhyayāstathāvidyā dharakanyā
@@ -92,8 +75,6 @@ rājānakṣatriyaścāpi sarverājakumārakā .. amātyāmaṃtriṇaścāpi ś
 .. 39 .. sainyāyodhṛgaṇāścāpi bhṛtyāparijanāapi .. gṛhaṣṭhādhaninaḥ sārtha vāhādayo
 vaṇiggaṇāḥ .. 40 .. śilpinaḥ kṛṣiṇaścāpi sarbaikuṭumbinīpica .. sarvaivaśyāścarudrā
 
-anuvāda
-
 <!-- page 6 -->
 śca tathānyaisarvajātikāḥ .. 41 .. nāgarājāḥ paurikāścāpi jānapadāścanairgamāḥ ..
 grāmyāḥ pratyantadeśasthā kārppaṭikāśca pārvatāḥ .. 42 .. evaṃ sarvepilokāśca sambuddha
@@ -104,8 +85,6 @@ tsadvarmmāmṛtaṃpātuṃ parivṛtyasamaṃtataḥ .. puraskṛtya samādhā
 6 .. .. dūtiśrīvikramānandaviracitāyāṃ adbhuta kuladīpa dharmmarājakathāyāṃ du
 ṣṭa satva śāsanānuśaṃsāprathamo'dhyāyaḥ .. 1 .. athā nandomahābhijñī bhagavantamavoca
 tat .. bhagavan śrotumicchāmiśubhāśubhaphalaṃnṛṇām .. 1 .. evaṃmuktetha bhagavān uvā
-
-anuvāda
 
 <!-- page 7 -->
 cabhikṣusartamam .. ṣaṭsugatiṣamagnānāṃ tacchuṇuṣvaśubhāśubham .. 2 .. śrutaṃpūrvamyānanda
@@ -118,8 +97,6 @@ tisteṣāṃ pṛthak pṛthak .. 7 .. tapena jāyate devaṃ dharmmeṇajāyat
 dena jāyate paśuḥ .. 8 .. dānenajāyate rājā pāpena jāyatekṛmiḥ .. tasmātkāraṇādevaṃdha
 rmmadānaṃ praśasmate .. 9 .. śubhāśubhamidaṃkarmma kāya vākcirtajaṃtataḥ .. phalaṃbhuktejanaṃsta
 
-anuvāda
-
 <!-- page 8 -->
 syalokortaraicalaukike .. 10 .. athāha punarānando bhagavaṃtaṃ jagaṭgurum .. pāpānāṃ mūla
 lokānāṃ byaktayaṃ sampradarśayaḥ .. 11 .. kāya vākmanasākarmaḥ kānikānikṛtānica .. ya
@@ -130,8 +107,6 @@ kāyaduścaritaṃkarma tridhābhinnaṃprakāśitam .. adartaprāṇātipāta�
 tāḥ .. 15 .. manoduścaritaṃ karmma tridhābhinnaṃ bidurvudhaiḥ .. abhidyāścaivavyāpāda mi
 thyāṭṭaṣṭhistrayovidhāḥ .. 16 .. yīdayāṃ saṃtyajeddrīhi paraprāṇabadhādinā .. tādanaṃ hiṃsaka
 rmādi prāṇipātastaducyate .. 17 .. anenaparahiṃsena āyuchinnaṃbhavetsadā .. tasmācva
-
-anuvāda
 
 <!-- page 9 -->
 kāraṇānanda parahiṃsaṃtyajetsadā .. 18 .. paraviṣayecalomena anyāyenavalenaca .. cau
@@ -144,8 +119,6 @@ dena ninditaṃ sarbadā bhavet .. tasmāccakāraṇānnanda mṛṣāvādaṃ p
 ṣaṃguptayetpena paradoṣaṃ prakāśyate .. śāpayetmarmādiścetaḥ pāruṣyavacanaṃ viduḥ .. 25 ..
 anenacapāruppena mānanāśaṃbhavetsadā .. tasmāccakāraṇānnanda pāruṣyavacanaṃtyajet .. 2
 
-anuvāda
-
 <!-- page 10 -->
 6 .. durvṛ tivyavahāreṇa vaṃdhumitramvirudhyate .. svenaguṇaścalabdhāya paiśunyaṃvidadhāmataḥ
 .. 27 .. anenacapaiśūnpena niṃdanīyaṃsadā bhavet .. tasmāccakāraṇānnanda paiśunpaṃsarva
@@ -156,8 +129,6 @@ dyāmiti jñeya durjanaiḥ parisevyate .. 31 .. anenacaavidyena unmattaṃsarva
 tasmāccakāraṇānnaṃda avidyāsamparityajet .. 32 .. paradehādisampattaukucittenasaśāpa
 yet . amaṃgalabhavatviti vyāpādoyaṃsa ucyate .. 33 .. anenacavyāpādena aḍatāsa
 rvadābhavet .. tasmāccakāraṇānaṃda byāpādaṃ samparitpajet .. 34 .. paratrepāpapuṇyana su
-
-anuvāda
 
 <!-- page 11 -->
 kha duḥkhaṃnavidyate .. durvodha śāstraṃśrutvāca mithyādṛṣṭisanāritake .. 35 .. anenamithyā
@@ -170,8 +141,6 @@ rmaṇā .. 40 .. itiśrutvā athāṃnaṃda lokārthamanuśocayan .. bhotasa�
 stanūruhaḥ .. 41 .. athabhagavānāha .. dānenaharatepāpaṃ dānenadhanakrddate .. dānena jñānasā
 dhyaṃtedānenakāmasidhyate .. 12 .. kāmasiddaranamokṣaṃca prāṣpate nātrasaṃśayaḥ .. anenadā
 
-anuvāda
-
 <!-- page 12 -->
 namāgerṇamucyate pamaśaḥ satam .. 43 .. yo mātṛpitṛna pakāra pāpaṃ haṃtuṃ svamūrttiguraravepradadyā
 t .. anena svātmadānena mātṛdrohaṃsadāharet .. 44 .. tasmāccakāraṇānnaṃda mātṛdrohaṃtyaje
@@ -182,8 +151,6 @@ nadyāṃprati chinnapāpaṃ haṃtuṃpu kalpetpulinaṃpraśobham .. anenaset
 hṛdānaṃ pudade tprasannam .. 48 .. anetadehadānena guravekutsāharetsadā .. tasmāccakāraṇā
 nnanda guravekutsāṃtyajetsadā .. 49 .. yāsvāmidrohiṃprahaṃrtucapāpaṃ sadaivasvāmiṃcabhaktiṃ
 prakuryāt .. anenasvāmibhaktena svāmidrohaṃ haretsadā .. 50 .. tasmāccakāraṇānnanda
-
-anuvāda
 
 <!-- page 13 -->
 svāmidrorhatyajetsadā .. yīraṇyadāhaṃ prahaṃrtucapāpaṃ amarasyacāgrehomamprakuryāt .. 51
@@ -196,10 +163,6 @@ taḥ .. bhikṣavopitadāsaveṃ saṃtrasitāstanūruhāḥ .. 56 .. .. iti ś
 viracitāyāṃ adbhuta kuladaupadharmmarājakathāyāṃ dānadharmān śaṃsāhidvatīyo'dhyāyaḥ .. 2..
 .. oṃ namaḥ śrī dharmarājāya .. atha śrī bhagavānśāstā śākyasiṃhomunīśvaraḥ .. paṣarṭga
 
-anuvāda
-
-mālikale sadhaiṃ śatrulāī mārnuparcha .. yadi kasaile pāpīlāī jaṃgalamā jalāera mārcha bhane, usale amaraharūlāī āhuti dinuparcha .. 51 .. yasa yajña āgodvārā sadhaiṃ vanako āgo nibhāunu parcha .. yasa kāraṇale gardā, he ānandita, kerā jalāune kāma sadhaiṃ tyāgnu parcha .. 52 .. viśvāsaghāta ra prākṛtika pāpalāī mārna devatāharūko sevā garnuparcha devatāharūko yo sevādvārā viśvāsaghāta haṭāuna sakincha .. 53 .. tyasakāraṇa, he nanda, binā kāraṇa āphno viśvāsaghāta garnu hum̐daina .. āphno pāpī śarīra tyāgera arko puruṣasam̐ga āsakta mahilālāī mārnuparcha, jo usako mālika hoina .. 54 .. āphno ātma arūlāī diera, arūpratiko ākarṣaṇa haṭāunu parcha .. 55 .. .. ṛṣile yasarī nirdeśana dieko sunera rāma ānandale abhibhūta bhae. bhikṣuharū sevakakahām̐ pugdā tinīharūko śarīrako rauṃ ḍarāe .. 56 .. .. yo śrīmadbhāgavatamko dosro adhyāya ho, juna śrī vikramānandadvārā saṃkalita garieko ho .. 2 .. .. oṃ namaḥ śrī dharmarājaya .. tyasapachi divya śāsaka śākya siṃha ṛṣi ..
-
 <!-- page 14 -->
 ṇaṃsamālokya hasantuṣṇoma bhūttadā .. 1 .. athānaṃdomahābhijño lokārthamanuśe cayan
 āsanātsahasotthāya bhagavantamuvācasaḥ .. 2 .. bhagavanpātumicchāmi tvamukhāmbhīja
@@ -210,8 +173,6 @@ ralokegataḥ kaścin niraye cātidāruṇe .. kena karmavipākena tāṭṭaksy
 gnake .. 6 .. evaṃ muktetha bhagavānuvāca bhikṣu santamam .. sarvalokahitārthāya svamprabhava
 mpradarśayet .. 7 .. tasmin kāle puruhūta strayatriṃśātsamāgamat .. bhagavantaṃ samālokya
 sāñjalirevamavravīt .. 8 .. bhagarvānvamala maṇiprabhīnāma saptāha maraṇobhavat kuto
-
-anuvāda
 
 <!-- page 15 -->
 gataḥ kuto janma najñā tohaṃ mahāvibho .. 9 .. evamuktepuruhūtaṃ munindreṇasamavrabīt ..
@@ -224,8 +185,6 @@ taṃcandravimvandadeddudhaiḥ .. 14 .. anena dāna dharmeṇa avīcyāḥ mucy
 kāraṇācchaka candravimbampraśasyate .. 12 .. athabhagavānāha .. tatonyerauravepāye nīya
 teyamakiṃkaraiḥ .. pañcadaśasahasrāṇikṛchrāṇirauravesthitaḥ .. 16 .. ityādiṣṭhaṃmunīndre
 
-anuvāda
-
 <!-- page 16 -->
 ṇa śrutvādevendraroditaḥ .. aho duḥkha samudbhuta devaputraḥ kathaṃ sthitaḥ .. 17 .. ityuktvāsa
 surendreṇa bhagavantamavocata .. bhagavan kenadānena rauravammucyatedhruvam .. 18 .. taddāmantra
@@ -236,10 +195,6 @@ te .. 20 .. athabhagavānāha .. tatonyenīyatetauryakpretepunarakesuraḥ .. ca
 khasamuṭbhūtaḥ devaputraḥ kathaṃ sthitaḥ .. 22 .. itpuktvāsasurendreṇa bhagavaṃtamavocata .. bha
 gavankena dānena tīryakpretaṃ pramucyate .. 23 .. taddānaṃbuhivādindra lokānāṃ mokṣahetave
 athabhagavānāha .. tiryakpretādirtaṃśāṃtaṃ jaladānaṃdadedvudheḥ .. 24 .. anenadānadharmmeṇa
-
-anuvāda
-
-mahān ṛṣi indrale bolekā yī śabdaharū sunera karāunubhayo, are, yo devaputra kati adbhuta duḥkhī cha .. 17 .. yaso bhanisakepachi unale devatāharūkā svāmīdvārā bhagavānalāī sambodhana gare, he prabhu, kuna upahārale mṛtyuko ḍarabāṭa mukta huna sakincha .. 18 .. he indra, kṛpayā lokaharūko hitako lāgi yo mantra japa garnuhos. athabhāgavanaha .. rauravako śarīramā sūryako pratibimbale sabai pīḍā naṣṭa gardacha .. 19 .. yasa dānale niścita rūpamā rauravako ḍarabāṭa mukta huncha .. tyasaile sūryadevalāī vimbapuṣa bhanincha .. 20 .. taba bhagavānko sarvocca vyaktitvale bhannubhayo: unī caudha hajāra varṣasamma narkamā rahe .. 21 .. mahān ṛṣi indrako ādeśa sunera krodhita bhae are, devaputra duḥkhale bharieko kasarī ubhiyo .. 22 .. bhagavānko sarvocca vyaktitvalāī yasarī bolepachi, dānavaharūkā rājāle unalāī yasarī sambodhana gare .. he bhagavāna, nadī pāra gareko vyakti kuna dānale mṛtyubāṭa mukta huna sakcha .. 23 .. he indra, kṛpayā sabai jīvita prāṇīharūko muktiko lāgi devatāharūlāī dāna dinuhos. samudrako pānīle paśu, bhūta ra anya janāvaraharūlāī ānanda dincha .. 24 ..
 
 <!-- page 17 -->
 tīryakpretampramucyate .. tasmācca kāraṇācchakra jalaḍātampraśasyate .. 25 .. athabhagabā
@@ -252,8 +207,6 @@ te .. tasmācca kāraṇācchakra piṇḍapātrampraśasyate .. 30 .. athabhaga
 rakeraktaisa devaputrabhuñjate .. dvādaśa varṣa sahasrāṇi malamūtrāṇiveṣṭitaḥ ..31 .. ityādi
 ṣṭhaṃmunīndreṇa śrutvādevendraroditaḥ .. aho duḥkha samuṭbhūta devaputraḥ kathaṃsthitaḥ .. 32 ..
 
-anuvāda
-
 <!-- page 18 -->
 itpuktvāsa surendreṇa bhagavanta mavīcata .. bhagavankenadānena atisārampramucya te .. 33
 .. taddānaṃ buhivādindra lokānāṃ mokṣahetave .. athabhagavānāha .. atisārampramuñceta
@@ -264,8 +217,6 @@ ntejana nindike .. ekādaśasahasrāṇi pūyaśoṇitaprasṛtaḥ .. 36 .. ity
 surendreṇa bhagavaṃtamavocata .. bhagavankena dānena kuṣṭharogampramuñcate .. 38 .. taddānaṃtru
 hivā dindraṃ lokānāṃ mokṣahetave . athabhagavānāha .. kuṣṭharogaṃpramuñceta ātmadānaṃdade
 dvurdhe .. 39 .. anenadānadharmeṇa kuṣṭharogaṃpramucyate .. tasmāccakāraṇācchakra ātmadā
-
-anuvāda 
 
 <!-- page 19 -->
 nampraśasyate .. 40 .. athabhagabānāha .. tatīhonakule pāye devaputraḥ sajāyate .. daśa
@@ -278,10 +229,6 @@ nakulātpramucyate .. 44 .. tasmācca kāraṇācchakra gṛhadānaṃpraśasyat
 te .. ityādiṣṭhaṃ munīndreṇa śrutvādevendraroditaḥ .. 46 .. ahī duḥkha samuṭbhūta devaputraḥ
 kathaṃ sthitaḥ .. ityuktvāsa surendreṇa bhagavantamavocata .. 47 .. bhagavankena dānena duḥ
 
-anuvāda
-
-yasakāraṇa, he indra, ātmadāna garnu ucita cha .. 40 .. taba bhagavānale bhannubhayo .. taba, hona parivāramā, devatāharūko putra janmancha .. brahmāṇḍamā daśa hajāra varṣako duḥkha ghumcha .. 41 .. mahān ṛṣi indrako yo ājñā sunera indrale karāe, hāhāhā, yo devatāharūko putra kasarī duḥkhale bharieko cha .. 42 .. yasarī bhagavānko sarvocca vyaktitvasam̐ga kurā garepachi, rājā indrale unalāī yasarī sambodhana gare .. he bhagavān, hona parivārabāṭa mukta hune vyakti kuna dānale mukta huncha? he indra, kṛpayā tyo dāna saṃsāralāī unīharūko muktiko lāgi dinuhos .. 43 .. taba bhagavānle bhannubhayo: usalāī hona parivārabāṭa mukta hunuparcha ra buddhimānaharūlāī gharako upahāra dinuparcha .. yasa dāna ra dhārmika siddhāntaharūdvārā vyakti vaṃcita parivārabāṭa mukta huncha .. 44 .. yasakāraṇa, he indra, gṛhasthalāī dāna garnu ucita cha .. taba bhagavānale bhannubhayo .. taba usale duḥkhako pīḍā bhogcha ra narkamā pheri janma lincha .. 45 .. nau varṣa hajārauṃ pīḍāharūko varipari ghumchan .. mahān ṛṣi indrale bolekā yī śabdaharū sunera cicyāe .. 46 .. devatāharūkā putra sarpa, duḥkhako bīcamā kasarī ubhiraheko cha? bhagavānko sarvocca vyaktitvasam̐ga yasarī kurā garepachi, rājā indrale unalāī yasarī sambodhana gare .. 47 ..
-
 <!-- page 20 -->
 khāti duḥ kha mucyate .. taddānaṃ buhivādindra lokānāṃ mokṣa he tave .. 48 .. atha bhagavānā
 ha .. duḥkhāti duḥkha muñceta piṇḍa dānaṃ dadedvardhe .. anena dāna dharmeṇa dukhāti duḥkha mucya
@@ -292,8 +239,6 @@ ityādiṣṭaṃ munīndreṇa śrutvā vairdendraroditaḥ .. 52 .. aho duḥk
 sthitaḥ .. ityukvāsa surendreṇa bhagavantamavocat .. 53 .. bhagavankenadānena adhīmu
 khaṃ pramucyate .. taddānaṃ buhivādindra lokānāṃmokṣa hetave .. atha bhagavānāha .. 54 .. adho
 mukhātpramuñceta buddhasevāṃprakurvate .. anena dharmakameṃṇa adhomukhātpramucyate .. 55 .. ta
-
-anuvāda
 
 <!-- page 21 -->
 cca kāraṇācchaka dharma kamampuśasyate .. punabhagavānaha .. daśānāmyātake narake devaputraḥ
