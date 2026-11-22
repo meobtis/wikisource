@@ -16,6 +16,7 @@ transliteration:
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_97_Uposadh_Badhan.pdf"
 pages: 6
 proofreading: "level 1: 5, level 3: 1"
+proofread: "second pass against the scan, 2026-11-22; pages 2, 3, 4, 5, 6"
 note: "Transcribed by Wikisource volunteers from a manuscript scan digitised with UNESCO; some pages are unproofread OCR."
 ---
 # Uposadh Badhan
@@ -26,61 +27,69 @@ vāśidhraka coghāraṃḍa
 patra 13
 
 <!-- page 2 -->
-oṃ namaḥ śrāryyābalokiteśvarāya .. 
-athā śoko mahīpālaḥ sahratācara
-bhuyaḥ prohakṛtāñjaliḥ .. bhadanta śro
-sya puṇyaṃ vidhānaṃca sarvathāvaktu marhasi
-cetasā .. upaguphoyatiścā sonṛ patiṃta
-guruṇāmeya thoditaṃ . saṃpraba
--gabānbū hbaḥsarva-ḥ śā-kaśalī
+oṃ namaḥ āryyāvalokiteśvarāya ..
+atha śoko mahīpālaḥ sahratācara
+bhūyaḥ prāhakṛtāñjaliḥ .. bhadanta śro
+sya puṇyaṃ vidhānaṃ ca sarvathā vaktu marhasi
+cetasā .. upaguphāya tiśca so nṛ patiṃta
+guruṇāmaya thoditaṃ . saṃpraba
+gavānbuddhaḥ sarvajñaḥ śākyakuśalī
 
-oṃ namoratna trayāya.. .. 
-ṇotsakaḥ. upaguphaṃgurūunatvā
-tumichāmibratarājamupoṣadhāṃta
-..iti--nṛpendra ṇasatvahitārtha
-mabhāṣeta.. -ṇurājaṃmahāvi-
-tjayāmibrata rājamupoṣadhaṃ.. purāsī
-kapilākhpe purerampe nyagrodhārā
+oṃ namo ratnatrayāya .. ..
+ṇotsukaḥ . upaguphaṃ guruṃ natvā
+imicchāmi vratarājamupoṣadhaṃ ..
+.. oṃ iti pṛṣṭo nṛpendreṇa sattvahitārtha
+mabhāṣata .. … …
+jayāmi vratarājamupoṣadhaṃ .. purāsī
+kapilākhye pure ramye nyagrodhārā
 
-aisbarypaspa-ma grasparupaspayaśasaḥśriyaḥ.
--ānaspā -prayatna spaṣa-bhagaïtismṛtaḥ..
+aisvaryyasya samagrasya rūpasya yaśasaḥ śriyaḥ .
+jñānasyārtha prayatnasya ṣaṇṇāṃ bhaga iti smṛtaḥ ..
 
 <!-- page 3 -->
-sva -ॱsu--ॱsusvā-ॱsugaṃdhaॱsupathpaॱsulathuॱsuhīrala suha-
-ma kāśrame a--gu ṇasaṃpannajalaiḥ pa-tpalādibhiḥ. patjigaṇaiśbapurṇṛ-yāḥ puṣkari ṇāsta--bhe.nānāpuṣpaphau
-yetayādapaiḥsamalaṃ kṛte.. śuhvasa-ṭikabanhrābhamaṇiratnaśilātalai divyaratnā sanāsīnauvijahārayrabhau-lana.. bhi
--bhiḥśrābakaiḥsā-bodhisatvagaṇairapi.. tadātaṃstagataṃ--sa-rmmadeśano-stakaṃ.bramhaśakrādayo debādaityagaṃdharva
-kintarāḥ. sib_hāvidyā śarā-baya-guhyakarā-sāḥ. garu-ndrā-nāgendrā lokapālāmaha -kāḥ. yoginoya
-tayobijñaṝṣayobramhabāriṇaḥ.. rājānaḥ -triyāvaiśā mahāmātyāśbamandriṇaḥ. śre-naḥsārthavāhāśbadhaninoba
-ṇijastathā. ebamanyepilokāśba sab_harmaśrabaṇotstakāḥ. pujā-ḥpujayitvābapraṇatvābasamantataḥ. paribṭatyapura-
-tyataskuḥ sarvesamāhitāḥ.. athāsībhagabātbub_hodharma- śrotuṃsamāgatāna. sarvāṃstāsaṃtchi tāṃ- -dideśadharmamu-rma
-.. tasmi-basaratatrabāsiṣṭhobrāmhaṇobratī. tatsavharmmāmṭa taṃpātuṃ sami-tsamupāyayo.. samuyetyamunīndraṃtaṃ--
-kṛtbāprada-ṇaṃ. praṇamyada-ṇeyārśveniṣasādakṛtā-liḥ.. athāsobhagabā--taṃbiprabramadhāriṇāṃjā
+svaccha ॱ susnigdha ॱ susvādu ॱ sugaṃdha ॱ supathya ॱ sulaghu ॱ suhītala ॱ suhṛdya 5
+makāśrame aṣṭaguṇasaṃpannajalaiḥ padmotpalādibhiḥ . pakṣigaṇaiśca pūrṇāyāḥ puṣkariṇāsta … bhe . nānāpuṣpaphalo
+petapādapaiḥ samalaṅkṛte .. śuddhasphaṭikavajrābhamaṇiratnaśilātalaiḥ . divyaratnāsanāsīno vijahāra prabho … naḥ .. bhi
+kṣubhiḥ śrāvakaiḥ sārddhaṃ bodhisatvagaṇairapi .. tadā taṃ sugataṃ jñātvā saddharmmadeśanotsukaṃ . brahmaśakrādayo devā daityagandharva
+kinnarāḥ . siddhavidyādharāścaiva yakṣaguhyakarākṣasāḥ . garuḍendrā nāgendrā lokapālā maharddhikāḥ . yogino'ya
+tayo viprā ṛṣayo brahmacāriṇaḥ .. rājānaḥ kṣatriyā vaiśyā mahāmātyāśca mantriṇaḥ . śreṣṭhinaḥ sārthavāhāśca dhanino ba
+ṇijastathā . evamanyepi lokāśca saddharmmaśravaṇotsukāḥ . pūjāḥ pūjayitvā ca praṇatvā ca samantataḥ . parivṛtya pura
+stāttasthuḥ sarve samāhitāḥ .. athāsīdbhagavānbuddho dharmma śrotuṃ samāgatān . sarvāṃstān saṃsthitāṃ … dideśa dharmmamuttamaṃ
+.. tasminnavasare tatra vāsiṣṭho brāhmaṇo vratī . tatsaddharmmāmṛtaṃ pātuṃ samicchatsamupāyayo .. samupetya munīndraṃ taṃ …
+kṛtvā pradakṣiṇaṃ . praṇamya dakṣiṇe pārśve niṣasāda kṛtāñjaliḥ .. athāsau bhagavān … taṃ vipraṃ brahmadhāriṇaṃ jā
 
 <!-- page 4 -->
-nantapisvayaṃbaiāmapṭachab_hutakāraṇaṃ.. bhāb_hijehetunākenadīrghāstaśmaśrṛbonakhāḥ. pariru--śā-teprabadasbāspakāra
-ṇaṃ.. itipṭa-jinendreṇa vośiṣṭhābrāmha ṇo-maḥ.bhagabantaṃpunarnatvākṛtāñjaliṃpuṭobadata.. gotamohaṃbrataśre-mā
-sopabāsamā-re. anenaśmaśrṛbodīrdyātanurutjākṛśā-me.. ititeteneditaṃśrṛtbāphagabāṃ-munīśbaraḥ. taṃbāśi-b_hi
-jaṃphayaḥpaprachabratakāraṇaṃ.. ghijakenābhilāṣeṇakṛtaṃkaṣṭhabrataṃtbayā. katibarṣāṇiyātāninatsatyaṃba-marhasi..i
-tyādi-munindreṇaśrṛtbāsobrāmha ṇipi-.bhagabantaṃ samolo-punarebamabhāṣata..sarbajñatab_hijāniyāḥ śatabarṣaga
-taṃmunodharmārthakāmamokṣāṇāṃhetorenaṃbrataṃ-re..itibiprababaḥśrṛtbābhagabāna gotamothaseḥ.. bāśiṣṭhaṃtaṃb_hi
-jaṃphuyonirī-baṃsamabrabīta..etadarthatbayābipracaritaṃ-ṣkaraṃbrataṃ. ba-barṣagataṃcaibamadyāṣpatatphaṃnate.. etatpha
-laṃhrṛtaṃla-bā--stiyadite-ja. śrīmatomoghayāśaspalokeśaspabrataṃ-ra..tatastesarbapāpāś-naśṣeyuḥsarbaśo
-dhrṛtaṃ.dharmmārthakāmamotjāṃścakramā-praṃpralapspasi..ityādeśaṃmunīndraspaśrṛtbāsaubrāmhaṇaḥstadhīḥ.anumodhyapra
+nannapi svayaṃ caivamapṛcchad vratakāraṇaṃ .. bho dvija hetunā kena dīrghāḥ śmaśravo nakhāḥ . parirūkṣāṅgāste pravadasvāsya kāra
+ṇaṃ .. oṃ iti pṛṣṭo jinendreṇa vāśiṣṭho brāhmaṇottamaḥ . bhagavantaṃ punarnatvā kṛtāñjalipuṭo vadat .. gotamohaṃ vrataśreṣṭhamā
+sopavāsamācare . anena śmaśravo dīrghā tanurūkṣā kṛśāṅgame .. iti teneditaṃ śrutvā bhagavān munīśvaraḥ . taṃ vāśiṣṭhaṃ dvijaṃ bhūyaḥ papraccha vratakāraṇaṃ ..
+dvijakenābhilāṣeṇa kṛtaṃ kaṣṭavrataṃ tvayā . kativarṣāṇi yātāni tatsatyaṃ vaktumarhasi .. i
+tyādiṣṭaṃ munīndreṇa śrutvā so brāhmaṇo'pi ca . bhagavantaṃ samālokya punarevamabhāṣata .. sarvajñatadvijānīyāḥ śatavarṣaga
+taṃ muno dharmmārthakāmamokṣāṇāṃ hetorenaṃ vrataṃ care .. iti vipravacaḥ śrutvā bhagavān gotamo'tha saḥ .. vāśiṣṭhaṃ taṃ dvi
+jaṃ bhūyo nirīkṣyaivaṃ samabravīt .. etadarthaṃ tvayā vipra caritaṃ duṣkaraṃ vrataṃ . bahuvarṣagataṃ caiva madyāpyatatphalaṃ na te .. etat
+phalaṃ dhruvaṃ la … bā … sti yadi te … . śrīmato moghayaśasya lokeśasya vrataṃ cara .. tataste sarvapāpāśca naśyeyuḥ sarvaśo
+dhruvaṃ . dharmmārthakāmamokṣāṃśca kramā … pralapsyasi .. ityādeśaṃ munīndrasya śrutvā sau brāhmaṇaḥ sudhīḥ . anumodya pra
 
 <!-- page 5 -->
-adannaॱprārāāātipāātaॱkāmamithyāॱmūṣābādaॱpi-na
-pā-ṣpaॱsaṃ-nnaॱari-yāpādaॱmithyā-ṣṭiॱ
-sannāspaḥpunarebamaphāṣata..bhogautamanajānāminaśūṇimikadācana. etab_hratabidhānaṃcaphalaṃcāpikathaṃbabuḥ..kena
-kenapurāppetab_hratamācaritaṃkhalu..tatsarbaṃbhagabaṃmahyaṃsamāda-samarhasi.etatsarbaṃpratiśrṛtbābayaṃcāpipramodi
-tāḥ.yathābidhiṃcariṣpāmalokegespabrato-maṃ..ititenārthitaṃśrṛtbā bhagabāna gotamastataḥ.--tasyāśayaṃ
-śu-punarebaṃtamabrabīta.. śūṇubāśiṣṭhasādhabatrakṛtbācetaḥsamāhitaṃ. tahidhānaṃphalaṃcāpikathṣatetemayākhalta..
-tābatnāsoyabāsaṃgatsamāptaṃkurusāmprataṃ. tatolokeśbarasparbasampagārādhayebrataṃ.māsemāseśitapakṣakṛ-pakṣapi
-bātathā. a-myāṃta-taṃkuryādāryā--mupoṣadhaṃ.. tīrthesnānadi kaṃ kṛtbāśucibamtābūte sudhīḥ.sarbasatbānurka
-pīcacattarbranhabihārikaḥ..daśākulasaṃtyukkaḥsatyudharmmaparāyaṇaḥ.śrimatomogayāśasyalokeśbaraspamaṇtalaṃ.
-bidhibab_ha-yitbācapujaye-b_hidhānataḥ..triratnaśaraṇaṃgatbākṛtbācayāyadeśanāṃ.puṇāānumodanāṃkuryāgācayeta
-jināṃschitiṃ..jayastotrādikaṃkṛtbākuryāchāpipradakṣiṇaṃ..bodhici-samādhāyasab_harmaśūyādapi. tataścadakṣidhāṃda
-1 sampakuhaṣṭi 1 sampeksaṃkalpa 2 sampakbāk 3 sampakkarmānta 4 sampekājībajasampak byāyoma-sampekstatiḥ-sampeksamodhi-
+adanna ॱ prāṇātipāta ॱ kāmamithyā ॱ mṛṣāvāda ॱ piśuna ॱ
+pāruṣya ॱ saṃbhinna ॱ abhidhyā ॱ vyāpāda ॱ mithyādṛṣṭi ॱ
+sannāsyaḥ punarevamabhāṣata .. bho gautama na jānāmi na śṛṇomi kadācana . etadvratavidhānaṃ ca phalaṃ cāpi kathaṃ babhūḥ .. kena
+kena purāpyetadvratamācaritaṃ khalu .. tatsarvaṃ bhagavan mahyaṃ samādeṣṭumarhasi . etatsarvaṃ pratiśrutvā vayaṃ cāpi pramodi
+tāḥ . yathāvidhiṃ cariṣyāmo loke'sya vratottamaṃ .. iti tenārthitaṃ śrutvā bhagavān gotamastataḥ . tasyāśayaṃ
+śuddhaṃ punarevaṃ tamabravīt .. śṛṇu vāśiṣṭha sādhava kṛtvā cetaḥ samāhitaṃ . tadvidhānaṃ phalaṃ cāpi kathyate te mayā khalu ..
+yāvanmāsopavāsaṃ te samāptaṃ kuru sāmprataṃ . tato lokeśvarasyaivaṃ samyagārādhayedvrataṃ .. māse māse sitapakṣe kṛṣṇapakṣe'pi
+vā tathā . aṣṭamyāṃ tatra taṃ kuryādāryāṣṭāṅgamupoṣadhaṃ .. tīrthe snānādikaṃ kṛtvā śucivastrāvṛtaḥ sudhīḥ . sarvasatvānuka
+pī ca caturbrahmavihārikaḥ .. daśakuśalasaṃyuktaḥ satyadharmmaparāyaṇaḥ . śrīmato moghayaśasya lokeśvarasya maṇḍalaṃ .
+vidhivallepayitvā ca pūjayedvidhānataḥ .. triratnaśaraṇaṃ gatvā kṛtvā ca pāpadeśanāṃ . puṇyānumodanāṃ kuryādyācayet
+jinānsthitiṃ .. jayastotrādikaṃ kṛtvā kuryāccāpi pradakṣiṇaṃ .. bodhicittaṃ samādhāya saddharmmaṃ śṛṇuyādapi . tataśca dakṣiṇāṃ da
+1 samyakdṛṣṭi 1 samyaksaṃkalpa 2 samyakvāk 3 samyakkarmānta 4 samyakājīva 5 samyakvyāyāma 6 samyaksmṛti 7 samyaksamādhi 8
 
 <!-- page 6 -->
-tvāyāme  nhmuthtiyakaṃ | kuryātvaṇālanaṃ jhicabhakai ḥ paṃcāmṛtai ḥ svaha || evaṃyau laukanātha
+tvāyābhaktu … nīyakaṃ . kuryātsvālanaṃ śrīcaraṇake ḥ paṃcāmṛtaiḥ saha .. evaṃ yo lokanāthasya vrataṃ kuryātsamāhitaḥ . tatpuṇya
+pramāṇaṃ svayaṃ kartuṃ naiva hi śakyate .. sarveṣāṃ vṛkṣapuṣpānāṃ saṃkhyāgra … kila . nalenadgaṇapuṣpānāṃ pramāṇaṃ hi … .. sarvāṃbhū
+dhijalānāṃ ca vindusaṃkhyānividyate .. nalenadgaṇapuṣpānāṃ saṃ … sthāne vahi vidyate .. sarva … patrāṇāṃ …
+lānatvenadgaṇapuṣpānāṃ saṃkhyākartuṃ na śakyate .. sarvavṛṣṭidhārāṇāṃ bindusaṃkhyāpi vidyate . nalenadgaṇapuṣpānāṃ saṃ
+khyākartuṃ na śakyate .. sarveṣāmapi jantūnāṃ nāmasaṃkhyāpi vidyate .. nalenadgaṇapuṣpānāṃ saṃkhyākartuṃ na śakyate .. vrīhīnāmapi
+sarveṣāṃ saṃkhyākartuṃ na śakyate . nalenadgaṇasyapuṣpānāṃ saṃkhyākartuṃ na śakyate .. tatpuṇyapramāṇaṃ svayākartuṃ na śakyate . sarva
+… dhātukaskandha … jñānenāpi na gaṇyate .. kimatra bahunoktena yasya puṇyaṃ na vidyate . aprameyamasaṃkhyeyaṃ puṇyame … mibhi …
+nā ḥ .. yaścā … pramaya … . a … bhīghraṃ sambodhimāpnuyāt .. yaścāṣṭāṅgaṃ vrataṃ … rvīta … ..
+tva … haṃgaṇaḥ . lokanāthaṃ pūjayedbhaktyā pūjāṃ sarvavidhānena … naḥ .. sarvapāpanirmukto yogī sukhavānsudhīḥ . kulīnā

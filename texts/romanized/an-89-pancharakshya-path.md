@@ -16,6 +16,7 @@ transliteration:
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_89_Pancharakshya_Path.pdf"
 pages: 22
 proofreading: "level 1: 13, level 3: 9"
+proofread: "second pass against the scan, 2026-11-22; pages 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 35, 36, 37"
 note: "Transcribed by Wikisource volunteers from a manuscript scan digitised with UNESCO; some pages are unproofread OCR."
 ---
 # Pancharakshya Path
@@ -84,39 +85,39 @@ svāhā .. maṃnnrayadānāṃ svāhā .. mahāmāyurī vidyārājñīya svāh�
 5 .. ārya mahā māyurī vidyārājñidvītīyamantre dhāranī samāptaṃ .. ¤
 
 <!-- page 15 -->
-dhe kārīke tāhī rāṣīne sāmarane husī halasī khale jayamane vūrū 2 nātīkā māehanī vīmāehanī skhaḥ
-rāehīna tāvatu ḍayaḍare kaṃḍara katumatī taeme tṛtamamī dhanya maṃmalya bara mahāle mahābe
-rābarāe kīne bhuvatu ṇuecuru 2 vīrāye rājayā rīke jasva hanī cara 2 harū 2 rūdha 2 ṣarū 2 yatī vaṃndhamaḥ
-hī dhūraṃ dharya baraṃ dharya bidharya bimatī bisbāmṛnī nāsanī bināsanī bandhanī māehanī bimāehanī bīnā
-sanī biśva dhanī saṃkā ranī saṃchedanī sādhūra mānyatara 2 mānyahara 2 mānyabaṃdhu matī hīrī 2 khi
+ye kārīka mahībādhīre sāmavane ṅkamī hulasī khale jayamane vūrū 2 nātīkā mohanī vīmohanī svaḥ
+vādīna ma vakul̤a yatava kaṃtava kayūbha kalamanī runavāma runamanī dhanya maṃmalya vana mahāle mahāva
+bhāva dākīne mūvaku suvanū 2 bīnāya bāūyābīku ṅkadanī vana 2 ṅkubana 2 vaba 2 tyī vīṃ vemaḥ
+mī dhūraṃ dharya baraṃ dharya bidharya bimatī bisbāmṛnī nāsanī bināsanī bandhanī mohanī bimohanī bīnā
+sanī biśva dhanī saṃkāranī saṃchedanī sādhūra mānyatara 2 mānyahara 2 mānyabaṃdhu matī hīrī 2 khi
 
 <!-- page 16 -->
-rī 2 hurū 2 pigare 2 namāe būhbānī svāhā.. ī māṃ khala yūna mahāṇī tava tītāma bidhyā rāslī nukava tyīīgaṃ
-gāṃ nadī bāla kāsaṃyra tāṣita bhārṣante bhāṣrī khane casī hbāsī hbayarā kramā sarbba deve nāga yakṣa gandharba 
-sara garū ukī nnara mahā gādibhī baṃndī nāya sarbbada vajī naga nayarī bṛtā ṇcasarbba sarbba bhayaṣa sarbba satbā
-nāṃ ñca siva mārāgyaṃ saprada śca sarbba dāsa sarbba thā sarbba satvā nāe 0ca bhavaṃnu sbāhā..
-7.. kṣūāryya mahāṇī bhababhī nāma mahā bidyā rāslī bhibhraya maṃnuā dhāranī bha mārpha..7
+rī 2 hurū 2 pigare 2 namo buddhānī svāhā .. oṃ māṃ khvala yana mahāṇī bhabatī nāma bidhyā rājñī nukava tyīgaṃ
+gāṃ nadī bālakāsaṃyya tāṣita bhārṣante bhāṣrī khanasamī hbāsī hbayarā kramā sarbba deba nāga yakṣa gandharba
+sara garū ukīnnara mahā gādibhī baṃndī nāya sarbba deva sona vā na ya vīṃ mā sarbba sarbba bhayaṣa sarbba satvā
+nāṃ ñca siva mārāgyaṃ saprada śca sarbba dā sarbba thā sarbba satvā no ca bhavaṃtu svāhā .. ❀
+.. āryya mahāṇī bhabatī nāma mahā bidyā rājñī hṛdaya maṃntra dhāranī samāptaṃ .. 7
 
 <!-- page 17 -->
-ḍam̐ namāe bhagavartya bhūāyyī mahā pratīsa rāye.. nuvaṃ mayāṇu ma mekasmi nsamaya bhagaḥ  
-vānū būja merūṇī khara kūṭī gāra bīha rabhīsma.. bhadi dānīpra bakuīmī rūtasaṃdyāna
-śṛnāe hīma.. tadyathā.. namāe būhbāyana māedhatyāeya namaḥ rsadyāya.. namaḥ sarbba bhathāga
-nā nāṃ na māe namaḥnamāai sarbba dūdbadhammā rsadya syaḥ bhadthā ḍam̐ nama bipūra gaha bīmaḥ
-raja yama bhabīpū rabī marebī... laga hakaja hbā lāgaha gabhī gahanya gagaṇṣaga
+oṃ namo bhagavatya āryya mahā pratīsa rāye .. evaṃ mayā śruta mekasmi nsamaya bhagaḥ
+vān vajra merūṇī khara kūṭī gāra bīhare bhasmi .. adi dānī pra bakrāmī rutasaṃ ghāna
+śṛno hīma .. tadyathā .. namo buddhāya namo dharmmāya namaḥ saṃghāya .. namaḥ sarbba tathāga
+tā nāṃ namo namaḥ namaḥ sarbba buddha dharmmā saṃghe syaḥ tadyathā oṃ nama bipura garbha bīmaḥ
+raja yama bhabīpū rabī marebī … laga hakaja hbā lāgaha gabhī gahanya gagaṇṣaga
 
 <!-- page 18 -->
-gana bīsva dhanī surbba yā pabī śbadhanī ḍaṃ guna vabhī gana bīcā ranī gagarīnī 2 gīrī 2 girīnī 2 gamarī
-gaha 2 gagarī 2 gaṃgarī 2 gaṃgārī 2 gaṃbharī 2 gabhī 2 gamanī 2 maha2 gamarī2 garya 2 gurū2 gubha 2 guha 2 gurū nīcara 2 gu
-hanī 2 gurūnya 2 cūrū 2 cara 2 mūcīrū 2 jaya bijaya 2 sarbba bhaya bimane sarbba bhaya gaha saṃlanjanī girī 2 
-sirī 2 māerī 2 girī 2 samaṃbhūā karyanī sarbba śanupra marthanī rarja 2 māṃ sarbba sanbānāṃ ñca sarbba bhaya sya sacbeīpra
-have sya sacbī sāparī yūrake sya sarbba tyā dhisya cinī 2 dhirī 2 bīga nāvara nabī sba dhanī bibidhā bara
+gana bīsva dhanī surbba yā pabī śbadhanī oṃ guna vabhī gana bīcā ranī gagarīnī 2 gīrī 2 girīnī 2 gamarī
+gaha 2 gagarī 2 gaṃgarī 2 gaṃgārī 2 gaṃbharī 2 gabhī 2 gamanī 2 maha 2 gamarī 2 garya 2 gurū 2 gubha 2 guha 2 gurū nīcara 2 gu
+hanī 2 gurūnya 2 cūrū 2 cara 2 mūcīrū 2 jaya bijaya 2 sarbba bhaya bimane sarbba bhaya gaha saṃlanjanī girī 2
+mirī 2 morī 2 girī 2 samaṃbhū karyanī sarbba śanupra marthanī rakṣa 2 māṃ sarbba sanbānāṃ ñca sarbba bhaya sya sarbbopra
+have sya sarbbī sāparī yūrake sya sarbba tyā dhisya cinī 2 dhirī 2 bīga nāvara nabī sba dhanī bibidhā bara
 
 <!-- page 19 -->
-nabi sba dhanī bīnā sanī 2 mūcī 2 cīrī 2 nīrī 2 mili 2 kamarāe bamala jaya ki jaya jaya bahe jaya da
-bhi bisya khapabhī bhagavatī ratra makṛṭha mālā dhāranī bicītra besayā ranī bhagavatī sarbbaḥ ṣūnībāranī
-bijaya dāhanī hūra 2 mūra 2 cūrū 2 bhurū 2 bhuāyū pāranī sūga bhabarapu marthanī sarbba ṅavagana mṛjī nacīrī
-2 dhīrī 2 samaṃbhuā karpanī prabhe sapra nebī śuhṣa sarbba pāpa dhiśu hṣe sarbba pāpa bīsba dhanī dhūrū 2 dharanī dhare 2
-sama 2 rūrūcare cāraya 2 sarbba i ṣūpūraya bhuāsāṃ śībasa dhare jaya kamalā njīṇī 2 baradāṃ kūśā ḍam̐ paḍhmabi
+nabi sba dhanī bīnā sanī 2 manī 2 bībī 2 cīcī 2 mili 2 kamalo bamala jaya bijaya jaya bada jaya da
+bhi bisya khapabhī bhagavatī ratna makuṭa mālā dhāranī bicītra besa dhāranī jagata banī sarbba i ṣūnī bāranī bi
+jaya dāhanī hūra 2 mūra 2 cūrū 2 bhurū 2 bhāyū pāranī sūga bhabarapu marthanī sarbba ṅavagana mṛjī nacīrī
+2 dhīrī 2 samaṃbhū karpanī prabhe sapra nebī śuddhe sarbba pāpa biśuddhe sarbba pāya bīsba dhanī dhūrū 2 dharanī dhare 2
+sama 2 rūrūcare cāraya 2 sarbba i ṣūpūraya bhāsāṃ śībasa dhare jaya kamalā njīṇī 2 baradāṃ kūśā oṃ padmabi .. 10
 
 <!-- page 20 -->
 śuddhe,sodhaya2bisodhaya2śudhya2sara2bhara2bhuru2maṃgarabiśuddheperabitamukhikhabhginīdhara2jvarī
@@ -141,37 +142,36 @@ bhiṣitesvāhā..sarvvatathāgatāsudrayasvāhā..sarvvadevatābhiviktesvāhā.
 svāhā.sarvvatathāgatasamayasidhyāsvāhā.indraïndravatīindravyalokītesvāhā.bramhebramhedhuṣite
 
 <!-- page 23 -->
-svāhā.virṣṇunamatkatāyasvāhā.maheśvaravaṃnditapujritāyasvāhā.vajradharavajrapānīvaravīryādhiṣṭhate
-svāhā.dhṛtarāṣjrāyasvāhā.vīrūṭakāyasvāhā.virūpākṣāyasvāhā.vaiśramanāyasvāhā.catumadārājrāna
-maskṛtāyasvāhā.yamāyasvāhā.yamapujritāyanamaskṛtāyasvāhā.varuṇāyasvāhā.mārutāyasvāhā.ma
-hāmārutāyasvāhā.agneyasvāhā.vāyuvyasvāhā.nāgavīlokitesvāhā.devaganyabhesvāhā.nāgagane
-bhesvāhā.jrakṣagaṇyabhesvāhā.rākṣesabhaṇyabhesvāhā.gandharvvagaṇyabhesvāhā.asuragaśyabhesvāhā.
-12
+svāhā . viṣṇu namatkṛtāyasvāhā . maheśvara vaṃndita pujritāyasvāhā . vajradhara vajrapānī vīryādhiṣṭhate
+svāhā . dhṛtarāṣjrāyasvāhā . vīrūṭakāyasvāhā . virūpākṣāyasvāhā . vaiśramanāyasvāhā . caturmmahārājrāna
+maskṛtāyasvāhā . yamāyasvāhā . yamapujritāyanamaskṛtāyasvāhā . varuṇāyasvāhā . mārutāyasvāhā . ma
+hāmārutāyasvāhā . agneyasvāhā . vāyuvyasvāhā . nāgavīlokitesvāhā . devaganyabhesvāhā . nāgagane
+bhesvāhā . jrakṣagaṇyabhesvāhā . rākṣesabhaṇyabhesvāhā . gandharvvagaṇyabhesvāhā . asuragaśyabhesvāhā . .. 12
 
 <!-- page 24 -->
 garuḍagaṇyabhesvāhā.kīnnaragaṇyabhesvāhā.mahoraganebhyasvāhā.manuṣyaganyabhyasvāhā.amanuṣyaganebhe
 svāhā.sarvvagrahebhyasvāhā.sarvvaputanyabhyasvāhā.sarvvakatayūtanebhyasvāhā.sarvvapīśāścabhyasvāhā.sarvvaasmārabhyasvāhā
 sarvvakumbhārṇḍābhyasvāhā.sarvvaputanyabhyasvāhā.sarvvakatayūtanebhyasvāhā.sarvvaduṣṭabhyasvāhā.oṃdhuru2svāhā.oṃtu
-ru2svāhā.oṃkuru2svāhā.oṃcuru2svāhā.hana?sarvvasatranasvāhā.daha2sarvvaduṣṭānāṃsvāhā.para2sarvvaprabhya
+ru2svāhā.oṃkuru2svāhā.oṃcuru2svāhā.hana2sarvvasatranasvāhā.daha2sarvvaduṣṭānāṃsvāhā.para2sarvvaprabhya
 thikaprabhyamitrānāsvāhā.jramamāhitadhinastekhāṃsarvvaṣāsanarīrajvālayaduṣṭacīttānāsvāhā.jvalitāyasvāhā
 
 <!-- page 35 -->
-mā sarvavyādhiharā hogī. māthe vāsarū yā . visita, sarva māhāgamāmikī. vamudȫṉaṃyavasama svāmī cakavajha vidānonī
-yamuyākam̐ sanadasanaṃ vihi siddhida vayadā namaste sarvadā devi sarvārthasādhinī namȫnuṉadīdabhanūyī
- sarvasattvānāṃ mahābhūta mahākaruṇāya samaṃnāmasita kāvyaya dīmāna. na yatra siddhibhiśrīmā 
-thamano yathā. yanmanena kṛtaṃ puṇyaṃ māna katayaya sadā būnaṃ. mata sarva vaḥ katayī sayā satamayanȫma sataqaṃ namadhavāda
-sinasaṃyananā sayata qatāā mitamavȫtavama yiyayacadayavȫna yiyadaganȫdaga kajhajha nada miyakalaya
+oṃ jñāya … yadahonī . sādhavādahya… . vahni sarvve … thāṅsamakī . …
+… no… sarda sanaṃ . nāddhi siddhi bana… yā . namaḥ saruma … ruma dadvī sarvva mantra … yanī . namo … dī … yī
+… vavama dhānāna mo… . … ne namaḥ nāmaki koba ya … ya … dī māna… yānāvartī . …
+… thamanīyathā … yadahnā… mayāyamānante… . …
+… mina sayadhyo saphajā… nāru… ṃḥ yiyaya… davavā …
 
 <!-- page 36 -->
-śrādayamaya kāyama . bhanataqūmȫ navaya yȫyatȫ yanacȫyȫ yata sakhȫ vami ..jālāmāya
-śrīvamadhānāyānāmāhmāna samava haṃlȫ yīmaṃsȫyata ḍanamȫru gavasī
- khāyegīva kavī dānanī namȫvū dvāya.. nava mayȫkata namaka . sanamanasamayaru gasanatū
-jaya vidana bhī mamsa vesanīnaṃ vaḍagasama yamathimȫnȫvaūȫ tinayavū dȫna nȫvana
-vikāsa mayāvisamā bhāvajaūyā sinayavū davāna sȫvana savavū dadhalaṃlȫlaṃ yȫni
+ādayamaya … jñāyate . … … jñāya … vati .. oṃ …
+śrīvamadhānāyā . namo … sarvva buddha … . dhīkaṃ … .. oṃ namo bhagavatya…
+… śrī vajra bidāranī . namo buddhāya . … namaḥ … samaya …
+… vid … nī … sarvva sarvīṃ vajra … yama … no vajrayā … jñā …
+vajra samayādhi … namo bajrayā … bisva buddha … sarvva buddha …
 
 <!-- page 37 -->
-sahasradvatīdhisatavadhināṃtha. yadyathārthamairutaṃ varuṇā tha śaṃkāyanasā. ṛtu yama sakru sartho hraha. sanaṃc.sa 
- te māyamājñā. na. sarve sattva vidāyanī kavaṃ sarvamātrādana  karta sarva vidyā ca danaka meṃ sace vidyā ke saṉavȫ 
-ye sacaiva viśveśana kasatā kāyamace kamaviyāyana kī sahasradvānnā da na kā naṃ sarvakarja tayādanakuna  sarve yasȫṃvi
-mānaka sacce māyayāyene kasace vidyāma caka meka māyanaṃ. bhūsihabānȫṃ sihabānaṃ sihabānȫṃ ṃḥvavȫṃ 
-nāśanaka naṃ sace kama meghadā bhavānaka ke māphikaṃ yūyiūka savagha sȫ ma na sajhana sagha sa tavȫ mȫ mȫ hana ma
+sarvveddha dīṣi satvādhiṣṭhānaṃ … . sarvva krodhaṃ sarvvaṃ kava … mā dhaṃ …
+sarvva māyā vā … na . sarvva satva vidyā yanī kavaṃ sarvva sattvātmādanakavaṃ sarvva … dana kavaṃ sarvva bidyā … dana kavaṃ sarvva bidyā yana kavaṃ . sarvva gandhā tmādana kavaṃ sarvva …
+… sarvva … bhavya sana kavaṃ sarvva bhūtānāṃ kava sarvva kama bi …
+mā … nakavaṃ sarvva bhūmāyaka … nakavaṃ sarvva bidyā mantraka …
+nāma nakavaṃ sarvva kama yadā . … sarvva satva kavaṃ … ni … sarvva …

@@ -16,47 +16,43 @@ transliteration:
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_102_Gunakarunamaya_Biu.pdf"
 pages: 4
 proofreading: "level 1: 4"
+proofread: "second pass against the scan, 2026-11-22; pages 1, 2, 33, 60"
 note: "Transcribed by Wikisource volunteers from a manuscript scan digitised with UNESCO; some pages are unproofread OCR."
 ---
 # Gunakarunamaya Biu
 
 <!-- page 1 -->
-oṃ namaḥ yāya .. oṃ nama: oṃ sarvavṛddha vāci satyaya ..ya:grādya nāma hā vṛddha : sarva lokādhiyā
-jina nārthagamaga khāya ke loka gasa rūthī.. 1 .. yāgāra gavatīdevī saṅghavamrmākṣiṣa jvī tasyā
-e ki prasāda nāva yā mitrādhi sādhaneṃ ..thana saṃyā ligaṃ sarva kamidaṃ jagata spa lôka jvana syā
-seva ūsaddharma sādhanaṃ .. 3 .. tadyathā ra nma hāsa tyā ji nā māja kā rasa vivāmitra tra gatra naga tyāyacitra
-he nā maū .. 4 .. kasminsamaya sāhaṃ śādhi mamunā māvi saṃ dhṛtyā jagaddhitasamā
-mahārāya grāyatitrāsaditaḥ saddhamma sampāda sāsa nasa mānyatā ..gha
+oṃ namaḥ śrīratnatrayāya .. oṃ namaḥ śrīsarvvavuddhabodhisatve(bhyaḥ) .. yaḥ śrīghananāmā mahāvuddhaḥ sarvvalokādhipā
+jinaḥ śrīnāthaṃ … gatalokaga … rthī .. 1 .. yā śrībhagavatīdevī sarvvadharmmavipaścitaḥ . tasyā
+e ki prasādena vakṣyāmi vodhisādhanaṃ .. 2 .. yena saṃpālitaṃ sarvvadhātukamidaṃ jagat . tasya lokajvanasyā
+sevaūsaddharmmasādhanaṃ .. 3 .. tadyathā ratnamahāsatvo jina … tratnagata … yatina
+hijināmasaū .. 4 .. kasminsamaye sāhaṃ vodhimaka … jināmamādhāvi … dhṛtvā jagaddhitasamā
+yat .. 5 .. ta… ātra mahā… yatijā saditaḥ saddharmmasamupādasaśāsanasamājñayā .. 6 .. gaṃdha
 
 <!-- page 2 -->
-dayakāviyamāla : hākanā kalānipi :|| dhanali sabamsa nyāyāniti
-tvā gvasa vidhi va sādhūna : .. saśvana yāya dhakā jyā vanajña ra ese mūpāgra yana  .. 8 .. oṃ kāya
-
-pāsa kā upāsikā : pratināpi mahā sa tvā : samyūḍa eki yātrikā ..
-nāma kināū nā 47 mā tyāni potrā 8 sau vāha mahoū nā 1 ..
-loka
-91877 ચોપ
-priyā patrā
-panīra khāvā
-10 ..
-thā jānapadā myā pā
-pakā riṃgatijanā pāsa gayā
-.. ..
-samyaka
-yatikā vargamā jana mā : ta thā  anya deśikā : lokā: saddharmāniyo kina : .. 11 .. savaya samū yāga nyata mahaka
-jayajiyagyathākramaṃ samaya nityāsa tvāsa mūpā gri tāḥ ..2.. saddhamamitaṃ pāeṃ. kṛ. jaliyū pu ṭhā mūda
-thugusakama lāhā jina grā vāghi satva sakala mū kā la
+dayakāviyamālaḥ hākanā kalānipiḥ … dhanali sabamsa … jāna … yāniti
+brahmā gandharvakāḥ sarvve … loka … trinaḥ .. tatsaddharmmāmṛtaṃ pātuṃ … samupāśrayan .. 7 .. …
+loke … sarvvavidhijñe sādhanaṃ .. sū … vimānaṃ pātuṃ tatsa … samupāśrayanaṃ .. 8 .. …
+pāsaka … upāsikāḥ vratino vimahāḥ saḥ sambuddha … ki yātrikāḥ .. 9 .. brahma … kṣatriyā vaiśyā viprā jā
+nāma … jñanāḥ … mā tyā … putrāḥ sārthavāhā mahojñanāḥ .. 10 .. tathā jānapadā āmyā pā
+ryyātikā jvanairgamāḥ tathānya deśikāḥ lokāḥ saddharmmārthinaḥ .. 11 .. sarvve samupāgamya namaha … ṅkaṃ
+jayajiyathākramaṃ samayaṃ nityāstvā samūpāśritāḥ .. 12 .. saddharmmāmṛtaṃ pātuṃ kṛtāñjalipuṭāmūdrā
+dhṛtaḥ saddharmmā … to … jinaṃ … jñā … vodhisatvasakala … kā la
 
 <!-- page 33 -->
-vala una naṃsa prayā tā nama yu : .. iti gra nakara lkyū ha mahāyāna sutra ratrā tāi prathamā ghaṣā yatri ra
-tra eḍa nānū gatrā vadā naṃsa māpha .. 1 .. tha gra mānmahāsatvā jhinagrā tāja jātmya .. jayagriya yagi
-natvā sāū trita vmavagīta .. .. ecu on grā umikā nisahara syasanyata: pramata lāka nātha spamā
-hāsya grakṣmū ema .. .. tabhi madvā ghi satva syanu lakva ghipta : pragra gum mahā syamā khyā unha si
- tvaja ga hita : .. .. iti saṃprāthamā naso jya grāma nyati : jinagra rāja mālā vakataya ṭimava mabravī
-te .. .. sādhu gaja mahā tga gayagthe jgu tjita jñādi tata kā haka samāsa naprava āmi jaga chite
+valaṇuvanaṃ saṃprayāgātmayūḥ .. .. iti śrīguṇakāraṇḍavyūhe mahāyānasūtraratnarāje prathamo'dhyāyaḥ
+sattvānugrahāvadānaṃ samāptaṃ .. 1 .. atha … bhagavān … mahā
+nailosājina … navamabravīt .. .. … kṛ … a … mikā
+hāsyeñjamuttamaṃ .. .. tajñīmadvodhisatvestrailokkā
+laṃkṛ gajendra … .. .. oṃ tisaṃbodhamānīmāñjayanñīmīnaṃ
+nīṃ .. .. sādhu rāja mahāngaya yathā … mūjāditaṃ na
+mā … ñcayābiñjakaḥ
 
 <!-- page 60 -->
-jamarājāyā...onpaḥāryyāvalokiteśvalaṃ...
-dayakaraṃ..
-30
-lokeśvarayā hlaoṃ...thanakacona...
+guṇakāraṇḍa … 30
+mupātiṣṭha … putraḥ .. .. namo lokeśvaro … so … dharmmarājaṃ vilokayan ḥ samādiśati saṃbodhimārgaṃ
+niyākṛmādattāḥ .. .. yamaḥ sta dharmmarājā si … rvvalokānugrāhakaḥ . tatsamyag… śraya …
+sattvā dharmmānubhāvasya .. yacāpi jñātinā dṛṣṭāḥ pāpiṣṭhāḥ … tepi dharmmapratiṣṭhitāḥ .
+… pi sāpayastanaḥ .. .. yavāpi vijñayā … trailokya … sarvvadāni
+tvaṃ sarvvāvidharmmavādikinaḥ .. .. tasva pi samā … mālokapālanīyāttvayā sadā . vodhisattvo … vana
+sarvvāvānapiloka … vodhimārgaṃ … ṣṭhā … dharmmanīyāḥ sadvāvanī .. .. yadāpi pāpāḥ

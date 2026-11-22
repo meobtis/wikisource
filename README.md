@@ -17,7 +17,13 @@ sambodhana, Guṇakāruṇamaya) or `new` (Newar prose with Sanskrit verses: Sva
 and Vicitrakarṇī avadāna, Vasundharā kathā). The other 41 files are `unassessed` (they are not Buddhist; most are
 Newar songs and tales). The automatic Nepali and English machine translations that Wikisource's transcription adds
 after the manuscript text on each page were removed from these 16 files (the count is `machine_translations_removed`);
-they remain in the first commit. Each file has `buddhist: true` or `false`; the MEOBTIS index lists the Sanskrit
+they remain in the first commit. The pages Wikisource had left as unproofread OCR in five of the Sanskrit and mixed texts (Pañcarakṣā, Kāraṇḍavyūha,
+Uposadha vrata, Bali Rāja, Guṇakāruṇamaya; 194 pages) were re-read against the manuscript scans and rewritten; the
+front matter says `proofread` and the corrections are in `errata/`. The manuscripts are in difficult hands (several
+of them Prachalit), so some readings are uncertain, `…` marks illegible words, and the pages should still be
+checked by a second reader. The IAST files were regenerated from the corrected text.
+
+Each file has `buddhist: true` or `false`; the MEOBTIS index lists the Sanskrit
 Buddhist ones.
 
 See [CATALOG.md](CATALOG.md) for the list.
