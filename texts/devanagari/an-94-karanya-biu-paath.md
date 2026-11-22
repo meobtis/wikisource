@@ -1,9 +1,11 @@
 ---
 title: "Karanya Biu Paath"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_94_Karanya_Biu_Paath.pdf"
-language: new
+language: sa
 script: deva
 buddhist: true
+language_note: "Sanskrit (assessed by reading samples)"
+machine_translations_removed: 70
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_94_Karanya_Biu_Paath.pdf"
 pages: 198
@@ -22,8 +24,6 @@ note: "Transcribed by Wikisource volunteers from a manuscript scan digitised wit
 
 ओम नमः श्री मादार्यवलोकितेश्वरय ॥ ॥ मैले तिमीबाट सुनेको छु कि एक समय भगवानको सर्वोच्च व्यक्तित्व, जो धेरै शक्तिशाली थिए, श्रवती नगरमा आफ्नो लीलाहरूको आनन्द लिइरहेका थिए। ॥ ॥ उदाहरणका लागि। महान ऋषि बज्रपाणी पनि उपस्थित थिए। रूपले सानो, ज्ञानको महान् मामिलामा होइन। लुकेका र लुकेका सत्त्वद्वारा बोधि, महान सत्त्व। आकाश महान ऋषि बोधिसत्वको गर्भ हो। सूर्य-देव महान ऋषि बोधिसत्वको गर्भमा जन्मेका थिए। रालापाणी बोधिसत्वहरूमध्ये सबैभन्दा महान् थिए। सज्जन र महान बोधिसत्वको वरिपरि तपाईंद्वारा। सामन्त भद्रेणच बोधिसत्व महासत्व। महास्थम प्राप्तेनाच। सर्वनिवरण विष्काभिनाच। र बोधिसत्वका सबै सुरहरूद्वारा
 
-Om Namah Sri Madaryavalokiteshvaraya ॥ ॥ I have heard from you that once the Supreme Personality of Godhead, who was very powerful, was enjoying His pastimes in Sravati city. ॥ ॥ For example. The great sage Vajrapani was also present. Small in form, not in great matters of knowledge. Bodhi, the great sage through hidden and hidden truths. The sky is the womb of the great sage Bodhisattva. The sun-god was born in the womb of the great sage Bodhisattva. Ralāpani was the greatest of the Bodhisattvas. By you, the noble and great Bodhisattva, the noble and great Bodhisattva, the great one. The great one who attains the highest state. The all-pervading Vishvabhina. And by all the sounds of the Bodhisattva.
-
 <!-- page 2 -->
 ॐ नमो भगवते महावैरोचनाय ॥ ॐ  नमो भगवते महावैरोचन प्रभवतुराजाय तथागतायार्हन्ते सम्यक्संबुद्धाय ॥ तद्यथा ॐ शूष्मे २
 समे २ शान्ते २ दान्ते २ समारोप्य अनालम्वे तलंवे यशोभवति महातेजे निरालंमन्य राकूले निर्व्वाणे सर्व्वबुद्धानाधिष्ठानाधिष्ठि
@@ -32,25 +32,12 @@ Om Namah Sri Madaryavalokiteshvaraya ॥ ॥ I have heard from you that once the
 णी मन्तसलिखि तामपिपश्येत । तस्य पराणं कुर्य्या तपरिक्ष यंगछति मरण कार समये अक्षोभ्य स्तथागतस्य पुरतो स्थित्वा ए
 कवार सन्निहितोभवति आगछे कुलपुत्रमत्सका श्रूति भवती ति ॥ इति श्री अक्षोभ्यस्य धारणी समप्त ॥ ॥
 
-ॐ नमो भगवते महावैरोचनाय ॥ तपाईंलाई नमस्कार, परम पुरुषोत्तम भगवान, जो सबै ऐश्वर्यका स्रोत हुनुहुन्छ र पूर्ण रूपमा ज्ञानी हुनुहुन्छ। उदाहरणका लागि, जब कसैले परम पुरुषोत्तम भगवानलाई शुष्मको रूपमा राख्छ, जो उहाँको समान हुनुहुन्छ, जो शान्त हुनुहुन्छ र जो आत्म-नियन्त्रित हुनुहुन्छ, उहाँ आफ्नो तेजको लागि प्रसिद्ध हुनुहुन्छ। यो श्री वैरोचनको धारणीको पूर्णता हो। ५ ॥ ॥ सर्वव्यापी र अटल भगवान, तपाईंलाई नमस्कार। उदाहरणका लागि, 'ओम कंकाणी २ रोकानी २ मोचानी २ त्रोत्राणी २ संत्रासनी २ प्रतिहत सर्वकर्मा परम्परागत स्वाहा हो। ॥ जुन यसको आधार हो
-ऋणि मन्तसलिखीले पनि उनलाई देख्नु पर्छ। मृत्युको समयमा उनले आफ्नो प्राण त्यागेर तथागतको अगाडि अचल उभिनु पर्छ जब परिवारको छोरा कवर नगरमा आउँछ, भनिन्छ कि ऊ माछा बन्छ। यो श्री अक्षोभ्यको पूर्ण धारक हो। ॥ 
-
-Om Namo Bhagavate Mahavairochanaya ॥ Salutations to you, the Supreme Personality of Godhead, who is the source of all opulence and is fully knowledgeable. For example, when one regards the Supreme Personality of Godhead as Shusma, who is equal to Him, who is peaceful and who is self-controlled, He is famous for His effulgence. This is the perfection of the Dharani of Sri Vairocana. 5 Salutations to you, the omnipresent and immutable Lord. For example, 'Om Kankani 2 Rokani 2 Mochani 2 Trotrani 2 Santrasani 2 Pratihat Sarvakarma is the traditional Swaha. ॥ Which is the basis of it. The debtor should also see him. At the time of death he should give up his life and stand motionless before the Tathagata. When the son of the family comes to Kavar Nagar, it is said that he becomes a fish. This is the complete holder of Shri Akshovya.
-
 <!-- page 3 -->
 न महा सत्वेन ॥ भैषज्यसेनेनच बोधिसत्वेन महासत्वेन ॥ अवलोकितेश्वरेणच बोधिसत्वेन महासत्वेन ॥ वज्रपाणिनाच बोधिसत्वेन महासत्वे
 न ॥ सागरमतिनाच बोधिसत्वेन महासत्वेन ॥ धर्म्मधरेणच बोधिसत्वेन महासत्वेन ॥ पृथिवीवरलोचनेनच बोधिसत्वेन महासत्वेन । आ
 श्वासहस्तेनच बोधिसत्वेन महासत्वे ॥ मैत्रेयनच बोधिसत्वेन महासत्वेन ॥ एवम्प्रमुखैरशीति बोधिसत्वकोट्यः सन्नियतिताः ।अन्येच
 द्वात्रिंशद्देवपुत्रनिकायाः सन्नियतिता महेश्वर नारायणदेव पुत्रपूर्व्वभ्गमाः शक्रोदेवानामिन्द्रोव्रम्हाच सहायतिश्चन्द्रादि भ्यवायुवरुणा
 दयः । एतत्य्रमुखाद्देवयुत्राः सन्नियेतितास्त स्मिन्यर्षदि ॥ अनेकानि नागराज शतसहम्राणि सन्नियतितानि ॥ तद्यथा ॥ प्यये ललेनच
-
-महान् सत्त्वद्वारा होइन। औषधिहरूको सेना पनि अत्यन्त शक्तिशाली बोधिसत्वको साथमा थियो। ब्रह्माण्डका स्वामीलाई महान् ऋषि बोधिसत्वले अवलोकन गरे। बोधिसत्वहरूमध्ये महान् वज्रपाणीले अवलोकन गरेनन्। समुद्र-मन भएका र अत्यन्त शक्तिशाली बोधिसत्व। धर्म धारण गर्ने अत्यन्त शक्तिशाली बोधिसत्व बोधिसत्व र महान् सत्त्वका पृथ्वी-वाहक आँखाहरू। महान् बोधिसत्वको हातमा एक सास। मैत्रेय पनि एक महान् बोधिसत्व थिए। यसरी, अस्सी करोड बोधिसत्वहरूलाई प्रमुखहरूले नियुक्त गरेका थिए। अन्य
-देवताहरूका पुत्रहरूको बत्तीस शरीरहरू महेश्वर नारायणका पुत्रहरू, इन्द्रका देवताहरू, ब्रह्मा र चन्द्रमाका सहायक र अन्य भयानक वायु र वरुणसँग सम्बन्धित छन्
-दया। यस ऋषिको मुखबाट देवताहरू एकसाथ ल्याइए। हे सर्पहरूका राजा, यी लाखौं थिए। उदाहरणका लागि। प्याये लालेनच
-
-Not by the great being. The army of medicines was also with the extremely powerful Bodhisattva. The lord of the universe was observed by the great sage Bodhisattva. The great Vajrapani among the Bodhisattvas did not observe. The ocean-minded and extremely powerful Bodhisattva. The extremely powerful Bodhisattva who holds the Dharma The Bodhisattva and the earth-carrying eyes of the great being. A breath in the hand of the great Bodhisattva. Maitreya was also a great Bodhisattva. Thus, eighty million Bodhisattvas were appointed by the chiefs. Other
-The thirty-two bodies of the sons of the gods are related to the sons of Maheshwara Narayana, the gods of Indra, the assistants of Brahma and the moon and other terrible Vayu and Varuna
-Kindness. From the mouth of this sage the gods were brought together. O king of serpents, these were in the millions. For example. Pyaye Lalenach
 
 <!-- page 4 -->
 नाग राजेन । एलयत्रेणच नागराजेन । तिमिंशिलेनच नाग राजेन । गवाम्य तिनाच नाग राजेन । शतशीर्षेणच नाग राजेन । हुलुण्डेनच ना
@@ -59,20 +46,11 @@ Kindness. From the mouth of this sage the gods were brought together. O king of 
 ः सन्त्रियतितैः ॥ अनेकैश्च गन्धर्व्वशतसहम्रैः सन्नियतितैः ॥ तद्यथा ॥ दुन्दुभिस्वरेणच गन्धर्व्व राजेन । मनाज्ञस्वरेणच गन्धर्व्व राजेन । सहम्रतु
 जनच गन्धर्व्व राजेन । सहाम्यतिनाच गन्धर्व्व राजेन । शरीर प्रल्हादेनच गन्धर्व्व राजेन । निर्न्नादित भूर्य्यणच गन्धर्व्व राजेन । अलंकार भयिते
 
-सर्प राजाद्वारा। इलयात्रा र सर्पहरूको राजाद्वारा। तिमिन्शिलेना र सर्प राजाद्वारा। म सर्पहरूको राजाद्वारा तिनच जाँदैछु। र सर्प राजा, शतशीर्षद्वारा। हुलुन्डेनाच ना ग राजेन। सर्प राजाद्वारा वावोदकेनाच। सर्पहरूको राजा, तक्षकद्वारा। सर्प राजाद्वारा शोशीर्षणाच। मृगको टाउको भएको सर्प राजाद्वारा। नन्द र सर्प राजा। पाणन्द र सर्पहरूको राजाद्वारा। र वत्सीको छोराद्वारा, सर्पहरूको राजाद्वारा। र पराजित नभएको सर्प राजाद्वारा। महासागर र सर्पहरूको राजा। यसरी सर्पहरूको राजा, प्रमुखहरू मध्ये एक, हजारौं अन्य द्वारा शहरमा पठाइयो। उदाहरणका लागि, धेरै सयौं र हजारौं गन्धर्वहरू उपस्थित थिए। गन्धर्वहरूका राजाले ढोलकको आवाज सुने। गन्धर्वहरूका राजाले आज्ञा नगरेको आवाजमा बोले। सहम्रतु गन्धर्वहरूका राजाद्वारा जनच। म गन्धर्वहरूका राजासँग सहमत भएँ। शरीर गन्धर्वहरूका राजा प्रह्लादलाई दिइयो। गन्धर्वहरूका राजाले ठूलो स्वरमा गर्जे। बयानबाजी डर
-
-By the snake king. By the Ilaytra and the king of snakes. By the Timinshilena and the king of snakes. I am going by the king of snakes. And by the snake king, the hundred-headed one. Hulundenacha na ga rajen. By the snake king, the vavodkenach. By the snake king, the taksaka. By the snake king, the shoshirshanach. By the deer-headed snake king. Nanda and the snake king. By Pananda and the king of snakes. And by the son of Vatsi, the king of snakes. And by the undefeated snake king. The ocean and the king of snakes. Thus the king of snakes, one of the chiefs, was sent to the city by thousands of others. For example, many hundreds and thousands of Gandharvas were present. The king of the Gandharvas heard the sound of the drum. The king of the Gandharvas spoke in a voice that was not commanded. Sahamrati was ordered by the king of the Gandharvas. I agreed with the king of the Gandharvas. The body was given to the king of the Gandharvas, Prahlad. The king of the Gandharvas roared loudly. The rhetoric was afraid.
-
 <!-- page 5 -->
 नच गन्धर्व्व राजेन । कुमार दर्शनेनच गन्धर्व्व राजेन । सुवाहुयुक्तेनच गन्धर्व्व राजेन । धर्म्म प्रियणच गन्धर्व्व राजेन ॥ एवम्प्रमुखैर नेकैश्च गन्धर्व्व राज शतसहम्रैः सन्नियतितैस्त स्मिन्यर्षदिः ॥ अनेकैश्च किन्नर राजशतसहम्रैः सन्नियतितैस्त स्मिन्नेवयर्षदि ॥ तद्यथा ॥ सुमुखेनच किन्न
 र राजेन ॥ किरीटिनाच किन्नर राजेन । श्वातिमुखेनच किन्नर राजेन । प्रहर्षितेनच किन्नर राजेन । चक्रव्यूहेनच किन्नर राजेन । युष्याव
 कीर्ण्तुेनच किन्नर राजेन । मणिनाच किन्नर राजेन । प्रलम्वादरेणच किन्नर राजेन । ढृटवीर्य्यणच किन्नर राजेन । सुयोधेनच किन्नर रा
 जेन । शतमुखेनच  किन्नर राजेन । द्रूमेणच  किन्नर राजेन । एवम्प्रमुखैरनेकैः किन्नर राजशतसहम्रैः सन्निपतितैः ॥ अनेकै श्चाप्स
-
-न त गन्धर्व राजाले। त्यो जवान मानिसलाई गन्धर्व राजाले देखे। गन्धर्व राजा राम्रो घोडाले सुसज्जित थिए। गन्धर्व राजा धर्मबाट प्रसन्न थिए। हे गन्धर्वहरूमा श्रेष्ठ, हे राजा, त्यहाँ लाखौं ऋषिहरू थिए जसलाई यसरी महान ऋषिहरूले नियुक्त गरेका थिए। यज्ञमा सयौं हजार किन्नर राजाहरू उपस्थित थिए। उदाहरणका लागि। सुन्दर अनुहार भएको राजाको बारेमा के भन्न सकिन्छ? किरीटीनाच किन्नरहरूका राजाद्वारा। र ट्रान्सभेस्टाइटहरूका राजा, स्वातमुखद्वारा। ट्रान्सजेन्डर राजा खुशी भए। चक्रव्यूह र किन्नर राजा। युश्यव
-र ट्रान्सभेस्टाइटहरूका राजा, कीर्तुद्वारा। किन्नर राजाद्वारा मणिनाच। र ट्रान्सभेस्टाइटहरूका राजा, प्रलम्वादरद्वारा। धृतवीर्यान र किन्नरहरूका राजाद्वारा। सुयोधेनाच किन्नर राजनद्वारा। र ट्रान्सभेस्टाइटहरूका राजा, शतमुखद्वारा। रूखद्वारा र ट्रान्सभेस्टाइटहरूका राजाद्वारा। यसरी उनको नेतृत्वमा रहेका किन्नरहरूका सयौं र हजारौं राजाहरू ढले। धेरै जना
-
-Nor did the Gandharva king. The Gandharva king saw that young man. The Gandharva king was equipped with a good horse. The Gandharva king was pleased with the Dharma. O best of the Gandharvas, O king, there were millions of sages who were thus appointed by the great sages. Hundreds of thousands of Kinnar kings were present at the yagna. For example. What can be said about a king with a beautiful face? By the king of the Kinnars, Kiriti. And the king of transvestites, by Swatmukh. The transgender king was happy. Chakravyuh and the king of the eunuchs. Yushyav and the king of transvestites, by Kirtu. By the king of the eunuchs, Maninach. And the king of transvestites, by Pralamvadara. By Dhritaravirya and the king of the eunuchs. Suyodhenach by the king of the eunuchs. And the king of transvestites, by Shatmukh. By Rukhu and the king of the eunuchs. Thus hundreds and thousands of kings of the eunuchs who were under his leadership fell. Many
 
 <!-- page 6 -->
 रः शतसहम्रैः सन्निपतितैः ॥ तद्यथा ॥ तिलोतमा नामाप्सरसा । सुव्युहा नामाप्सरसा । सुवर्ण्णमेखला नामाप्सरसा । विभूषिता नामाप्सरसा ॥
@@ -84,8 +62,6 @@ Nor did the Gandharva king. The Gandharva king saw that young man. The Gandharva
 नजिकैका लाखौं झरनाहरू सहितको। उदाहरणका लागि। तिलोत्तमा एक अप्सरा हुन्। सुव्युहा एक अप्सरा हुन्। सुनौलो पेटी अप्सराको नाम हो। उनी एक अप्सराले सजिएकी थिइन्। कर्णभूधरा नामकी एक अप्सरा थिइन्। अमृताविन्दु नामकी एक अप्सरा थिइन्। परिषोधिताका नामकी अप्सरा थिइन्। मणिप्रभा एक अप्सरा हुन्। चुडाक एक अप्सरा हुन्। देवाधिमुख न मपसरसा। पचनामृया नामकी एक अप्सरा थिइन्, जो उनको सामना गरिरहेकी थिइन्। रतिकर एक अप्सरा हुन्। कच्चनमाला एक अप्सरा हुन्। निलोत्यला नामकी एक अप्सरा थिइन्। सर्साराको नाम धर्मभिमुख हो। सुक्रीडा एक अप्सरा हुन्। पूरा नाम अप्सरा हो। सुव्युहमुखा नाम गरेकी एक अप्सरा थिइन्। केयुराधन एउटा अप्सरा हुन्। दानन्दद नाम गरेकी एक अप्सरा थिइन्। शशि नमप्स
 रस ॥ यसरी उनको नेतृत्वमा रहेका धेरै अप्सराहरू शान्तिपूर्वक ढले। सयौं सर्प कन्याहरू। तिनीहरू एकसाथ नजिक छन्। उदाहरणका लागि। विभूषण धारणाम नाशक
 
-With millions of waterfalls nearby. For example. Tilottama is an Apsara. Subyuha is an Apsara. Golden belt is the name of an Apsara. She was adorned with an Apsara. There was an Apsara named Karnabhudhara. There was an Apsara named Amritavindu. There was an Apsara named Parishodhitaka. Maniprabha is an Apsara. Chudaka is an Apsara. Devadhimukh na Mpasarasa. There was an Apsara named Pachanamriya, who was facing her. Ratikara is an Apsara. Kachchanmala is an Apsara. There was an Apsara named Nilotyala. The name of Sarsara is Dharmabhimukh. Sukrida is an Apsara. The full name is Apsara. There was an Apsara named Subyuhamukha. Keyuradhana is an Apsara. There was an Apsara named Danandad. Shashi Nampasrasa ॥ Thus many Apsaras under his leadership fell peacefully. Hundreds of snake girls. They are close together. For example. Vibhushana Dharnam Nashak
-
 <!-- page 7 -->
 न्या । मुचिलिन्दानाम नाग कन्या । त्रिक्षटानाम नाग कन्या । स्वातिमुखानाम नाग कन्या । जयश्रीनाम नाग कन्या । विजयश्रीनाम नाग कन्या । विद्यू
 न्लोचनानाम नाग कन्या । विद्युत्प्रभानाम नाग कन्या । स्वातिगिरिर्न्नाम नाग कन्या । शतयरिवारानाम नाग कन्या । महौषधीनाम नाग कन्या । इन्दु
@@ -95,31 +71,16 @@ With millions of waterfalls nearby. For example. Tilottama is an Apsara. Subyuha
 
 न्या। मुचिलिंडा, सर्पकन्या। त्रिक्षताकी सर्पकन्या। स्वातिमुखाकी सर्पकन्या। जयश्रीनाम नागकन्या। विजयश्रीनाम नागकन्या। विद्युत न्लोचना, सर्पकन्या। विद्युतप्रभा नामकी सर्पकन्या। स्वातिगिरी सर्पकन्या हुन्। शतायरीवराकी सर्पकन्या। महाऔषधिकी सर्पकन्या। इन्दु सर्पकन्या हुन्। एकशिर्म नामकी सर्पकन्या। शतवहु सर्पकन्या हुन्। श्रस्नी सर्पकन्या हुन्। अनाकृत्स्ना नामकी सर्पकन्या। सुभूषणकी सर्पकन्या। यन्दरमेघकी सर्प छोरी। रथभिरुत नामकी सर्प केटी। भ्यागर्त नामकी सर्प केटी। अभिन्न परिवारकी सर्प छोरी। पुलिन्दना म सर्प केटी हुँ। सागरकुक्षी नामकी सर्प केटी। छत्रमुखकी सर्प छोरी। धर्मपीठनम नाग कन्या। सुखकरणम नाग कन्या। वीर्य नामको सर्प
 
-Nya. Muchilinda, a serpent girl. Trikshata's serpent girl. Swatimukha's serpent girl. Jayashreenam's serpent girl. Vijayashreenam's serpent girl. Vidyut Nlochana, a serpent girl. Vidyutprabha's serpent girl. Swatigiri is a serpent girl. Shatayarivara's serpent girl. Mahaaudhadhiki's serpent girl. Indu is a serpent girl. Ekashirma's serpent girl. Shatavahu is a serpent girl. Srasni is a serpent girl. Anakritsna's serpent girl. Subhushan's serpent girl. Yanderamegha's serpent girl. Rathabhiruta's serpent girl. Bhyagarta's snake girl. The snake girl of the integral family. Pulindana I am the snake girl. The snake girl named Sagarakukshi. The snake girl of Chatramukh. The snake girl of Dharmapeethanam. The snake girl named Sukhakaranam. The snake girl named Veerya
-
 <!-- page 8 -->
 कन्या । सागरगम्भीरानाम नाग कन्या । मेरुश्रीनाम नाग कन्या ॥ एवंप्रमुखान्यनेकानि नाग कन्या शतानिसन्नियति तानि ॥ अनेकानिच गन्धर्व्वक
 न्या शतानिसन्नियति तानि ॥ तद्यथा ॥ प्रियमुखानाम गन्धर्व्व कन्या । प्रियन्ददानाम गन्धर्व्व कन्या । सुदर्शनानाम गन्धर्व्व कन्या । वज्रश्रीनाम गन्धर्व्व
 कन्या । वज्रमालानाम गन्धर्व्व कन्या । सुमालिनीनाम गन्धर्व्व कन्या । वनस्यतीनाम गन्धर्व्व कन्या । शतयुष्यानाम गन्धर्व्व कन्या । मुकुलितानाम गन्धर्व्व कन्या । रत्नमालानाम गन्धर्व्व कन्या । रुदितयुष्यानाम गन्धर्व्व कन्या । सुकुक्षीनाम गन्धर्व्व कन्या । राजश्रीयार्नाम गन्धर्व्व कन्या । दुन्दुभीनाम गन्धर्व्वकन्या
 । सुमालानाम गन्धर्व्व कन्या । विभुश्रितालकारानाम गन्धर्व्व कन्या । अभिनमितानाम गन्धर्व्व कन्या । धर्म्मकांक्षीनाम गन्धर्व्व कन्या । धर्म्मन्ददानाम
 
-दुलही। सगरगम्भीरा नामकी सर्पिका। मेरुश्री नामकी सर्पकी छोरी। हे सर्प, भगवानका अरू धेरै छोरीहरू छन्, उहाँबाट सुरु भएर। धेरै गन्धर्वहरू
-तिनीहरू सयौं छन्। उदाहरणका लागि। प्रियमुखकी गन्धर्व छोरी। उनी प्रियनन्द नामकी गन्धर्व युवती थिइन्। उनी सुदर्शन नामकी गन्धर्व युवती थिइन्। वज्रश्री नामकी गन्धर्व
-दुलही। उनी वज्रमाला नामकी गन्धर्व युवती थिइन्। सुमालिनी नामकी गन्धर्व युवती थिइन्। वनस्यति नामकी गन्धर्व युवती थिइन्। उनी शतायुष्य नामकी गन्धर्व युवती थिइन्। गन्धर्व युवतीको नाम मुकुलिता थियो। रत्नमाला नामकी गन्धर्व युवती । रुदितायुष्य नामकी गन्धर्व युवती थिइन् । सुकुक्षी नामकी गन्धर्व युवती । उनी राजश्री नामकी गन्धर्व युवती थिइन् । दुण्डुभी नामकी गन्धर्व युवती
-। सुमला नामकी गन्धर्व युवती । गन्धर्वको विभुश्रीतालकरा नामकी एउटी छोरी थिइन् । अभिनमिता नामकी गन्धर्व युवती । उनी धर्मकंक्षी नामक गन्धर्वकी छोरी थिइन्। धर्ममाण्डदानम्
-
-Bride. A serpent girl named Sagargambhira. Daughter of a serpent named Merushree. O serpent, the Lord has many other daughters, starting with Him. Many Gandharvas
-They are hundreds. For example. The Gandharva daughter of Priyamukh. She was a Gandharva girl named Priyananda. She was a Gandharva girl named Sudarshan. The Gandharva girl named Vajrasree
-Bride. She was a Gandharva girl named Vajramala. She was a Gandharva girl named Sumalini. She was a Gandharva girl named Vanasyati. She was a Gandharva girl named Shatayushya. The name of the Gandharva girl was Mukulita. The Gandharva girl was named Ratnamala. There was a Gandharva girl named Ruditayushya. The Gandharva girl was named Sukukshi. She was a Gandharva girl named Rajashree. The Gandharva girl was named Dundubhi. The Gandharva girl was named Sumala. The Gandharva had a daughter named Vibhushritalakara. The Gandharva girl was named Abhinamita. She was the daughter of a Gandharva named Dharmakankshi. Dharmamandadanam
-
 <!-- page 9 -->
 गन्धर्व्व कन्या । ओदुम्वरानाम गन्धर्व्व कन्या । शमाकरानाम गन्धर्व्व कन्या । यद्मश्रीर्नाम गन्धर्व्व कन्या । यद्मालम्वानाम गन्धर्व्व कन्या । परिसाभित कानाम गन्धर्व्व कन्या । विलासेन्द्र गामिनीनाम गन्धर्व्व कन्या । पृथिवीऺददानाम गन्धर्व्व कन्या । फलन्ददानाम गन्धर्व्व कन्या । सिऺहगामिनीनाम
 गन्धर्व्व कन्या । कुमुदयुष्यानाम गन्धर्व्व कन्या । मनोरमानाम गन्धर्व्व कन्या। दानन्ददानाम गन्धर्व्व कन्या । देव वचरानाम गन्धर्व्व कन्या । क्षान्त्ति प्रियानाम गन्धर्व्व कन्या । निर्व्वाण प्रियानाम गन्धर्व्व कन्या । रत्नाकुलानाम गन्धर्व्व कन्या । इन्द्रश्रीनाम गन्धर्व्व कन्या । प्रजापति निर्व्वासिनी
 नाम गन्धर्व्व कन्या । मृगराजिनीनाम गन्धर्व्व कन्या । स्हरन्तश्रीर्नाम गन्धर्व्व कन्या । ज्वलन्तशिखलानाम गन्धर्व्व कन्या । राग परिमुक्ताना
-
-गन्धर्व छोरी । ओदुम्वर नामकी गन्धर्व युवती । उनी शामकरा नामकी गन्धर्व युवती थिइन् । यद्मश्री गन्धर्वकी छोरी थिइन् । गन्धर्वकी छोरी यद्माल्वा । परिसभिता नामकी गन्धर्व युवती । हे विलासिताका स्वामी, गामिनी नामकी गन्धर्व युवती थिइन् । गन्धर्वकी छोरीको नाम पृथिविक्षाद थियो। फालन्ददा नामकी गन्धर्व युवती । सिखगामिनी नामकी गन्धर्व युवती । गन्धर्वहरूको कुमुदयुष नामक एउटी छोरी थिइन्। गन्धर्व युवती मनोरमा । दानन्ददादाकी गन्धर्व छोरी । उनी देव वाचारा नामकी गन्धर्व युवती थिइन्। क्षान्ति प्रिया नामकी गन्धर्व युवती थिइन् । गन्धर्वकी छोरी, जसको नाम निर्वाण थियो, उनलाई प्रिय थिइन्। उनी रत्नकुला नामकी गन्धर्व युवती थिइन् । उनी इन्द्रश्री नामकी गन्धर्व कन्या थिइन् । प्रजापति निर्वासिनी गन्धर्व कन्याको नाम बताउ । मृगराजिनी नामकी गन्धर्व युवती थिइन् । शरणश्री नामकी एक गन्धर्व युवती थिइन् । गन्धर्वहरूको ज्वलन्तशिखला नामकी एक छोरी थिइन्। राग परिमुक्तना
-
-Gandharva daughter. Gandharva girl named Odumvara. She was a Gandharva girl named Shamkara. Yadmashri was the daughter of Gandharva. Gandharva daughter Yadmalva. Gandharva girl named Parisbhita. O lord of luxury, there was a Gandharva girl named Gamini. The Gandharva's daughter's name was Prithivikshada. Gandharva girl named Phalandada. Gandharva girl named Sikhgamini. The Gandharvas had a daughter named Kumudayush. Gandharva girl Manorama. Gandharva daughter of Danandada. She was a Gandharva girl named Dev Vachara. There was a Gandharva girl named Kshanti Priya. Gandharva's daughter, whose name was Nirvana, was dear to him. She was a Gandharva girl named Ratnakula. She was a Gandharva girl named Indrashree. Prajapati, tell the name of the exiled Gandharva girl. There was a Gandharva girl named Mrigarajini. There was a Gandharva girl named Sharanashree. Gandharvas had a daughter named Jwalantshikhala. Raga Parimuktna
 
 <!-- page 10 -->
 म गन्धर्व्व कन्या । द्बषयरिमुक्तानाम गन्धर्व्व कन्या । माहषरिमुक्तानाम गन्धर्व्व कन्या । सुजनयरिवारानाम गन्धर्व्व कन्या । रागषरिमुक्ताना
@@ -132,10 +93,6 @@ Gandharva daughter. Gandharva girl named Odumvara. She was a Gandharva girl name
 तिनीहरू सयौं छन्। त्यो ऋषिको जीवनकालमा सयौं किन्नेर र छोरीहरूको विवाह उहाँसँग भएको थियो। उदाहरणका लागि। मनसा नामक ट्रान्सजेन्डर केटी। मानसीना
 म एक ट्रान्सजेन्डर केटी हुँ। वायुवेग नामक किन्नेरकी छोरी। वरुणवेग नामक एक ट्रान्सभेस्टाइट केटी। आकाशप्लव नामक किन्नेरकी छोरी। वेगजवन नामक किन्नेरकी छोरी
 
-I am the daughter of Gandharva. Gandharva daughter Dvashiramuktnam. Mahasharimuktanam, daughter of Gandharva. Sujanayarivaranam, daughter of Gandharva Ragasharimuktana I am the daughter of Gandharva. Ratnapeethanam, daughter of Gandharva. Agamanam Gandharva Kanya. Agniprabhanam, daughter of the Gandharvas. Chandra Vimavaprabhanam Gandharva O fish, daughter of Suryalochana, Gandharva. Gandharva girl with golden language Uttarashreenam Gandharva girl. There are many prominent Gandharva daughters.
-There are hundreds of them. During the lifetime of that sage, hundreds of transgenders and daughters were married to him. For example. A transgender girl named Manasa. Mansina
-I am a transgender girl. Daughter of a transgender named Vayuveg. A transvestite girl named Varunveg. Daughter of a transgender named Akashplav. Daughter of a transgender named Vegjavan
-
 <!-- page 11 -->
 कन्या । लक्ष्मीन्ददानाम किन्नर कन्या । सुदंष्ट्रानाम किन्नर कन्या । अचलाश्रयानाम किन्नर कन्या । धाभुप्रियानाम किन्नर कन्या । ज्वलनप्तता
 नाम किन्नर कन्या । सुप्रियानाम किन्नर कन्या । रत्नकरण्डकानाम किन्नर कन्या । अवलोकितलक्ष्मीर्नाम किन्नर कन्या । कुटिलानाम किन्नरे
@@ -143,8 +100,6 @@ I am a transgender girl. Daughter of a transgender named Vayuveg. A transvestite
 परिसेविता नाम किन्नर कन्या । शतानाम किन्नर कन्या । आयुर्ददानाम किन्नर कन्या ॥ तथागतको शयरिपालितानाम किन्नर कन्या । धर्म्म
 
 दुलही । लक्ष्मीन्द नामकी एक ट्रान्सभेस्टाइट केटी। सुदनष्ट्रा नामकी एक ट्रान्सभेस्टाइट केटी। अचलाश्रय नामकी एक ट्रान्सभेस्टाइट केटी। धभूप्रिया नामकी एक ट्रान्सभेस्टाइट केटी। ज्वालानप्तता एक ट्रान्सभेस्टाइट केटी हुन्। सुप्रिया नामकी एक ट्रान्सभेस्टाइट केटी। रत्नाकरन्दक नामकी एक ट्रान्सभेस्टाइट केटी। अवलोकितलक्ष्मी नामकी एक ट्रान्सभेस्टाइट केटी। कुटिला नामकी एक ट्रान्सभेस्टाइट केटी। चौडा निधार भएकी एक ट्रान्सभेस्टाइट केटी। सुजानापरिसेविता नामकी एक ट्रान्सभेस्टाइट केटी। सहम्यति नामकी एक ट्रान्सभेस्टाइट केटी। कपिला एक ट्रान्सभेस्टाइट केटी हुन्। आकाशरक्षिता नामकी एक ट्रान्सभेस्टाइट (विपरीत लिङ्गीको भेष धारण गर्ने) युवती। उनी व्यूहरका राजाहरूकी ट्रान्सभेस्टाइट छोरी थिइन्। मणिचूडा नामकी ट्रान्सजेन्डर युवती। मणिरोचनी एक ट्रान्सजेन्डर युवती हुन्। विदुषजन। सेवा गरिएकी ती महिला एक ट्रान्सजेन्डर युवती हुन्। शतनाम किन्नर कन्या। आयुर्दाद नामका किन्नरकी छोरी। तथागतकी शयरिपालिता नामकी ट्रान्सजेन्डर युवती। धर्म।
-
-Bride. A transvestite girl named Laxminda. A transvestite girl named Sudhanashtra. A transvestite girl named Achalashraya. A transvestite girl named Dhabhupriya. Jwalanaptata is a transvestite girl. A transvestite girl named Supriya. A transvestite girl named Ratnakarandaka. A transvestite girl named Avalokitalakshmi. A transvestite girl named Kutila. A transvestite girl with a broad forehead. A transvestite girl named Sujanaparisevita. A transvestite girl named Sahamyati. Kapila is a transvestite girl. A transvestite (disguised as the opposite sex) girl named Akashrakshita. She was the transvestite daughter of the kings of Vyuhara. A transgender girl named Manichuda. Manirochani is a transgender girl. Vidushjan. The woman who was served is a transgender girl. Shatnam Kinnar Kanya. Daughter of a Kinnar named Ayurdad. Transgender girl named Shayaripalita of Tathagata. Religion.
 
 <!-- page 12 -->
 धातु परिरक्षिणीनाम किन्नर कन्या । नूयुरात्तमानाम किन्नर कन्या । लक्षणोत्तमानाम किन्नर कन्या । सततपरिग्रह धर्म्मकाक्षिणीनाम  कि
@@ -154,19 +109,12 @@ Bride. A transvestite girl named Laxminda. A transvestite girl named Sudhanashtr
 धातु परिराक्षिणी नामकी एक ट्रान्सजेन्डर केटी। नुयुरत्तमा नामकी एक ट्रान्सभेस्टाइट केटी। लक्षनोत्तमा नामकी एक ट्रान्सजेन्डर केटी। उनी धर्मकाक्षिनी नामकी एक पुरुषकी छोरी थिइन्, जो सधैं विवाहित थिए। सदानुकलादर्नी नामकी एक ट्रान्सभेस्टाइट केटी। अश्वस्नी नामकी एक ट्रान्सजेन्डर केटी। विमोक्षकर नामकी एक ट्रान्सभेस्टाइट केटी। सदानुवृत्य नामकी एक ट्रान्सभेस्टाइट केटी। सम्वेगधारानी नामकी एक ट्रान्सजेन्डर केटी। खड्गज्वलाना एक ट्रान्सजेन्डर केटी हुन्। पृथिव्यूयसंक्रमण नामकी एक ट्रान्सजेन्डर महिलाकी छोरी। सुरेन्द्रमाला नामकी एक ट्रान्सभेस्टाइट केटी। उनी सुरेन्द्र नामकी ट्रान्सजेन्डर युवती थिइन् । मनिन्द्र नाम गरेकी ट्रान्सजेन्डर युवती । गोत्रक्षान्ति नामकी एक ट्रान्सजेन्डर युवती । त्यागानुगाता नामकी एक ट्रान्सजेन्डर केटी। वाहश्रयोणाम किन
 र कन्या राशि। शतायुधा नामकी एक ट्रान्सभेस्टिट केटी। विभूषितालंकारा नामकी एक ट्रान्सभेस्टिट केटी। मनोहरी एक ट्रान्सजेन्डर केटी हुन्। इवाप्रमुखैरनेकणी किन्नर कन्या
 
-A transgender girl named Dhatu Parirakshini. A transvestite girl named Nuyurattama. A transgender girl named Laxmanottama. She was the daughter of a man named Dharmakakshini, who was always married. A transvestite girl named Sadanukaladarni. A transgender girl named Ashwasni. A transvestite girl named Vimokshakar. A transvestite girl named Sadanuvritya. A transgender girl named Samvegadharani. Khadgajwalana is a transgender girl. Daughter of a transgender woman named Prithivyuyasankraman. A transvestite girl named Surendramala. She was a transgender girl named Surendra. A transgender girl named Manindra. A transgender girl named Gotrakshanti. A transgender girl named Tyaganugata. Vahasrayonam Kin
-ra Virgo. A transvestite girl named Shatayudha. A transvestite girl named Vibhushitalankara. Manohari is a transgender girl. Evapramukhairanekani Kinnar Kanya
-
 <!-- page 13 -->
 शतानिसन्निपतितानि । अनेकानि उपासिका शतानिसन्निपतितानि । अनेकानिच चरकपरिव्राजकनि ग्रन्थ शतानिसन्निपतितानि ॥ य
 दा महासन्निपातो भूत्त दावीचौ महानरकेरश्मया निश्चरन्तिस्म । निश्चरित्वा जेतवन विहार माश छन्तिस्मे ॥ सर्व्वेते विहारे परिणोभिता
 एवेट्टश्यन्तस्म । दिव्यमणिरत्नोपलिप्ता स्तम्भु परिणोभिता दृश्यन्तस्मे ॥ कूटागाराः सुवर्ण्णा पचिता दृश्यन्तस्मे ॥ लयनेलयने सुवर्ण्णरूप्यम
 यानिद्वाराणि दृश्यन्तेस्म । लयनेलयने सुवर्ण्णरूप्य मयानि सोपानानि दृश्यन्तेस्म । सुवर्ण्णरूप्य मयानि प्रासादानि रूप्य मये प्रासादे सुवर्ण्ण
 रूप्यम यानि स्तम्भा निरत्नो पचितानि । सुवर्ण्णमय प्रासादे रूप्य मयानि स्तम्भानि दिव्यरत्नोपणो भितानि ॥ वहि ज्जेतवनस्य नाना विविधा
-
-सयौं पतन भए। सयौं भक्तहरू ढले। चरकको भटकन्तको बारेमा सयौं पुस्तकहरू लेखिएका छन्। जब ठूलो भूकम्प आयो, दुई पहाडहरू महानर्कको किरणले ढाकिए। जेतवन छोडेपछि, हामीले एक महिनासम्म रमाइलो गर्यौं। तिनीहरू सबै खेल मैदानमा व्यस्त थिए र एकअर्कालाई हेरिरहेका थिए। हामीले दिव्य रत्न र रत्नहरूले घेरिएका स्तम्भहरू देख्यौं। हामीले सुनले पकाएका गोप्य कोठाहरू देख्न सक्यौं। शहरका ढोकाहरू सुन र चाँदीले बनेका थिए। लयमा सुनौलो र चाँदीका सिँढीहरू थिए। मेरो सुनौलो र चाँदीका महलहरू छन्, र मेरो चाँदीको महलमा सुन छ। चाँदीका खम्बाहरू रत्नहरू बिना पकाइएका छन्। दरबार सुनौलो र चाँदीले बनेको थियो, र यसका खम्बाहरू दिव्य रत्नहरूले सजिएका थिए। बाहिर जजेटवनका विभिन्न प्रकारहरू छन्।
-
-Hundreds fell. Hundreds of devotees fell. Hundreds of books have been written about Charaka's wanderings. When a great earthquake struck, two mountains were covered with the rays of Mahanarka. After leaving Jetavana, we enjoyed ourselves for a month. They were all busy in the playground and looking at each other. We saw divine gems and pillars surrounded by gems. We could see secret rooms plated with gold. The gates of the city were made of gold and silver. There were golden and silver stairs in the rhythm. I have palaces of gold and silver, and there is gold in my silver palace. The silver pillars are studded with gems. The palace was constructed of gold and silver, and its pillars were adorned with divine jewels. Outside, there are various kinds of Jeta Grove trees.
 
 <!-- page 14 -->
 निकल्प वृक्ष शमानि दृश्यन्तेस्म । सुवर्ण्ण दण्डा निरुप्यपत्रानि नाना विधालंकार प्रलम्वितानि । शत चीवर वम्त्रप लम्वितानि । मुक्ता हारशत सह
@@ -175,11 +123,6 @@ Hundreds fell. Hundreds of devotees fell. Hundreds of books have been written ab
 लम्वितानि । अनेका नियुष्करिश्यः प्रादुभुतानि ॥ काचिदष्टां शोयेत वारिणायरिपुर्ण्णा काचिन्नानाविध पुष्यपरिपुर्ण्णाः । तद्यथापि उत्यल प
 द्म कुमुद पुण्डरी कमान्दारव महामान्दार वौदुम्वर पुष्प परिपुर्ण्णा । अन्यानिच विविधानि काष्ठ पुष्पाश्युत्पद्यन्तेस्म ॥ तद्यथा चम्पक कर
 
-निकल्पका रूखहरू देखिन्थे। तिनीहरू सुनौला डण्डा र पातहरूले सजिएका थिए र विभिन्न गहनाहरूले सजिएका थिए। वामट्र्यापमा एक सय चितुवा झुण्ड्याइएको थियो। सयौं श्री झुण्ड्याइएको मोतीको हार। मौली झुम्का मृगदमे केयु पाउल लाखौं झुण्ड्याइएको थियो। जब भगवान कृष्णले राजा कृष्णलाई सोध्नुभयो, त्यहाँ रत्न जस्तो भाँडोमा सयौं अद्भुत कल्प रूखहरू झुण्डिएका देखा परे। त्यही जैतुनको बगैंचामा, बज्रको आकारको सोयानाहरू थिए। ढोका र झ्यालहरू मोती र प्यानलहरूले झुण्ड्याइएको थियो। धेरै नियुष्कर्ष्यहरू देखा परे। तीमध्ये केही पानी र फलामले भरिएका छन् भने अरू विभिन्न प्रकारका फूलहरूले भरिएका छन्। यद्यपि, उटिल प
-दम लिली, कमन्दरव, महामन्दरव र वौदुमवरका फूलहरू फूलहरूले भरिएका छन्। काठ, फूल र खानाका अन्य प्रकारहरू पनि उत्पादन गरिन्थ्यो। उदाहरणका लागि, चम्पक कर
-
-Nikalpa trees were visible. They were adorned with golden rods and leaves and adorned with various ornaments. A hundred leopards were hung on the left trap. A hundred Sri hung pearl necklaces. Mauli jhumka mrigadme ke paul lakhs were hung. When Lord Krishna asked King Krishna, there appeared hundreds of wonderful Kalpa trees hanging in jewel-like pots. In the same olive grove, there were soyanas in the shape of a bajra. The doors and windows were hung with pearls and panels. Many reservoirs appeared. Some of them are filled with water and iron, while others are filled with various types of flowers. However, the Util Padma Lily, Kamandara, Mahamandar and Vaudumava flowers are filled with flowers. Wood, flowers and other types of food were also produced. For example, Champaka Kar
-
 <!-- page 15 -->
 वीरयाटुला नियुक्तका निगन्ध वार्षिक सुमनानि । एतानिमनोरमानि काष्टपुष्पाणि प्रादुर्भुतानि । तदातस्मि ञ्जेतवने विहारपरि साभिता
 एवदृश्यतेस्म ॥ ॥ अथत स्मिन्नेवयषदिमथ्ये सर्व्वणी वरणविह्वम्भी नाम वोधिसत्व उत्थाया सनादकांशमुत्त रासंग कृत्वा दक्षिण ञ्जानु म
@@ -187,22 +130,12 @@ Nikalpa trees were visible. They were adorned with golden rods and leaves and ad
 रश्मय आगछन्ति ॥ कस्यैष विषयः प्रभावः ॥ ॥ भगवानाह ॥ एष कुलपुत्रा वीचौ महानरके । आर्य्यावलाेकितेश्वरा वोधिसत्वा मदास
 त्वः प्रविष्ठः सत्वान्य रिमोचयति । परियाचयित्वा प्रेत नगरे प्रविशति ॥ तनायंरस्मय उत्स्टष्ठा ॥ ॥ अथ सर्व्वणी वरण विष्कम्भी भग
 
-वीरयतुलले नियुक्त गरेका निबन्ध वार्षिक फूलहरू। यी सुन्दर काठका फूलहरू वनमा देखा परे। त्यस समयमा उनी जेतवनको वनमा आनन्द लिइरहेको देखिन्थिन्। ॥ त्यसपछि, जब भगवान्‌को सर्वोच्च व्यक्तित्व, वाराण-विह्वम्भीले वैशादी महिनामा गरिने धार्मिक समारोहहरू गर्नुभयो, तब भगवान्‌को सर्वोच्च व्यक्तित्व, वाराणविह्वम्भी, आफ्नो शरीरबाट उठेर आफ्नो दाहिने घुँडा पृथ्वीमा राख्नुभयो। हात जोडेर उहाँलाई प्रणाम गरेपछि, उहाँले निम्न कुरा भन्नुभयो। मेरो प्रिय प्रभु, मैले भगवान्‌को सर्वोच्च व्यक्तित्वलाई प्रार्थना गरें, "सूर्यका यी किरणहरू कहाँबाट आउँछन्?" यो प्रभाव कसको विषय हो? ॥ भगवान्‌ले भन्नुभयो: यो ठूलो नर्कको बीचमा रहेको परिवारको छोरा हो। आर्यवलैकितेश्वर वोधिसत्व मदास तिमी भित्र पस र अन्य प्राणीहरूलाई मुक्त गर। मृतकसँग सोधपुछ गरेपछि, ऊ शहरमा प्रवेश गर्छ। उनी उठिन् र उसलाई मुस्कुराइन्। ॥ त्यसपछि सर्ववाणी वारणा विष्कम्भि भाग
-
-Essays on annual flowers assigned by Virayatul. These beautiful woody flowers appeared in the forest. At that time she was seen enjoying herself in the forest of Jetavana. ॥ Then, when the Supreme Personality of Godhead, Varana-vihvambhi, performed the religious ceremonies performed in the month of Vaishadi, the Supreme Personality of Godhead, Varana-vihvambhi, rose from his body and placed his right knee on the earth. After offering obeisances to him with folded hands, he said the following. My dear Lord, I prayed to the Supreme Personality of Godhead, "Where do these rays of the sun come from?" Whose influence is this? ॥ The Lord said: This is the son of a family in the middle of a great hell. Aryavalaikitesvara Bodhisattva Madasa you enter and liberate other beings. After inquiring of the deceased, he enters the city. She got up and smiled at him. ॥ Then Sarvavani Varana Viskambi Bhaga
-
 <!-- page 16 -->
 वन्तमत दवोचत ॥ भगवन्नवीचौ महानरकेवी चिर्न्नप्रज्ञायते । कथम्भगवन्नव लोकितेश्वरो वोधिसत्वो महासत्वः प्रविशति । यस्या प्राकारपर्प्प
 न्त मयामयी भूम्यां सम्प्रज्वलिता यामेकज्वाली भूतम्विस्ङुरन्तं करण्ड कवत्सन्दृश्यते ॥ तस्मिन्नेव महानरके आक्रन्दन्ती कुम्भीतिष्ठन्ति । तस्पान्ने
 व कुंभ्यावनेकानि सत्वकोटिनियुत शतसह म्राणिप्रक्षप्तानि ॥ यथा वहुदकायां स्थाल्यां सुभ्गावामाषावा । उर्द्बगछन्तः स्विद्यन्ते पच्पन्ते । अ
 धोगछन्तः सिद्यन्ते पच्पन्ते । एवन्ते सत्वादुवीचौ महानरकेकायिकं दुःखं प्रत्यनु भवन्ति । कथम्भगवन्नवीचौ महानरकदुव लोकितेश्व
 राे वोधिसत्वो महासत्वः प्रविशति ॥ ॥ भगवानाह ॥ यथा कुलपुत्र राजा चक्रवर्त्ती दिव्यमणिरत्न मयमुद्याने महताचक्रवर्त्ति राज्य
-
-वन्तमत दावोचट। हे प्रभु, त्यो ठूलो नर्क-गुफा धेरै समयदेखि बुझिएको छैन। नौ लोकका स्वामी, बोधिसत्व, महान सत्त्व, ब्रह्माण्डमा कसरी प्रवेश गर्नुहुन्छ? शहरका भित्ताहरू आगोले ढाकिएका थिए, र पृथ्वी मद्वारा प्रज्वलित भएको थियो। पानीको भाँडो जस्तै एउटै ज्वाला जलिरहेको देखिन्थ्यो। त्यो ठूलो नर्कमा कराइरहेका भाँडाहरू छन्। लाखौं मृत शरीरहरू देवताहरूको पानीको भाँडामा फ्याँकिएका थिए। जसरी धेरै पानी भएको भाँडो पानीको राम्रो स्रोत हो। तिनीहरू पसिना पकाउँदै छन् र खाना पकाइरहेका छन्। धोगाछन्तः सिद्यन्ते पचपन्ते। दिनको अन्त्यमा, सत्वका दुई शरीरहरू महानर्कको शारीरिक पीडाको अधीनमा छन्। हे प्रभु, यी दुई लोकहरू कसरी महानर्क जस्तै छन्?
-महान ऋषि वोधिसत्व राज्यमा प्रवेश गर्छन्। ॥ भगवानले भन्नुभयो: परिवारको छोराको रूपमा, राजा चक्रवर्ती, दिव्य रत्न, रत्न, मायाको बगैंचामा महान चक्रवर्तीको राज्य
-
-Vantamata Dawochat. O Lord, that great hell-cave has not been understood for a long time. How do you, the lord of the nine worlds, the Bodhisattva, the great being, enter the universe? The walls of the city were covered with fire, and the earth was set ablaze by me. A single flame seemed to be burning like a water pot. There are pots roaring in that great hell. Millions of dead bodies were thrown into the water pot of the gods. Just as a pot with a lot of water is a good source of water. They are sweating and cooking. Dhogachantah Siddyanthe Pachpante. At the end of the day, the two bodies of the Sattva are subject to the physical suffering of the Mahanarka. O Lord, how are these two worlds like the Mahanarka?
-The great sage Bodhisattva enters the kingdom. ॥ The Lord said: As the son of the family, the king Chakravarti, the divine jewel, the jewel, the kingdom of the great Chakravarti in the garden of Maya
 
 <!-- page 17 -->
 मृद्व्याप्रविशति । एवमेव कुलपुत्राव लोकितेश्वरो वोधिसत्वो महासत्व अवीचो महानरके प्रविशति ॥ नचतस्य कायेदुन्यथा भावन्तवति ॥ य
@@ -214,19 +147,12 @@ The great sage Bodhisattva enters the kingdom. ॥ The Lord said: As the son of 
 यो माटोमा प्रवेश गर्छ। हे राजवंशका पुत्र, महान् ऋषि वोधिसत्व, जो सबै लोकका स्वामी हुनुहुन्छ, महान् नर्कमा प्रवेश गर्नेछन्। नर्तकको शरीर फरक महसुस गर्छ। जसले दविचौको महान् नर्क नजिकै मुया नदी पार गर्छ। त्यसपछि असविचीको महान् नर्क शीत अवस्थामा जान्छ। ॥ त्यसपछि, मेरा प्रिय मानिसहरू, तिनीहरू अरूको ज्ञानको बारेमा उत्तेजित र चिन्तित हुन्छन्। समुद्रमा देखा परेको महान् नर्कमय आगोको कारण के हो? जब संसारका स्वामी, वोधिसत्व, महान् सत्व, ब्रह्माण्डमा प्रवेश गर्छन्। त्यस समयमा, कमलहरू गाडीको चक्रको आकारमा देखा परे। सच्चकुम्भी विघटन भयो। त्यो अग्निकुण्डको बीचमा एउटा अद्भुत ताल देखा पर्‍यो। अथातेयम् परपु
 भिण्डपालसँग रिसाएका यमराजका राजाले भाला, भाला, लाठी, चक्र, त्रिशूल र अन्य हतियारहरू लिएर उनीकहाँ पुगे। भगवानलाई के थाहा छ भने ⋮
 
-It enters the soil. O son of the dynasty, the great sage Bodhisattva, who is the lord of all the worlds, will enter the great hell. The dancer's body feels different. Who crosses the Muya River near the great hell of Davichow. Then the great hell of Asavichi goes into the cold state. ॥ Then, my dear people, they become agitated and anxious about the knowledge of others. What is the cause of the great hellish fire that has appeared in the ocean? When the lord of the worlds, Bodhisattva, the great being, enters the universe. At that time, lotuses appeared in the shape of a chariot wheel. The Sachkumbh dissolved. A wonderful lake appeared in the middle of that fire pit. Athatheyam Parapu The king of Yamaraja, angry with Bhindapala, approached him with spears, javelins, sticks, chakras, tridents and other weapons. God knows what ⋮
-
 <!-- page 18 -->
 चा स्माकं कर्म्म भूमिः परिक्षीणा ॥  ॥ यमाराजा तानुवाच ॥ किंकारणंयु ष्माकं कर्म्म भूमिः परिक्षीणा ॥  ॥ यमपार पुरुषाद्रचुः ॥ यत्खलु
 देवोजानीया प्रथमन्त स्मिन्नवीचौ महानरके दुश्डभनिमत्तऺ प्रादुर्भूतं । शीती भावमुयगतं कामरूपी पुरुषः प्रविष्टः । जटा मकुट धरोदिव्या
 लंकार भूषित शरीरो प्रसन्नमैत्र मानसः स्वर्ण्ण विम्वमिव दृश्यते सचता दृश पुरुष स्तत्र प्रविष्टः । यदास प्रविष्ट स्तदाश कटचक्र प्रमाणानि
 पद्मानि प्रादुर्भूतानि । साचकुम्भी विस्ङु टिता तत्रचाग्निख दायां मध्य पुष्करणी प्रादुर्भूता ॥  ॥ अथयमो राजा चिन्तामाये दे । कस्य देव
 स्पायऺ प्रभावः ॥ अथवा महेश्वरस्य महर्द्बिकस्य नारायणस्य पञ्चमहासमुद्र नमस्कृतस्य देवपुत्रवर प्रदाने नेह भुमिमनु प्राप्ताः ।
-
-अनि हाम्रो कर्म भनेको भूमि थकित छ। ॥ यमराजले उनीहरूलाई भने: तिमीहरूको कर्मको कारण के हो? पृथ्वी थकित छ। ॥ तिनीहरूले यमपर पुरुषको सृष्टि गरे। ठीक छ यस संसारमा दुःख भोग्नको लागि देवताहरू पहिलो पटक महानर्कमा देखा परे। इच्छाको रूपमा एक मानिस जादूको शीत अवस्थामा प्रवेश गर्यो। जटा मुकुट लगाउनु पर्छ जसको शरीर अलंकारले सजिएको छ र जसको मन खुशी र मैत्रीपूर्ण छ, त्यो सुनौलो प्रतिमा जस्तो देखिन्छ। जब उनी भित्र पसे, उनले चक्रको प्रमाण काटे
-कमल देखा परे। त्यसपछि साचकुम्भीको कुवा फुट्यो, र अग्निकुण्डको बीचमा एउटा ताल देखा पर्यो। ॥ अथायो राजा चिन्तामये दे। जसको देवता स्पेक्सको प्रभाव। वा हुनसक्छ तिनीहरू यस पृथ्वीमा आएनन् जब भगवान महेश्वर, महान ऋषि नारायण, जसले पाँच महासागरहरूको पूजा गर्थे, तिनीहरूलाई देवताहरूका सर्वोत्तम छोराहरू प्रदान गरे।
-
-And our karma is that the earth is tired. ॥ Yamaraj said to them: What is the reason for your karma? The earth is tired. ॥ They created the Yamapara Purusha. Well, the gods first appeared in Mahanarka to suffer in this world. As a wish, a man entered the cold state of magic. He should wear a crown of hair whose body is adorned with ornaments and whose mind is happy and friendly, he looks like a golden statue. When he entered, he cut the evidence of the chakra Lotus appeared. Then the well of Sachakumbhi burst, and a lake appeared in the middle of the fire pit. ॥ Athayo Raja Chintamaye De. whose god Specks influence. Or perhaps they did not come to this earth when Lord Maheshwara, the great sage Narayana, who worshipped the five oceans, bestowed upon them the best sons of the gods.
 
 <!-- page 19 -->
 अथवा राक्षस उत्पन्नो रावणो महावल पराक्रम एवऺ समुत्पन्नो वैरावण प्रतिस्पर्द्विकः । सचदिव्ये नचक्षुषाव्पव लोक्यतच्च देव निकायन्न
@@ -235,22 +161,12 @@ And our karma is that the earth is tired. ॥ Yamaraj said to them: What is the 
 त्रवि शेषंकर्त्तुमारब्वः ॥ ॥ नमस्त्वंव लोकितेश्वराय महेश्वराय पद्मश्रियेवरदाय वशभ्कराय पृथिवीवर लोचनकरा । जगदाश्वा
 सनकराय । शतसहम्र भुजाय कोटिशत सहम्रनेत्राय । एकादश शीर्षाय वत्रवामुख पर्य्यन्ताय धर्म्म प्रियाय सर्व्वसत्व परिमोक्षण कराय
 
-अथवा हुनसक्छ रावण, जो एक राक्षसबाट जन्मिएको थियो, शक्तिशाली र पराक्रमीबाट जन्मिएको थियो, र जो वैरावणबाट जन्मिएको थियो, जो उसको प्रतिद्वन्द्वी थियो। हे प्रभु, जसको शरीर स्वर्गीय ग्रहहरूमा परम पुरुषत्व भगवानको आँखाले देख्न सकिँदैन थियो? त्यसपछि, महान् नर्कको बीचमा, उनले परम पुरुषत्व भगवानलाई देखे, जो सबै लोकका स्वामी हुनुहुन्छ। त्यसपछि, धार्मिक सिद्धान्तहरूका राजा, जो सबै सन्त व्यक्तिहरूमध्ये सबैभन्दा महान हुनुहुन्छ, शायम भगवानको परम पुरुषत्वको नजिक पुगे, जो सबै भौतिक गतिविधिहरूमा धेरै शक्तिशाली थिए। ॥ ॥ म तपाईंलाई मेरो सम्मानपूर्वक प्रणाम गर्दछु, सबै लोकका स्वामी, सर्वोच्च भगवान, जसले कमलको फूलको सौन्दर्य प्रदान गर्नुहुन्छ र जसका आँखा पृथ्वीका जस्तै छन्। जगदस्व
-शंकराई। हे लाखौं हातहरू, लाखौं लाखौं आँखाहरू। एघार शिर भएका वात्रवमुखलाई, धार्मिकताको प्रेमीलाई, सबै प्राणीहरूको मुक्तिदातालाई।
-
-Or perhaps Ravana, who was born of a demon, was born of the powerful and mighty, and who was born of Vairavan, who was his rival. O Lord, whose body could not be seen by the eyes of the Supreme Personality of Godhead in the heavenly planets? Then, in the midst of the great hell, he saw the Supreme Personality of Godhead, who is the Lord of all the worlds. Then, the king of religious principles, who is the greatest of all saintly persons, approached the supreme manhood of Lord Śayama, who was very powerful in all material activities. ॥ ॥ I offer my respectful obeisances to you, the lord of all the worlds, the Supreme Lord, who bestows the beauty of a lotus flower and whose eyes are like those of the earth. Jagadāsva Śankara. O millions of hands, millions of millions of eyes. To the eleven-headed Vatravamukh, the lover of righteousness, the savior of all beings.
-
 <!-- page 20 -->
 कूर्म्म मकर मत्स्या श्वासन कराय ज्ञान श्युत्तम कराय प्रियन्द दायरत्न श्रिये द्रत्त माय अवीचि संशोषन कराय ज्ञानलक्ष्मी समलं कृताय ज्ञान
 श्रियेसर्व्व देव पूजित नमस्कृताय वन्दिताय अभयन्ददाय षद्यारमिता निर्द्देशन कराय सुर्य्य वर रोचन कराय धर्म्मद्वीपं कराय कामरूपा
 य सुरुपाय गन्धर्व्व रूपाय काञ्चन पर्व्वत समारूटाय सागर कुक्षि गम्भीर धर्म्माय परमार्थ योगमनु प्राप्ताय संमुख संदर्शन कराय । अनेक
 समाधिशत सहम्राकीर्ण्णाय अभिरति कराय विछुरित गात्रायझषिपुऺगव कराय हत्रिनिगत्र वन्धन भय त्रस्त मार्ग्न परिमाक्षण करा
 य सर्व्वसत्वाभाव सऺयुक्ता यवहु परिवार सम्वर्त्त नीयाय उपचित कराय चिन्तामणि रत्नाय निर्व्वाण मार्ग्नो पदर्शन कराय प्रेतनग
-
-कछुवा मकर माछा श्वासप्रश्वास ज्ञान शुत्तमा प्रियन्द दयारत्न श्रिये द्रत्ता माया अविची सन्शोषन काराया ज्ञानलक्ष्मी समल कृताया ज्ञान श्रीयेसर्व देवपूजिता नमस्कृताय वन्दिताय अभयन्ददाय षड्यर्मिता निर्देषना काराया सूर्य वरमद रोचन काराया द रोचन काराया सूर्यरूप कराया रुपया कञ्चन पार्वता हे समरुता, सागरको पेटमा, धर्ममा गहिरो, हे परम लक्ष्य, हे योग, हे भगवान, तपाईंले हामीलाई आमनेसामने देखाउनुभएको छ। धेरै
-समाधिशत सहम्रकिर्णनया अभिरति कराया विचुरित गात्रयजशिपुपकगव कराया हत्रिनिगात्र बन्धनया भय त्रस्त मार्ग परिमाक्षण कराया तिनीहरू नै हुन् जसले परिवारलाई समर्थन गर्न र विचारको रत्न र निर्वाणको मार्ग देखाउन सक्षम छन्
-
-Turtle Capricorn Fish Breathing Knowledge Shuttama Priyanda Dayaratna Shriye Dratta Maya Avichi Sanshoshan Karaya Jnanalakshmi Samal Kritaya Knowledge Shriyesarva Devapoojita Namaskritaya Vanditaya Abhayandadaya Shadyarmita Nirdeshana Karaya Surya Varamad Rochan Karaya The Rochan Karaya Suryarupa Karaya Deep, O ultimate goal, O Yoga, O God, You have shown us face to face. Many are those who are able to support the family and show the jewel of thought and the path to Nirvana.
 
 <!-- page 21 -->
 रस मुछोषन कराय छत्र भूतजगत्कराय व्याधि परिमोचन कराय नन्दो पनन्द नागराज कृतयज्ञो पवीताय अमोघपाश सन्दर्शन कराय अ
@@ -261,8 +177,6 @@ Turtle Capricorn Fish Breathing Knowledge Shuttama Priyanda Dayaratna Shriye Dra
 
 रस मुचोषण कराय छत्र भूजगतकाराय व्याधि परिमोचन कराय नन्दो पानन्द नागराज कृतयज्ञो पवित्रया अमोघपाशा संदर्शन काराया ए नेका मन्त्र शतकिर्णाय वज्रपाणि विद्रपण कारयात्री लोकभयंकराया यक्ष राक्षस भूटा वेताद डाकिनी संकर याम्बर लो सुप्रीम यक्षर लो। परमात्माको व्यक्तित्व, तिमी सबै प्रकारको ज्ञानको मालिक हौ। तिमी नै सबै प्रकारको भौतिक मुक्तिको स्रोत हौ। तिमी नै सबै प्रकारको भौतिक मुक्तिको स्रोत हौ। तिमी नै मुक्तिको स्रोत हौ। र यम धर्म हो हे धार्मिक सिद्धान्तहरूका राजा, सबैभन्दा विशेष भजनहरू जप गरेर यज्ञ गरेपछि, धार्मिक सिद्धान्तहरूका राजा, पियामाले तीन पटक शहर परिक्रमा गरे र धेरै उज्ज्वल भए। ॥ त्यसपछि सर्ववाणी वरण विह्वा
 
-Rasa muchoshan karay chhatra bhujagatkaray vyadhi parimochan karay Nando Pananda Nagraj Kritayagya pavitraya amoghapasha sandarshan karay e neka mantra shatkirnaya vajrapani vidrapan karayatri lokabhayankaraya yaksha rakshasa bhuta vetad dakini sankar yamber lo supreme yakshar lo. Paramatmako personality, you are the master of all kinds of knowledge. You are the source of all kinds of material liberation. You are the source of all kinds of material liberation. And Yama is Dharma, O king of religious principles. Having performed the most special hymns and performed the yajna, the king of religious principles, Piyama, circumambulated the city three times and became very radiant. ॥ Then Sarvavani Varana Vihva
-
 <!-- page 22 -->
 म्भी भगवन्त मेत दवो चत् ॥ कदा भगवन्ना गछेत् । अवलोकितेश्वरो वोधिसत्वो महासत्वः ॥ ॥ भगवानाह ॥ एष कुलपुत्रावीची महानरका
 न्निष्क्रम्य प्रेतनगर प्रविष्टस्तत्राने कानिप्रेतशत सहम्राणि पुरस्ता द्बावन्ति ॥ दन्धस्थुना कृतयोरुस्थियन्त्र दुछ्रिताः । स्वकेशरोम प्रति छ
@@ -272,18 +186,12 @@ Rasa muchoshan karay chhatra bhujagatkaray vyadhi parimochan karay Nando Pananda
 
 भगवान्‌ले 'दाभो' (Davo) सँग भेट गर्नुभयो। प्रभु कहिले जानुहुनेछ? ब्रह्माण्डका स्वामीलाई देखियो र उहाँ अत्यन्त शक्तिशाली हुनुहुन्थ्यो। प्रभुले भन्नुभयो: "वीची (Vīcī) का पुत्र, एक वंशका सन्तान, महा-नरकबाट निस्केर मृतहरूको सहरमा प्रवेश गरेका छन्। दाँत कोट्याउने सिन्काले तिघ्राका हड्डीहरू नराम्ररी काटिएका थिए। तिनीहरू आफ्नै कपालले ढाकिएको पहाडी गुफा र सियोको प्वालजस्तै मूर्ख छन्।" जब बोधिसत्वहरूका स्वामी, ती शक्तिशाली सत्त्वलाई देखियो, तब 'मुप सक्रमती' (Mup Sakramati) नामक भ्रमपूर्ण सहर प्रकट भयो। त्यसपछि मृतहरूको सहर चिसो हुन्छ। सत्य द्वारको पारीपट्टि रहेको त्यो पुरुष—पुलको रक्षक तथा समयको शिखरको पकडमा परेको राता आँखा भएको प्राणी—उठ्यो। त्यसपछि, उनीसँगको निकटताको भावसँगै उसको मन मैत्रीपूर्ण बन्छ। 'नाचामैत्ता शेनाकर्मभूमि' (Nachameitta Shenakarmabhumi) यस अनुष्ठानको स्रोत हो। त्यसपछि, बोधिसत्वमा रहेका ती महान् सत्त्व (महापुरुष) द्वारा प्रभुको अवलोकन गरियो।
 
-The Lord met with 'Davo'. When would the Lord depart? The Master of the Universe was beheld, and He was immensely powerful. The Lord said: "The son of Vīcī—a scion of the lineage—has emerged from the great hell and entered the city of the dead. Their thighbones were severely lacerated by toothpicks. They are like the foolish—dwelling in mountain caves shrouded in their own hair and resembling the eye of a needle." When that powerful being—the Lord of Bodhisattvas—was beheld, an illusory city named 'Mup Sakramati' appeared. Then, the City of the Dead grows cold. The figure standing beyond the Gate of Truth—the guardian of the bridge and a red-eyed being held in the grip of the pinnacle of time—rose. Subsequently, a sense of closeness to him fosters a feeling of friendship in the mind. 'Nachameitta Shenakarmabhumi' is the source of this ritual. Then, the Lord was beheld by that Great Being (Mahapurusha)—the Bodhisattva.
-
 <!-- page 23 -->
 सत्व निकायं दृष्ट्वा महाकरुणा चित्त मुत्याद्य । दशभ्या हस्तां भ्डली भ्यादश वैतरणी र्निक्रामयति । दशभ्यः पादां भ्डली भ्यादश वैतरणी र्निष्क्राम
 यति ॥ अतिकरुणा भिभूत चेतसाव लोकितेश्वरस्य वोधिसत्वस्य महासत्वस्य तेषां सत्वानामन्तिके सर्व्वरोमकूपे भ्या ष्टा भ्गवारिय
 रिपूर्ण्णा महानद्या निष्क्रामन्ति ॥ यदा चतेप्रत सत्वास्तदु दकामास्वादयन्ति । तदाते विपुरकण्ठा भवन्ति ॥ परिपुर्ण्ण गात्राश्च भवन्ति ।
 सर्व्वचतेदिव्य रसरसा श्रोयेतेनाहारेण सन्तर्प्पिताश्च भवन्ति । तदा मानुषि कीञ्चेत नामुत्योद्यै वंसंसारि काञ्चिन्ता विचिन्तयन्ति । अ
 होवतते जम्वूद्वीप कामनुष्याः सुखिताः । येशीतलाञ्छ । याम्परि सेवन्ति । सर्व्वे सुख समर्प्पिताः धनान्विताः सुखितास्ते जाम्वूद्वीप
-
-सत्त्वको शरीरलाई देख्दा मनमा अपार करुणा जाग्छ। दस हातहरूद्वारा 'भदली' र दस 'वैतरणी' हटाइन्छन्। भदलीका दस खुट्टाहंबाट दस वैतरणीहरू निस्कन्छन्। परमेश्वर, जो अत्यन्त दयालु हुनुहुन्छ, उहाँको बुद्धिले उहाँलाई नै भयभीत तुल्याउँछ। शत्रुहरूले भरिएका विशाल नदीहरू समस्त जीवहरूको स्रोतबाट प्रवाहित हुन्छन्। जब ती चार प्राणीहरू उपस्थित हुन्छन्, तिनीहरूले त्यसको चाहनाको स्वाद लिन्छन्। त्यसपछि विरोधीहरूको घाँटीको रचना हुन्छ। तिनीहरूको शरीर पनि पूर्ण हुन्छ। उनीहरू यी सबै शब्दहरूको दिव्य स्वाद महसुस गर्छन् र यस आहारबाट सन्तुष्ट हुन्छन्। त्यस समयमा, यस संसारका मानिसहरू मानिसको सम्बन्धमा के गर्ने भन्ने जान्न उत्सुक हुन्छन्। जम्बुद्वीप ती मानिसहरूलाई सुम्पिइन्छ जसको मनमा सांसारिक इच्छा छ, र उनीहरू खुसी हुन्छन्। उनीहरू सुख र ऐश्वर्यमा समर्पित रहन्छन् र जम्बुद्वीपमा आनन्दित हुन्छन्।
-
-Beholding the bodies of sentient beings awakens immense compassion in the mind. The ten 'Bhadali' and the ten 'Vaitarani' rivers are dispelled by ten hands. Ten Vaitarani rivers emerge from the ten legs of the Bhadali. The Supreme Lord, who is supremely compassionate, is struck with dread by His own wisdom. Vast rivers, teeming with adversaries, flow from the very source of all living beings. When those four entities appear, they savor the taste of desire. Subsequently, the throats of the adversaries are formed. Their bodies, too, become complete. They experience the divine taste of all these words and find satisfaction in this nourishment. At that time, the people of this world are eager to know how to conduct human relationships. Jambudvipa is entrusted to those who harbor worldly desires, and they rejoice; immersed in happiness and opulence, they live joyfully in Jambudvipa.
 
 <!-- page 24 -->
 कामनुष्याये मातापित्रोः सतत समितं परित्रहमुय स्थान भ्कुर्व्वन्ति ॥ सुखंच कायकाण्डऺ पश्यन्ति । सुखितास्ते सत्पुरुषाये कल्याण मित्रं सतत
@@ -292,22 +200,12 @@ Beholding the bodies of sentient beings awakens immense compassion in the mind. 
 न्ति । ते सत्पुरुषाये पूर्व्विकाणि स्तूप विम्वानि चटितस्ङुटि तानिविशीर्ण्भु भुतानि प्रतिसस्कारं कुर्व्वन्ति ॥ ते सत्पुरुषा ये धर्म्मभान काल्लख
 कान्धार कान्वाच कान्सुत्रराजस्य श्रावकान्सतत समितंपरि सेवन्ति येचोपतिष्ठन्ति। ते सत्पुरुषा ये तथागत प्रातिहार्य्याणि विविधानि
 
-जब कुनै व्यक्ति आफ्ना इच्छाहरू पूरा गरिरहेको हुन्छ, तब उसका माता-पिता सधैं उसको रक्षा गर्ने स्थितिमा हुन्छन्। उनीहरूले शरीरमै सुख देख्छन्। जो सुखी छन्, उनीहरू सधैं भगवान्‌को सान्निध्यमा असल मित्रको खोजी गर्छन् र 'मुक्ति' (सायुज्य मुक्ति) को खतराबाट पार पाउन सक्षम हुन्छन्। भगवान्‌का ती भक्तहरू निरन्तर चेतनाको रूपमा भगवान्‌मा लीन रहन्छन्। व्रत बसेर ती आठवटा गाईहरू भगवान्‌लाई अर्पण गरिन्छन्। धार्मिक सिद्धान्तहरूको गाँठो नफुटाउने व्यक्तिहरू नै पुण्यात्मा हुन्। भगवान्‌का भक्तहरूले यी मालाहरू धारण गर्छन्। उनीहरूले स्थापना गर्छन्। परमेश्वरको निमित्त पहिले स्तूप र मूर्तिहरू निर्माण गर्ने देवगणले तिनलाई टुक्रा-टुक्रा पारी विभिन्न धार्मिक अनुष्ठानहरू सम्पन्न गर्थे। उनीहरू नै धर्म जान्ने धर्मात्माहरू हुन्। कल्ख, कन्धार, कण्वच र कन्सूत्रराजका अनुयायीहरू सधैं समिति र त्यहाँ उपस्थित हुनेहरूको सेवा गर्दछन्। हे तथागत! ती 'सत्त्व-पुरुष'हरू नै ती विभिन्न कुराहरू हुन् जसलाई जित्नु वा पार गर्नु आवश्यक छ।
-
-When a person is fulfilling their desires, their parents are always in a position to protect them; they perceive happiness solely in the physical realm. Those who are truly happy constantly seek a virtuous friend in the company of the Lord and are capable of overcoming the peril of 'liberation' (specifically, *Sayujya Mukti*—merging into the Divine). Such devotees of the Lord remain perpetually absorbed in Him through their consciousness. Through the observance of a vow, those eight cows are offered to the Lord. Those who do not unravel the knots of religious principles are the truly virtuous souls. Devotees of the Lord wear these rosaries and consecrate them. The very deities who originally constructed stupas and images for the Supreme Lord would dismantle them to perform various religious rituals; they are the righteous ones who truly understand the Dharma. The followers of Kalkha, Kandhara, Kanvacha, and Kansutraraja constantly serve the assembly and those present there. O Tathagata! Those 'virtuous beings' are precisely the elements that must be conquered or transcended.
-
 <!-- page 25 -->
 च तथागत चंक्रमानि धर्म्मा सनानिच पश्यन्ति ॥ ते सत्पुरुषाये प्रभ्य कवुद्ब चक्रमाणि पश्यन्ति ॥ ते सत्पुरुषा येःर्हत्व चंक्रमाणि पश्यन्ति ॥ ते
 सत्पुरुषा ये वोधिसत्व विकुर्व्विता निच चंक्रमाणि पश्यन्ति ॥ इत्यवंते प्रतविषयाः शरीर मनु विचिन्स्य स्वकामात्म भावोय पत्ति परित्यज
 न्ति । तदातस्य सका शत्कॎारण्डव्यूह महायानसूत्र रत्नराजशव्दो निश्चरति ॥ तदातेविं शतिशिखर समुड्गतं सत्कायट्टष्टि शैलंज्ञा
 न वज्रेण भित्वा सर्व्वते सुखावत्यां लोकधाता वुपपन्ना आकांक्षित मुखानाम वोधिसत्वा उपपन्नाः ॥  ॥अथाव लोकितेश्वरोय दातेस
 त्व धातवः परिमोक्षिताः । सुपरिमुक्ताश्चतां सर्व्व सत्वान्वाेधिसत्व भूमावुपपन्नान्ट्टष्टा तदाततः प्रेतनगरात् पुनरपिनिष्क्रामति ॥
-
-उनीहरू तथागतका चक्र र धार्मिक सिद्धान्तहरू पनि देख्छन्। उनीहरू परमेश्वर (भगवान्) बाट आएका 'कवुद्बा' (Kavudba) का चक्रहरू देख्छन्। ती शुद्ध भक्तहरू नै हुन् जसले (अहंकार वा आसक्तिलाई) नष्ट गरेपछि ब्रह्माण्डका चक्रहरू देख्छन्। भौतिक प्रकृतिका गुणहरूभन्दा पर रहेका ती शुद्ध भक्तहरूले नै ब्रह्माण्डका चक्रहरू देख्छन्। यसको अन्त्यमा, वर्तमानका जीवहरूले शरीरको खोजी गर्छन् र आफ्ना इच्छा तथा अहम्‌को मार्ग त्याग्छन्। त्यस समयदेखि, महायान वेदबाट 'रत्नराज' नामक वैदिक मन्त्र प्रवाहित भयो। त्यसपछि 'पर्वत-ज्ञान' ले सयौं चुचुराहरूको सागरसम्म पुगेको त्यो पुण्यात्मा स्वरूपलाई हेर्छ। ब्रह्माण्डका रचयिताहरू 'सुखावती' को वज्रदेखि डराएनन्, बरु उनीहरू भक्तजनहरूको अभीष्ट स्वरूपसम्म पुग्न सफल भए।
-तिमीहरू मुक्त भइसकेका तत्वहरू हौ। पूर्ण रूपमा मुक्त भइसकेपछि, जीव मृतहरूको नगरमा फर्किन्छ र पुनः जीवहरूको वासस्थानमा फर्कन्छ।
-
-They also perceive the *Chakras* (cosmic wheels) and religious principles of the *Tathagata*. They behold the *Chakras* of 'Kavudba,' which originate from the Supreme Lord. It is these pure devotees who, having eradicated ego and attachment, witness the cosmic cycles of the universe. Transcending the modes of material nature, these pure devotees perceive the cosmic *Chakras*. Ultimately, living beings seek a body and renounce the path of their desires and ego. From that moment, the Vedic mantra known as 'Ratnaraja' emanated from the Mahayana Vedas. Then, 'Mountain-Wisdom' beholds that sublime, virtuous form which has reached the vast ocean of hundreds of peaks. The creators of the universe did not fear the *Vajra* of 'Sukhavati'; instead, they succeeded in attaining the very form that is the heart's desire of the devotees.
-You are beings who have already attained liberation. Having become fully liberated, the soul returns from the city of the dead and comes back to the realm of the living.
 
 <!-- page 26 -->
 अथ सर्व्वणी वरण विष्कम्भी भगवन्त मेत दवोचत् ॥ भगवन्न द्यापि नाग छत्यवलोकितेश्वरो वोधिसत्वो महासत्वः ॥  ॥ भगवानाह ॥ अ
@@ -320,21 +218,12 @@ You are beings who have already attained liberation. Having become fully liberat
 भगवानले भन्नुभयो: विगतमा, सम्पूर्ण पुत्र परिवारभन्दा अगाडि, संख्यामा धन्य, तथागत नामक कल्याविपश्यी, जो बुडबो संसारको योग्य थिए, ज्ञानको अभ्यासले आशीर्वाद पाएका थिए, जस्तै संसारको उदय।
 हे सुगत, संसारका परम ज्ञाता, मानिसहरूलाई वशमा राख्ने, सारथी, देवताहरू र मानिसहरूका शासक, बुद्ध, सर्वोच्च भगवान, त्यस समयमा, त्यस समयमा, म सबै कुरामा छु।
 
-Then, Vishkambhi, the deity of good fortune, spoke to me thus: "O Lord, you have not yet beheld the canopy of serpents, nor have you seen the supremely majestic Lord Bodhisattva." The Lord replied: "A noble son may subdue countless millions of beings and hundreds of thousands of adversaries—subduing them day after day. Yet, O noble son, there is nothing comparable to the power of that great sage, the Bodhisattva, whom I have seen in the past." Then Vishkambhi, who pervades all the forests, asked: "Why, O Lord?" The Lord said: In the past—long before the time of the sons of the family—there lived a Tathagata named Vipashyin, who was worthy of the world's reverence and blessed with the practice of wisdom, like the rising of the world itself.
-O Sugata, Supreme Knower of the World, Tamer of Men, Charioteer, Ruler of Gods and Humans, Buddha, Supreme Lord—at that time, I was present in all respects.
-
 <!-- page 27 -->
 रण विष्कम्भिन् सुगन्ध मुखोनाम वणिक् पुत्रो ऽ भूवन् तङामेश्रूतं विपश्वि नस्तथागतस्य सकोशात् ॥ अथावलोकितेश्वर स्यगुणो ड्भावनाश्रू
 त्यपरिमाणा ॥  ॥ अथ सर्व्वणिवरण विष्कम्भी भगवन्त मेत दवोचत् ॥ कीदृशीत्वया भगवन्‌ग्डणो ड्भावणा ऽ व लोकितेश्वरस्य वोधिसत्वस्य म
 हासत्वस्य श्रूता ॥  ॥ भगवानाह ॥ सर्व्व तथागत एवमाह ॥ अवलोकितेश्वरस्य चक्षुषोश्चन्द्रादित्यावुत्यन्नौ ललाटान्महेश्वरः । स्कन्धेत्यो
 व्रह्मा हृदयान्नारायणो द्रष्ट्राभ्यां सरस्वती मुखतो वायवोजाता धरणीयादा भ्यांवरुण श्चोदरात् । यदै तेदेवाजाता अवलोकितेश्वरस्य का
 यात् ॥ महेश्वर आहकिमे भगवन् व्याकरोभु वोधायां । अथार्य्यावलोकितेश्वरो वोधिसत्वो महासत्वो महेश्वरं देवपुत्र मेतदवोचत् । भवि
-
-टङ्गा नगरमा विष्कम्भीका छोरा, सुगन्धमुख नामका एक व्यापारीको जन्म भयो। त्यसपछि, जब मैले प्रभुलाई देखें, तब उहाँ नै समस्त ज्ञानको स्रोत हुनुहुन्छ भन्ने मैले अनुभव गरें। तत्पश्चात्, सम्पूर्ण पृथ्वीलाई व्याप्त गर्ने विष्कम्भीले मलाई यसरी सम्बोधन गरे: "हे प्रिय प्रभु, भगवान्‌को बुद्धिमत्तापूर्ण स्वरूपका विषयमा तपाईंले मबाट कस्ता विचारहरू सुन्नुभएको छ?" प्रभुले भन्नुभयो: "समस्त तथागतहरूले यही कुरा भनेका थिए।" भगवान्‌को ललाटस्थित नेत्रहरूबाट चन्द्रमा र सूर्यको प्रादुर्भाव भयो। स्कन्धहरू यस प्रकार छन्: ब्रह्मा हृदय हुनुहुन्छ, नारायण द्रष्टा हुनुहुन्छ, सरस्वती मुख हुनुहुन्छ, वायु पृथ्वी हुनुहुन्छ र वरुण पेट हुनुहुन्छ। उहाँहरूको उत्पत्ति हुँदा प्रभुले के अवलोकन गर्नुभयो?
-भगवान् महेश्वरले भन्नुभयो, "हे प्रभु, बोधका वचनमा तपाईंले के भन्नुभयो?" त्यसपछि, ती महान् नारीलाई देखेर अत्यन्त शक्तिशाली बोधिसत्त्वले देवताहरूका पुत्र भगवान् महेश्वरलाई यसरी सम्बोधन गर्नुभयो।
-
-In the city of Tanga, a merchant named Sugandhamukha—the son of Vishkambhi—was born. Subsequently, upon seeing the Lord, I realized that He was the source of all knowledge. Thereafter, Vishkambhi—who pervaded the entire earth—addressed me thus: "O beloved Lord, what thoughts have you heard from me regarding the wise nature of the Divine?" The Lord replied: "All the Tathagatas have said the very same thing." The moon and the sun emerged from the eyes situated on the Lord's forehead. The aspects are as follows: Brahma is the heart, Narayana is the seer, Saraswati is the mouth, Vayu is the earth, and Varuna is the stomach. What did the Lord observe at the time of their emergence?
-Lord Maheshwara said, "O Lord, what have You spoken in words of wisdom?" Then, beholding that great woman, the immensely powerful Bodhisattva addressed Lord Maheshwara—the son of the gods—in this manner.
 
 <!-- page 28 -->
 ष्य सित्वम्महेश्वर कलियुगे प्रतिपन्नेकष्टे सत्वधातु समुत्पन्न आदि देव आख्या यसे श्रेष्टाचकर्त्ताचत्वऺ सर्व्वसत्वा वोधिमार्श्नेण विप्रहीणा भविष्यन्ति ।
@@ -349,29 +238,12 @@ Lord Maheshwara said, "O Lord, what have You spoken in words of wisdom?" Then, b
 सौभाग्यले सम्पन्न नभएका, संसारका ज्ञाता, मानिसहरूका सारथीको उत्तरदाता, देवता र मानिसहरूका शासक, भगवान, त्यस समयमा, यस समयमा, म सबै भन्दा राम्रो हुँ
 १९ औं शताब्दीमा विष्कम्भिन्दना नामक एक धेरै शक्तिशाली छोरा देखा परे, जो धेरै शक्तिशाली थिए। त्यो मयूर तथागतको उपस्थितिमा, महान सत्त्व, वोधिसत्व, संसारका स्वामी, गदगद
 
-In the Kali Yuga, when the age falls into crisis, the Primordial Deity—known as the source of *Sattva-guna* (the quality of goodness)—will be deprived of the company of all living beings through the influence of the Vedas.
-It is they who discuss such matters. The sky is the symbol of the moon, and the earth is the moon's seat; the abode of all living beings is not referred to as 'Naliya' or 'Nalliya'.
-There, in the presence of Vipashvini-Kumar—the great Lord of the universe—I heard about his *Bhakti-yoga* (devotional service). Then there was a Tathagata named Krampasikhi, a learned man—endowed with fortune, a knower of the world, a guide to humanity, a ruler of gods and men, and a Lord—who declared, "At this time, I am the supreme one."
-In that era, a mighty son named Vishkambhindana appeared, possessing great power. In the presence of that Tathagata—a great being, a Bodhisattva, and a master of the world—he was filled with profound emotion.
-
 <!-- page 29 -->
 णो भावणा मयाश्रूता ॥  ॥ अथ सर्व्वणिवरण विष्कम्भी भगवन्तमेत दवोचत् ॥ कीदृशऺ भगवंत्वयात्डणो भावनावलोकितेश्वरस्य श्रूता ॥  ॥
 भगवानाह ॥ यदा सर्व्व देवा नागायक्षा गन्धर्व्वाराक्षसा असुरामरुता गरुडा किन्नरा महाेरगा मनुष्या मनुष्यः सन्निपतिता अभुवन् ॥ यदा भ
 गवान्महासन्नि पातं दृष्ट्वातेषां पर्षदान्मध्ये धर्म्मसाकथ्यऺ कर्त्भुमारट्बः ॥ तदा भगवतो मुखद्वारान्ना नावर्ण्णारश्म यानिश्चरन्तिस्म ॥ तद्यथा ॥ नील
 पीत लोहिता वदातमा ञ्जिष्ठस्ङटिक रजत सुवर्ण्ण वर्ण्णा नाना विधरश्मयो निश्चरन्तिस्म निश्चरित्वा दशदिश्वि दिक्षु सर्व्वान्लाेक धा भूनवभाष्य पुन
 रवागत्यतं शिखिनं भगवन्तन्त्रिः प्रदक्षिणी कृत्य भगवतो मुखद्वारे प्रविष्टाः ॥ ॥ अथ तस्मिन्ने वयर्षदि रत्न पाणिर्न्नाम वोधिसत्वो महासत्व
-
-मैले 'होइन' भन्ने भाव सुनेको छु। त्यसपछि, सम्पूर्ण पृथ्वीलाई ढाक्ने स्वरूप भएका विष्कम्भीले भगवान्लाई यसरी सम्बोधन गरे: "हे मेरा प्रभु! भावपूर्ण दृष्टिले मलाई हेर्नुहुने तपाईँले मबाट कस्ता शब्दहरू सुन्नुभयो?"
-भगवान्ले भन्नुभयो: जब समस्त देवता, नाग, यक्ष, गन्धर्व, राक्षस, असुर, मरुत, गरुड, किन्नर, महोरग र मानवहरू उपस्थित थिए...
-गाईहरू विशाल वनमा पसेको देखेर उहाँले आफ्ना सहचरहरूसँग धर्मका सिद्धान्तहरूबारे कुरा गर्नुभयो। त्यस समयमा, भगवान्को मुखको द्वारबाट विभिन्न प्रकारका खाद्य पदार्थ र रङका किरणहरू बाहिर निस्कन वा विचरण गर्न सकेनन्। उदाहरणका लागि...निलो
-पहेँलो, रातो, नीलो, चाँदीजस्तो, सुनौलो र सूर्यका विभिन्न किरणहरू चम्किरहेका थिए; ती किरणहरू दशैं दिशामा फैलिरहेका थिए।
-सूर्य उदाउँदा उनीहरूले मयूरको परिक्रमा गरे र भगवान्‌को मुखरूपी ढोकामा प्रवेश गरे। त्यसपछि, त्यो युगमा रत्नपाणि नामका एक महान् सन्तको प्रादुर्भाव भयो।
-
-I sensed a sentiment of refusal. Then, Vishkambhi—whose form encompassed the entire earth—addressed the Lord thus: "O my Lord! What words did You hear from me, as You gazed upon me with such an expressive look?"
-The Lord said: When all the Devas, Nagas, Yakshas, ​​Gandharvas, Rakshasas, Asuras, Maruts, Garudas, Kinnaras, Mahoragas, and humans were present...
-Seeing the cows enter the vast forest, He spoke to His companions about the principles of Dharma. At that time, various types of food substances and rays of different colors emerged from the gateway of the Lord's mouth and moved about. For instance...
-Yellow, red, blue, silvery, golden, and various solar rays were shining; these rays were spreading in all ten directions.
-As the sun rose, they circled the peacock and entered the gateway of the Lord's mouth. Subsequently, a great sage named Ratnapani appeared in that era.
 
 <!-- page 30 -->
 उत्थाया सनादेकां शमुत्तरा सभ्तभ्कृत्वा दक्षिण जञ्जानु मण्डलम्प्टथिव्यां प्रतिष्ठाप्य येन भगवान्स्ते नाञ्जलिः प्रणम्य भगवन्त मेतदवोचत् ॥ कि
@@ -382,20 +254,12 @@ As the sun rose, they circled the peacock and entered the gateway of the Lord's 
 त्यसपछि भगवान् आफ्नो आसनबाट उठ्नुभयो, ती देवताहरूमध्ये एकलाई शरीरको उत्तरी भागमा र आफ्नो दाहिनेतर्फको घेरालाई भुइँमा राख्नुभयो। उहाँले हात जोडेर भगवान्लाई प्रणाम गर्नुभयो र यसरी बोल्नुभयो: "हे प्रभु, यी दस अवतारहरूको कारण के हो?" भगवान्ले भन्नुभयो: "जसलाई यस कुलका पुत्रले देखेका छन्, ती प्रभु संसारमा सुखको स्रोत बन्नुहुनेछ। उहाँकहाँ जानुहोस्; मैले तपाईंलाई यसको कारण देखाइसकेको छु।" त्यसपछि बोधिसत्त्वले भन्नुभयो: "हे सर्वशक्तिमान् प्रभु, मलाई कस्तो कार्य गर्नका लागि निर्देशन दिनुभएको छ?" प्रभुले भन्नुभयो: जब परिवारले छोरालाई हेर्यो...
 तिनका प्रभु, महान् सत्त्व, बोधिसत्त्वकहाँ आउनुहुन्छ। त्यसबेला विभिन्न कल्पवृक्षहरू फैलिन्छन्। आँपका रूखहरू फैलिन्छन् र भाँडाका रूखहरू (पात्र-वृक्ष) निरन्तर उम्रिन्छन्। चम्पाका रूखहरू झुकेका छन्। पाटल र अशोकका रूखहरूले विभिन्न प्रकारका लाखौं फूलहरू फुलाउँछन्। पोखरीहरू फूलैफूलले भरिपूर्ण देखिन्छन्। त्यहाँ सयौं रत्नमय रूखहरू छन्।
 
-Then the Lord rose from His seat and placed one of those deities—positioned at the northern side of His body and within the circle to His right—upon the ground. With folded hands, the deity offered obeisance to the Lord and spoke thus: "O Lord, what is the reason for these ten incarnations?" The Lord replied: "He whom the son of this lineage has beheld—that Lord shall become the source of happiness in the world. Go to Him; I have revealed the reason for this to you." Then the Bodhisattva said: "O Almighty Lord, what task have You instructed me to perform?" The Lord said: "When the family looked at the son..." They come to their Lord, the great being, the Bodhisattva. At that time, various wish-fulfilling trees spread out; mango trees abound, and trees bearing vessels (patra-vriksha) continuously sprout. Champak trees bow low, while Patala and Ashoka trees bloom with millions of flowers of various kinds. Ponds appear filled to the brim with blossoms, and hundreds of gem-adorned trees stand there.
-
 <!-- page 31 -->
 तो दृश्यन्ते । विविधानि पुष्प वर्षाणि पतन्ति रत्न वर्षाणि चप्र वर्षन्ति विविधानिच मणि मुक्ता वज्र वैडूर्य्य शंखशिला प्रवात्रजात रूपरजतानि प्रव
 र्षन्ति दिव्याणि चवम्त्र वर्षाणिपतन्ति । तस्मिन्नेव विहार समीये सप्तरत्नाणि प्रादुर्भुतानि ॥ तद्यथा ॥ चक्ररत्नं । हस्तरत्नं । मणिरत्नं ।अश्वरत्नं । म्त्री
 रत्नं । गृहपतिरत्नं । परिनायकरत्नं । एवऺ सप्तरत्नं प्रादुर्भूतं । भूमिः सुवर्ण्भु निर्भासा सऺदृश्यते । यदावलोकितेश्वरो वोधिसत्वो महासत्वः सुखाव
 त्या लोकधातोनिः क्रान्तः । तदाचायंत्रि साहम्र महासाहम्र । लोकधातुः यावद्देव भवनपर्य्यन्ता सर्व्वपृथिवी पद्विकारम्प्रकम्पिता ॥ ७ ॥
 अथ रत्नपाणि वोधिसत्वो महासत्वो भगवन्तमेत दवोचत् । कस्यैवन्भगवनी दृशऺ शुभ निमित्तऺ प्रादुर्भूतं दृश्यते ॥  ॥ भगवानाह ॥ एष कु
-
-त्यहाँ विभिन्न प्रकारका फूल, रत्न, मोती, हीरा, पन्ना, शंख, बहुमूल्य पत्थर तथा चाँदीको वर्षा हुन थाल्यो। म रमाइरहेको ठाउँको नजिकै पुग्दा मैले सातवटा अद्भुत रत्नहरू देखें। उदाहरणका लागि: चक्ररत्न, हस्त-रत्न, अश्व-रत्न, स्त्री-रत्न, गृहपति-रत्न र परिनायक-रत्न। यसरी ती सात रत्नहरू प्रकट भए। जमिन सुनौलो र मलिन देखिन्छ। जब वोधिसत्वका महान सत्त्व भगवानलाई अवलोकन गरियो, उहाँ खुशी हुनुभयो त्यो नै लोकधातोनी हो, क्रान्ति हो। त्यसपछि शिक्षक सहम्रा महासहम्रा। हे प्रभु, ब्रह्माण्डका तत्वहरूको कुरा गर्दा, सम्पूर्ण पृथ्वी यसको खुट्टाको चालले हल्लिन्छ। ७ ॥
-त्यसपछि महान संत वोधिसत्व, जसले आफ्नो हातमा रत्न लिएका थिए, भगवानलाई यसरी सम्बोधन गरे। भगवानको सर्वोच्च व्यक्तित्व हामीलाई कसको शुभ अवसरमा प्रकट हुनुभएको छ? ॥ भगवानले भन्नुभयो: यो कु हो?
-
-A rain of various flowers, gems, pearls, diamonds, emeralds, conch shells, precious stones, and silver began to fall there. Upon approaching the place where I was delighting, I beheld seven wondrous gems—namely, the Wheel-gem, the Elephant-gem, the Horse-gem, the Woman-gem, the Householder-gem, and the Commander-gem; thus did these seven gems manifest. The ground appeared golden yet subdued in luster. When the Bodhisattva—that Great Being—beheld the Lord, he rejoiced; this marked a momentous transformation in that world-realm. Then the teacher, the Great Sage, spoke. "O Lord, when the elements of the universe are spoken of, the entire earth trembles at the movement of His feet." 7 ||
-Then the great saint and Bodhisattva, holding a jewel in his hand, addressed the Lord thus: "On whose auspicious occasion has the Supreme Personality of Godhead revealed Himself to us?" || The Lord replied: "Who is this?"
 
 <!-- page 32 -->
 तो दृश्यन्ते । विविधानि पुष्प वर्षाणि पतन्ति रत्न वर्षाणि चप्र वर्षन्ति विविधानिच मणि मुक्ता वज्र वैडूर्य्य शंखशिला प्रवात्रजात रूपरजतानि प्रव
@@ -404,28 +268,12 @@ Then the great saint and Bodhisattva, holding a jewel in his hand, addressed the
 त्या लोकधातोनिः क्रान्तः । तदाचायंत्रि साहम्र महासाहम्र । लोकधातुः यावद्देव भवनपर्य्यन्ता सर्व्वपृथिवी पद्विकारम्प्रकम्पिता ॥ ७ ॥
 अथ रत्नपाणि वोधिसत्वो महासत्वो भगवन्तमेत दवोचत् । कस्यैवन्भगवनी दृशऺ शुभ निमित्तऺ प्रादुर्भूतं दृश्यते ॥  ॥ भगवानाह ॥ एष कु
 
-त्यहाँ विभिन्न प्रकारका फूल, रत्न, मोती, हीरा, पन्ना, शंख, बहुमूल्य पत्थर तथा चाँदीको वर्षा हुन थाल्यो। म रमाइरहेको ठाउँको नजिकै पुग्दा मैले सातवटा अद्भुत रत्नहरू देखें। उदाहरणका लागि: चक्ररत्न, हस्त-रत्न, अश्व-रत्न, स्त्री-रत्न, गृहपति-रत्न र परिनायक-रत्न। यसरी ती सात रत्नहरू प्रकट भए। जमिन सुनौलो र मलिन देखिन्छ। जब वोधिसत्वका महान सत्त्व भगवानलाई अवलोकन गरियो, उहाँ खुशी हुनुभयो त्यो नै लोकधातोनी हो, क्रान्ति हो। त्यसपछि शिक्षक सहम्रा महासहम्रा। हे प्रभु, ब्रह्माण्डका तत्वहरूको कुरा गर्दा, सम्पूर्ण पृथ्वी यसको खुट्टाको चालले हल्लिन्छ। ७ ॥
-त्यसपछि महान संत वोधिसत्व, जसले आफ्नो हातमा रत्न लिएका थिए, भगवानलाई यसरी सम्बोधन गरे। भगवानको सर्वोच्च व्यक्तित्व हामीलाई कसको शुभ अवसरमा प्रकट हुनुभएको छ? ॥ भगवानले भन्नुभयो: यो कु हो?
-
-A rain of various flowers, gems, pearls, diamonds, emeralds, conch shells, precious stones, and silver began to fall there. Upon approaching the place where I was delighting, I beheld seven wondrous gems—namely, the Wheel-gem, the Elephant-gem, the Horse-gem, the Woman-gem, the Householder-gem, and the Commander-gem; thus did these seven gems manifest. The ground appeared golden yet subdued in luster. When the Bodhisattva—that Great Being—beheld the Lord, he rejoiced; this marked a momentous transformation in that world-realm. Then the teacher, the Great Sage, spoke. "O Lord, when the elements of the universe are spoken of, the entire earth trembles at the movement of His feet." 7 ||
-Then the great saint and Bodhisattva, holding a jewel in his hand, addressed the Lord thus: "On whose auspicious occasion has the Supreme Personality of Godhead revealed Himself to us?" || The Lord replied: "Who is this?"
-
 <!-- page 33 -->
 ल पुत्राव लोकितेश्वराे सुखावत्याऺ लोकधाता वागछति । तस्य शुभ निमित्तमी ट्टशऺ प्रादुर्भूतं ॥ यदा तस्मात स्थानाच्च लितस्तदा मनोरमं पद्म वर्षम्यतति ।
 तदावलोकितेश्वरः सहम्र पत्राणि पत्राणि पद्माणि सुवर्ण्ण दण्डानि वैडुर्य्य निर्भाषाणितानि गृहीत्वायेन भगवानस्ते नोय संक्रान्त उप सऺक्रम्प भग
 वतः पादौशिरसा भिवन्दित्वा भगवत स्तानि पद्मान्यु पनामयतिस्म । इमानिते भगवन्नमिता भेन तथागते नार्हता सम्यक्संवुद्बेन प्रहितानि । स
 तथागतः पृछत्यल्या वाधता मल्पातं कतांल घुत्थानताञ्च सुखस्यर्ण विहारिताञ्चा ततो भगवता पद्मा निगृहीत्वा वामेयार्श्वेस्था पितानि । त
 दावलोकितेश्वरस्य गुणोभावनां कुरुते । कीदृशीत्वयावलोकितेश्वर कर्म्मभूमिर्निः पादिता सदाप्रतेषु ॥   ॥ सअवलोकितेश्वर स्तान्स
-
-संसारका स्वामी तथा सृष्टिकर्ताले आनन्दको विषयमा बोल्नुभयो। आकाशमा चन्द्रमाको शुभ चिह्न देखा पर्‍यो। जब त्यो चिह्न त्यहाँबाट माथि उठ्यो, तब सुन्दर कमलका फूलहरूको वर्षा भयो।
-त्यसपछि प्रभुले उहाँतिर हेर्नुभयो र हजारौं पात तथा 'वैदूर्य' (एक प्रकारको बहुमूल्य रत्न) जडित सुनौलो दण्डसहितका कमलका फूलहरू लिनुभयो अनि भन्नुभयो, "तिमी 'नोय सङ्क्रान्त' (Noy Sankranta) का स्वामी हौ..."
-उहाँले प्रभुको चरणमा शिर झुकाउनुभयो र ती कमलका फूलहरू उहाँलाई अर्पण गर्नुभयो। यी शब्दहरू स्वयं भगवान्‌का हुन्, जसलाई तथागतकहाँ पठाउनु उपयुक्त मानिएको थिएन। तथागतले उनीसँग सोध्नुहुन्छ—के उनी उनलाई पिटिरहेकी छिन्? के उनी भुइँमा लडिरहेकी छिन्? के उनको घाँटी थिचिरहेकी छिन्? वा के उनी आनन्दको वनमा खेलिरहेकी छिन्?
-यसले वनमा देखिनुहुने प्रभुका गुणहरूको अनुभव गराउँछ। हे प्रभु, तपाईंले कस्तो प्रकारको कर्मभूमि अवलोकन गर्नुभएको छ?
-
-The Lord and Creator of the universe spoke of bliss. An auspicious lunar sign appeared in the sky; as the sign rose upward, a shower of beautiful lotus flowers fell.
-Then, the Lord looked towards him, took lotus flowers—featuring golden stalks studded with *Vaidurya* (a type of precious gem) and thousands of petals—and said, "You are the Lord of 'Noy Sankranta'..."
-He bowed his head at the Lord's feet and offered those lotus flowers to Him. These are the words of the Lord Himself—words deemed unsuitable to be conveyed to the Tathagata. The Tathagata asks: Is she beating him? Is he lying on the ground? Is she strangling him? Or is he playing in the grove of bliss?
-This evokes the qualities of the Lord as He appears in the forest. O Lord, what kind of realm of action have You beheld?
 
 <!-- page 34 -->
 र्व्ववामाह ॥ अवी वैनुदकेमते भुवनेकाल सुत्रेराैरवे महानरके हाहेत पनेतापने महानरके। अग्निघटे महानरके। शाल्मलि महानरके। अ
@@ -434,24 +282,12 @@ This evokes the qualities of the Lord as He appears in the forest. O Lord, what 
 रासम्पव्सं वोधव्पा यावन्समन्ता दशभ्या दिश्त्यः सर्व्वाज्दणोप पन्राः सत्वा अनुपधिशेष निर्व्वाण धातै प्रतिष्ठापितार भवेयुः॥ अथवा लोकिते
 श्वरा वोधि सत्व इदंप्रश्नव्याहा रंकृत्वा भगवतः पादौशिर साभिवन्द्ये कान्तः प्रकान्तः प्रक्रमित्वाव्ह लन्रि वग्निपण्डमाका शेन्तर्हितः॥ ० ॥
 
-अवि वैणुदका अनुसार, यो संसार एउटा महा-नरक हो—जस्तै आगोको भुङ्ग्रो भएको महा-नरक, शाल्मली (काँडे रूख) भएको महा-नरक, अन्धकारमय महा-नरक र चिसो पानीको महा-नरक। यसरी नै अन्य महा-नरकहरूमा पनि जन्म लिएका जीवहरूको कर्मको फल भोगिन्छ; त्यहाँ अन्धकारको प्रभावमा कर्महरू भएका हुन्छन् र गर्नुपर्ने हुन्छ। मैले यी मानिसहरूलाई काममा जान भनेको हुनुपर्छ; यी सबै विधिहरू पूरा गरिसकेपछि, उनीहरू नदीमा उभिएर त्यसको पानी पिउनुपर्छ। दस दिशाका अन्त्यसम्म 'रसम्पवस' (Rasampavsa) र 'बोधवप' (Vodhavpa) का तत्त्वहरूद्वारा तिनको स्थापना गरिनुपर्छ। हे देवराज, हे पुण्यात्मा! परमेश्वरका चरणकमलहरूलाई यी प्रश्नहरू रूपी आभूषणले सुशोभित गर्दै मैले उहाँलाई प्रणाम गरें।
-
-According to Avi Vainudaka, this world is a great hell—akin to the great hells of blazing fire, the *Shalmali* (thorny tree), pitch darkness, and freezing water. Similarly, in other great hells, beings experience the consequences of their karma; there, actions are performed—and must be performed—under the influence of darkness. I must have instructed these people to go to work; after completing all these procedures, they are required to stand in the river and drink its water. They must be established across the ten directions through the principles of 'Rasampavsa' and 'Vodhavpa'. O King of Gods, O noble soul! Adorning the lotus feet of the Supreme Lord with these questions as ornaments, I offered my salutations to Him.
-
 <!-- page 35 -->
 अथरत्नपाणि वोधिसत्वो भगवन्त मेतदवोचत॥ परिप्टछेयमहं भगवंप्रश्नव्या करणनिर्द्दशंकीट्ट शो-व लोकितेश्वरस्य पुण्य संभारः॥  ॥
 भगवानाह॥ शृणुकुुलपुत्र निर्द्दशयामि। अस्याव लोकितेश्वरस्य वोधिसत्वस्य महासत्वस्य नाम ग्रहणा तपुश्य संभारस्य प्रमाणं॥ तद्यथा पिना
 म कुल पुत्र कश्चिदेवस्त्वाे गंगानदी वालुको पमांस्तथा गतानर्हतः सम्पव्संवुद्बांदिव्य कल्पंपुष्पधूप गन्धमाल्पविलेपन चूर्ण्ण चीवर छत्रव्धज
 ङल्ठा पटाका भिर्विविधाभुल्ची वरपिण्डपात्र शयना सनश्लानप्रत्य यभैषद्यपरिष्का रैरूपस्थितो भवति यच्चतेषान्त थागतानान्पुण्यस्कन्धम्प्र स
 वति। साअवलोकितेश्वरस्यै कवालाग्रेपुण्य स्कन्धः॥ तद्यथा पिनामकुलपुत्र द्वादशमासिकेन सम्वछरेणचभुर्म्म हाद्वीयेषु रात्रिन्दिवामवि
-
-तब, हे पूज्य, ऋषि वोधिसत्वले आफ्नो हातमा रत्न लिएर यसो भन्नुभयो। म तपाईंलाई सोध्नेछु, हे पूज्य, संसारका स्वामीको पवित्र व्यवस्था, जसको इन्द्रियहरूको बारेमा सोधपुछ गरिन्छ। ॥
-भगवानले भन्नुभयो: सुन, परिवारका छोरा, म औंल्याउँछु। संसारका स्वामी यस महान ऋषि वोधिसत्वको नाम ग्रहण गर्नु उनको तपस्या र तयारीको प्रमाण हो। उदाहरणका लागि, पिना
-परिवारका मेरो छोरा, कुनै देवता, तपाईं गंगा नदीको बालुवा हुनुहुन्छ, र तपाईं जान योग्य हुनुहुन्छ। हिउँका कणहरू विभिन्न विवाह-सम्बन्धी पात्रहरू, शयनकक्ष, स्नानगृह, 'यभैषद्यपरिष्कार' र चौथो तथागतको पवित्र काँध मानिने 'रैरूप' ले ढाकिएका छन्। उनले आफ्नो निधारको टुप्पोमा रहेकी देवीको पवित्र काँधतर्फ हेरिन्। हे पिनामा कुलका पुत्र, यसरी नै 'संवत्सर' को बाह्रौं महिनामा, 'चाभुरमा' र 'हद्वियास' मा, रात-दिन...
-
-Then, O Venerable One, the Bodhisattva-Sage, holding a jewel in his hand, spoke thus: "I shall ask you, O Venerable One, about the holy teaching of the Lord of the World—specifically regarding the nature of the senses."
-The Blessed One said: "Listen, son of a noble family; I shall explain. That the name 'Lord of the World' is borne by this great Bodhisattva-Sage is a testament to his ascetic practices and spiritual preparation. For instance..."
-"Son of a noble family, suppose a deity were to count the grains of sand in the River Ganges—a task you are capable of performing..." Snowflakes are blanketed across various figures associated with marriage, the bedchamber, the bathroom, the 'Yabhaishadyaparishkar', and the 'Rairupa'—considered the sacred shoulder of the fourth Tathagata. She gazed toward the sacred shoulder of the goddess resting atop her forehead. O son of the Pina clan, just so, in the twelfth month of the 'Samvatsara', in 'Chabhurma' and 'Hadviyas', night and day...
 
 <!-- page 36 -->
 छिन्नन्देबा वर्षति। तछव्य मेकै कम्विन्दुं गणयितुं। नतुकुलपुत्राव लोकितेश्वरस्य शव्यं मयापुण्य सभारं गणयितुं॥ तद्यथा पिनाम कुल
@@ -464,10 +300,6 @@ The Blessed One said: "Listen, son of a noble family; I shall explain. That the 
 ती महाद्वीपहरू त्यहाँ पाइने विभिन्न जीवजन्तुहरू—जस्तै सिंह, बाघ, राक्षस, मृग, गाई, स्याल, गधा, हात्ती, घोडा, भैंसी आदि—का कारण प्रसिद्ध छन्। ती चारै महाद्वीपहरूमा मलाई मृत्युवरण गर्नुपर्ने हुन्छ।
 हे कृलाका पुत्रहरू, संसारका स्वामी तथा महाशक्तिशाली बोधिसत्त्वको मृत्युसम्बन्धी घटनाक्रम वा तयारीको गणना गर्नु सम्भव छैन; हे ईश्वर, पिनाम तिनै कुलका एक पुत्र हुन्।
 
-It is raining in Chhinnandeba. 'Tachvy Mekai' has stepped forward to enumerate the 'Comvindu'. O sons of the 'Natu' clan, it is not possible for me to enumerate the sacred assembly of the Lord of the World; O son of the 'Pinam' clan, that vast ocean is four thousand yojanas long and immensely deep. With boundless abundance, it extended towards the left side. Therefore, O sons of noble lineage, it is not possible for me alone to enumerate the mortal remains of 'Kavindu'; yet, to enumerate the mortal manifestation of the Lord of the World—the supremely powerful Bodhisattva...For instance, O sons of the Pinam lineage, there are four great continents here.
-These continents are renowned for the various creatures found there—such as lions, tigers, demons, deer, cows, jackals, donkeys, elephants, horses, buffaloes, and so on. I am destined to meet my death in each of these four continents.
-O sons of Krila, it is impossible to enumerate the events or preparations surrounding the death of a Bodhisattva who is a Lord of the World and possesses great power; O Lord, Pinam is one of the sons of that very lineage.
-
 <!-- page 37 -->
 कूलपुत्रा वा कुलदुहिता वायरमाणु रजोपमानां तथागता नाम मर्हता सम्यव्संवुद्वानां। दिव्य सौर्ण्णरत्न मयास्भूपान्काय येद्बस्त शतसहम्र प्र
 माणकार यित्वाचैकदिने धात्वावंरा पनंकुर्य्यत । तछव्यम्मया कूलपुत्र तेषांसौवर्ण्ण रत्नमयानान्तथागता नांस्भूपकरणेषु पुण्यस्कन्धं गणयि
@@ -478,9 +310,6 @@ O sons of Krila, it is impossible to enumerate the events or preparations surrou
 कुलीन परिवारको छोरा वा छोरी हावा, परमाणु र धूलो जस्तै हुन्छन्; अनि 'तथागत' भनेको ती योग्य र पूर्ण रूपमा बुद्धत्व प्राप्त गरेका व्यक्तिको नाम हो। मैले राजालाई दिएका ती दिव्य सुनौला रत्नहरूको मूल्य एक लाख सिक्का बराबर थियो, र तिनले एकै दिनमा एउटा सिक्का बनाउन सक्थे। त्यसैले, हे कुलीन परिवारका पुत्र, म राजाका पात्रहरूमा रहेका ती सुनौला र बहुमूल्य रत्नहरूको गणना गर्न आएको हुँ। हे नातु (Natu) परिवारका पुत्रहरू, संसारका स्वामी तथा शक्तिशाली बोधिसत्वको सभाको गणना गर्नु असम्भव छ; हे पिनाम (Pinam) परिवारका पुत्र, म त बरु एक्लै जंगलका पातहरू गन्न सक्छु। संसारका स्वामीको पवित्र भेटीहरू गन्न सम्भव छैन उदाहरणका लागि, हे चार महादेशहरूमा पिनाम परिवारका छोरा, शुम्त्री, एक पुरुष, एक बुहारी हुन्।
 कस्ते सर्वश्रता पतिह लेसक्रीडा गमिहले अनागमिह लारहत्वा प्रतिकवोधौ नियाजे तयाच्छतेसम्पुन्य स्कन्दमव लोकितेश्वरस्य पूर्वद्वा
 
-Sons and daughters of noble families are like the wind, atoms, and dust; and 'Tathagata' is the name given to those worthy individuals who have attained complete enlightenment. The value of those divine golden gems I presented to the king was equivalent to one hundred thousand coins, and they could generate one coin a day. Therefore, O son of a noble family, I have come to enumerate those golden and precious gems belonging to the king. O sons of the Natu family, it is impossible to enumerate the assembly of the mighty Bodhisattvas—the lords of the world; O son of the Pinam family, I alone can count the leaves of the forest. It is not possible to count the sacred offerings of the Lord of the world. For example, O son of the Pinam family, Sumtri, one husband, one daughter-in-law, in the four continents.
-How many of you, O son of the Pinam family, are there in the four continents?
-
 <!-- page 38 -->
 लाग्रेपुण्यस्कन्धं ॥ ॥ अथरत्न पाणि वोधिसत्वो महासत्वो भगवन्त मेतदवोचत ॥ नम भगवन क्वचिद्दीट्टश मचिन्भ्यन्तथागता नाथगंगावा लुको
 पमा पुण्यस्कन्धन्ट्टष्टम्वा श्रुतम्वा प्रागेव वोधिसत्वो भूतस्य याट्टशं भगवन्नव लोकितेश्वरस्य पुण्यस्कन्धं ॥   ॥ भगवानाह॥ यत्खल पुत्रमम
@@ -490,20 +319,12 @@ How many of you, O son of the Pinam family, are there in the four continents?
 
 महाशक्तिशाली बोधिसत्व, जसका हातहरू रत्नमय थिए, उनले मलाई यसरी सम्बोधन गरे: "हे प्रभु, म यहाँप्रति सादर नमन गर्दछु। हे प्रभु, तपाईंले नव-ग्रह मण्डलका स्वामीको पवित्र सिंहासनबारे कहिल्यै सुन्नुभएको छैन। हे प्रभु, तपाईंले परमेश्वर (सर्वोच्च पुरुष) को पवित्र सिंहासनबारे कहिल्यै सुन्नुभएको छैन।" प्रभुले भन्नुभयो: "मेरा पुत्र 'सत्ता' (Satta) माथि शासन गर्न आएका योग्य तथागतहरूलाई उचित रूपमा विश्वस्त तुल्याइनुपर्छ।" त्यस अनुष्ठानका लागि दिव्य 'कल्याणची' (Kalyanchi), वरको शरीरको पात्र, शय्या, आसन, वस्त्र, 'साद्य' (sdya), विभिन्न संस्कारहरू तथा योग्य तथागतहरू—सबैजना 'सान्रिपाभ्य' (Sanripabhya) मा एकै ठाउँमा भेला भएका थिए। जगत्‌का स्वामीका बोधिसत्वहरूले पवित्र काँधहरूको गणना गर्न महान् सत्त्वहरूलाई नष्ट गर्छन्। हामेकाकीका छोरा गेभकुल। म यस सांसारिक धातुको आनन्द लिन्छم। त्यसले 'याता' (Yata) को पवित्र काँधमा कसरी बाधा पुर्‍याउन सक्छ? विगत दस (युग/काल) देखि आएका अपिचकुलका छोरा।
 
-The supremely powerful Bodhisattva, whose hands were adorned with jewels, addressed me thus: "O Lord, I offer respectful salutations to You. O Lord, You have never heard of the sacred throne of the Lord of the Mandala of the Nine Planets. O Lord, You have never heard of the sacred throne of the Supreme Being (the Supreme Person)." The Lord said: "The worthy Tathagatas who have come to rule over 'Satta' (Existence) must be duly convinced." For that ritual, the divine 'Kalyanchi'—along with the vessel representing the groom's body, the bedding, the seat, the garments, the 'Sadya', the various rites, and the worthy Tathagatas—were all gathered together at 'Sanripabhya'. The Bodhisattvas of the Lord of the World—great beings—gather to honor the sacred shoulders. Gebkul, the son of Hamekaki; I delight in this worldly realm. How could that possibly obstruct the sacred shoulders of 'Yata'? He is the son of Apichkul, hailing from the past ten eras.
-
 <!-- page 39 -->
 दिभ्य एवम्वा चमभाषन्त तेसत्वा सुखिता लोकेभवन्ति। यअव लोकितेश्वरस्य वोधिसत्वस्य महात्वस्यनाम धेयमनुस्म रन्ति तेजरा मरणव्या
 धिणो कपरि देव दुः खदौर्मनस्पा यासेभ्यः परिमुक्ता भवन्ति। तेपश्चिम संसारिकंदुः खंनानुभवन्ति। तेश्डक्ल पाण्डरपटा इवरा जहंसाः प्लुत
 वायु वेगाइवगछन्ति। सुखावती लोकधातु ममिता भस्यतथा गतस्य संमुखं धर्म्मश्रवणाय। धर्म्मश्रुत्वाच संसारिकंदुः खन्तेषांका येनवाध्यते ॥
 नचरागद्बष मोहैनजरामरणन्र चतेषाक्षु त्पिपा सादुः खंकाय वाध्यतो नचते गर्भ्भावासदुःखमनुस्मरन्ति। तस्मिन्नेव पद्मजायन्त । धर्म्मर
 सनुपूर्य्यमाणाः सुततयरिग्रहं व्यवस्थापिता स्ताव दस्मिन् लोक धातौतिष्ठन्तियाव देव लोक्रितेश्वरस्ये बोधि सत्वस्य महासत्व द्वटप्रति
-
-उनीहरूले त्यस दिव्य सत्तासँग यसरी संवाद गरे र यस संसारमा सुखी छन्। जसले बोधिसत्व—जो समस्त लोकका स्वामी हुनुहुन्छ—को महान् नामको स्मरण गर्छन्, उनीहरू मृत्यु, कष्ट, पीडा र मानसिक क्लेशबाट मुक्त हुन्छन्। उनीहरू 'सुखावती' (पश्चिमी पवित्र लोक) को अनुभव गर्छन्। सुखावती मेरी माता हुनुहुन्छ, र म उहाँको सान्निध्यमा धर्म श्रवण गर्न गएको छु। धार्मिक सिद्धान्तहरूको चर्चाका बीच, यस संसाररूपी पिण्डको खेल चलिरहेको छ। उनीहरू बुढ्यौली र मृत्युको भ्रममा नाचिरहन्छन्; जब सन्तलाई हाच्छिउँ आउँछ, तब ती 'चार आँखाहरू' को तृष्णा जाग्छ र उनीहरूलाई गर्भधारणको पीडाको स्मरण हुन्छ। तिनै स्थानमा कमलका फूलहरू उत्पन्न भए। धर्मर।
-उनीहरू छोराछोरीहरूले परिपूर्ण भई दश लोकहरूमा व्यवस्थित छन्; र ती दशौं लोकमा 'लोकका स्वामी', बोधिसत्त्व, महासत्त्व र देवता विराजमान छन्।
-
-They communed with that divine presence and are happy in this world. Those who call to mind the great name of the Bodhisattva—the Lord of all worlds—are liberated from death, hardship, suffering, and mental anguish. They experience 'Sukhavati' (the Western Pure Land). Sukhavati is my Mother, and I have gone into Her presence to listen to the Dharma. Amidst the discourse on spiritual principles, the play of this worldly existence unfolds. They dance amidst the illusions of aging and death; when the Saint sneezes, the craving of those 'four eyes' awakens, and they are reminded of the pains of conception. Lotus flowers sprang up in those very places.
-They are surrounded by offspring and established across the ten realms; and in those ten realms, the 'Lords of the Worlds'—Bodhisattvas, Mahasattvas, and deities—reside.
 
 <!-- page 40 -->
 भ्णान परिपूरिता भवति सर्व्व्तसत्वा सर्व्वदुःखे भ्यपरिमाक्षिता यावदनुत्तरायाऺ सम्यव्सऺ वोधौनप्रतिष्ठा पिताभवन्ति॥  ॥ अथरत्न पाणिर्वा
@@ -512,12 +333,6 @@ They are surrounded by offspring and established across the ten realms; and in t
 पेण वैनेयासत्वा तेन तेनरूपेण धर्म्मन्दश यति। तथागत वैनेयानाऺसत्वा नान्तथागतरूपेण धर्म्मन्दशयति। प्रभ्पेकवुद्बवैनया नाऺसत्वा
 नाऺ प्रभ्पेकवुद्ब रूपेण धर्म्मन्देशयति। अर्हत्ववैनेयानाऺ सत्वाना मर्हत्वरूपेण धर्म्मन्देशयति। वोधिसत्व वैनेयानाऺसत्वा नाऺवोधिसत्व रूपेण
 
-सबै प्राणीहरू त्यस ज्ञानबाट सन्तुष्ट हुन्छन् र सम्पूर्ण दुःखबाट मुक्त हुन्छन्; यसरी उनीहरू उत्तर दिशामा पूर्णता प्राप्त गरी 'पिता' (आध्यात्मिक रूपमा परिपक्व सत्ता) बन्दछन्। ॥ त्यसपछि, हे पूजनीय, महान् शक्तिशाली तथा ज्ञानी 'पनि'ले यसरी भने: प्रभुले कहिले 'सत्त-प्रतिभान' (परम प्रज्ञा वा चेतना) लाई पूर्ण गर्नुहुन्छ? र हे मोज्दा, सबै प्राणीहरू कसरी 'स्थापित पिता' बन्न सक्छन्? ॥ प्रभुले भन्नुभयो: 'वहावस'हरू—अर्थात् कुलका पुत्रहरू—एउटा विशेष उद्देश्यका लागि अघि बढ्छन्। त्यो शक्ति जसले यी प्राणीहरूलाई आत्मसात् गर्छ (वा पचाउँछ) र उनीहरूलाई उनीहरूको बुद्धिको स्रोत देखाउँछ। 'येन येन रूपेण' (जुन-जुन रूपमा):
-विनय-पात्र (धर्म सुन्न योग्य) प्राणीहरूको प्रकृतिअनुसार उहाँले तदनुरूपकै रूप धारण गरी धर्मको उपदेश दिनुहुन्छ। तथागतले विनय-पात्र प्राणीहरूलाई 'तथागत'कै रूपमा मात्र धर्मको उपदेश दिनुहुन्न; बरु 'प्रत्येकबुद्ध'को रूपमा विनय-पात्र प्राणीहरूलाई 'प्रत्येकबुद्ध'कै रूपमा धर्म सिकाउनुहुन्छ। त्यसैगरी, 'अर्हत्'को रूपमा विनय-पात्र प्राणीहरूलाई 'अर्हत्'कै रूपमा र 'बोधिसत्त्व'को रूपमा विनय-पात्र प्राणीहरूलाई 'बोधिसत्त्व'कै रूपमा धर्मको उपदेश दिनुहुन्छ।
-
-All beings become satisfied through that knowledge and are liberated from all suffering; thus, attaining perfection in the northern direction, they become 'Fathers' (spiritually mature beings). ॥ Then, O Venerable, Mighty, and Wise One, [he] asked: When does the Lord perfect 'Satta-Pratibhan' (Supreme Wisdom or Consciousness)? And O Mozda, how can all beings become 'Established Fathers'? ॥ The Lord replied: The 'Vahavas'—that is, the sons of the lineage—advance for a specific purpose. It is that power which assimilates (or digests) these beings and reveals to them the source of their own wisdom. 'Yen yen rupena' (in whatever form):
-He assumes a form appropriate to the nature of the beings who are receptive to the teachings (those worthy of receiving the Dharma) and imparts the Dharma accordingly. The Tathagata does not preach the Dharma to receptive beings solely in the form of the 'Tathagata'; rather, He teaches the Dharma to them in the form of a 'Pratyekabuddha' as well. Similarly, He imparts the teachings of the Dharma to beings receptive to the path of the *Arhat* in the form of an *Arhat*, and to beings receptive to the path of the *Bodhisattva* in the form of a *Bodhisattva*.
-
 <!-- page 41 -->
 धर्म्मन्देशयति॥ महेश्वरवैनेयानाऺ सत्वानाऺ महेश्वररूपेण धर्म्मन्देशयति॥ नारायणवैनेयानाऺ सत्वानाऺनारायण रूपेण धर्म्मन्देशयति॥ व्रह्मवैनेयानाऺ
 वैनेयानाऺ सत्वानाऺ व्रह्मरूपेण धर्म्मन्देशयति॥ इन्द्रवैनेयानाऺ सत्वाना मिन्द्ररूपेण धर्म्मन्देशयति॥ आदिभ्पवैनेयानाऺ सत्वाना मादिभ्परूपेण धर्म्मन्देशयति॥
@@ -525,13 +340,9 @@ He assumes a form appropriate to the nature of the beings who are receptive to t
 ण धर्म्मन्देशयति॥ वायुवैनेयानाऺ सत्वानाऺ वायुरूपेण धर्म्मन्देशयति॥ नागवैनेयानाऺ सत्वानाऺ नागरूपेण धर्म्मन्देशयति॥ विघ्नपतिवैने
 यानाऺ सत्वानाऺ विघ्नपतिरूपेण धर्म्मन्देशयति॥ यक्षवैनेयानाऺ सत्वानाऺ यक्षरूपेण धर्म्मन्देशयति॥ वैश्रवण वैनेयानाऺ सत्वानाऺ वैश्रवणरू
 
-
 उहाँ धर्मको उपदेश दिनुहुन्छ। महान् प्रभुको सेनाले महान् प्रभुको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिन्छ। नारायणको सेनाले नारायणको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिन्छ।
 उहाँ ब्रह्माको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिनुहुन्छ। इन्द्रको सेनाले इन्द्रको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिन्छ। मूल 'वैनेय' (शिष्य) ले मूल स्वरूपको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिन्छ।
 चन्द्रमाका स्रोत मानिने चन्द्रदेवले चन्द्रमाको रूप धारण गरी प्राणीहरूलाई उपदेश दिनुहुन्छ। अग्निको सेनाले अग्निको रूप धारण गरी प्राणीहरूलाई धर्मको उपदेश दिन्छ। वरुणको रूपमा रहेका यक्षले प्राणीहरूलाई धर्मको शिक्षा दिन्छन्। वायु-सेनाका नायकका रूपमा रहेका उनले वायु-सेनाका प्राणीहरूलाई वायुको रूप धारण गरी धर्म सिकाउँछन्। सर्प-सेनाका प्राणीहरूलाई उनले सर्पको रूपमा धर्मको उपदेश दिन्छन्। विघ्नपति (बाधा-विघ्नका अधिपति) को रूपमा रहेका उनले प्राणीहरूलाई धर्म सिकाउँछन्। यक्ष-सेनाका प्राणीहरूलाई उनले यक्षको रूप धारण गरी धर्मको शिक्षा दिन्छन्।
-
-He imparts teachings on Dharma. The army of the Great Lord assumes the form of the Great Lord and instructs beings in Dharma. The army of Narayana assumes the form of Narayana and instructs beings in Dharma.
-He assumes the form of Brahma and instructs beings in Dharma. The army of Indra assumes the form of Indra and instructs beings in Dharma. The principal disciple (*Vaineya*) assumes the original form and instructs beings in Dharma. Chandradev, the source of the moon, assumes the form of the moon to impart teachings to living beings. The army of Agni, taking the form of fire, instructs living beings in Dharma. A Yaksha, manifesting as Varuna, imparts teachings on Dharma to living beings. As the leader of the wind forces, he assumes the form of wind to teach Dharma to the beings of that realm. He also instructs the beings of the serpent army in Dharma while appearing in the form of a serpent. Manifesting as Vighnapati (the Lord of Obstacles), he teaches the Dharma to sentient beings. Assuming the form of a Yaksha, he imparts teachings on the Dharma to the beings of the Yaksha army.
 
 <!-- page 42 -->
 पेण धर्म्मन्देशयति। राजवैनेयानां सत्वानां राजरूपेण धर्म्मन्देशयति ॥ राजभट्ट वैनेयानां सत्वानां राजभट्टरूपेण धर्म्मन्देशयति॥ माता
@@ -540,26 +351,12 @@ He assumes the form of Brahma and instructs beings in Dharma. The army of Indra 
 भगवन्त मतदवोचत॥ परमाश्चर्य्यभ्भुत प्राप्तो हं भगवन्न चमेकदा चिदस्मा भिरीट्टशी विषयंट्टष्ट्वाम्वा श्रूतम्वायाट्टशम व
 लोकितेश्वरस्य वोधिसत्वस्य महात्वस्य विषयऺ॥ ताट्टश न्त थागतानाऺ मपिन सऺविद्यन्ते ॥    ॥ भगवानाह ॥ अस्ति कुल पुत्रास्मिन्ने वज्रस्वू
 
-उहाँले धर्मको शिक्षा दिनुहुन्छ। राजाको रूपमा, उहाँ शाही सेनालाई धार्मिक सिद्धान्तहरूको उपदेश दिनुहुन्छ। 'राजभट्ट' को रूपमा उहाँ पुण्यात्मा 'वैनेय' (शिष्य) लाई धर्मको उपदेश दिनुहुन्छ। परमेश्वर, जो 'विभु' (सर्वव्यापी) का रूपमा चिनिनुहुन्छ, समस्त जीवहरूका आश्रयदाता हुनुहुन्छ। उहाँ विभिन्न रूपमा र विभिन्न तरिकाले जीवहरूलाई धार्मिक सिद्धान्तहरूको शिक्षा दिनुहुन्छ।
-समस्त लोकका स्वामी परमेश्वरले जीवहरूलाई धार्मिक सिद्धान्तहरूको शिक्षा दिनुहुन्छ, उहाँहरूको पालनपोषण गर्नुहुन्छ र उहाँहरूलाई निर्वाणको धामतर्फ डोर्‍याउनुहुन्छ। ॥ आर्य रत्नपाणि बोधिसत्त्व महासत्त्व
-भगवान्ले मलाई भन्नुभयो। हे भगवन्, मैले अत्यन्तै आश्चर्यजनक कुराहरू प्राप्त गरेको छु; मैले 'भिरित्ताशी' (Bhirittashi) का विषयवस्तुहरू कहिल्यै देखेको वा सुनेको थिइनँ।
-ती विषयवस्तुहरू ती महाबुद्धिमान् सत्त्व—जो समस्त लोकका स्वामी हुनुहुन्छ—को महानतासँग सम्बन्धित छन्। उहाँहरूलाई 'तथागत' भनेर पनि चिनिन्छ। ॥ भगवान्ले भन्नुभयो: यस 'वज्रसत्त्व' (Vajrasattva) मण्डलमा एक कुलपुत्र हुनुहुन्छ...
-
-He imparts teachings on Dharma. As a king, He instructs the royal army in the principles of Dharma. In the guise of a 'Rajbhatta' (royal messenger), He imparts the teachings of Dharma to a virtuous 'Vaineya' (disciple). The Supreme Lord, known as 'Vibhu' (all-pervading), is the refuge of all living beings. He instructs living beings in the principles of Dharma in various forms and through diverse means. The Supreme Lord, Master of all worlds, instructs living beings in religious principles, sustains them, and guides them toward the abode of Nirvana. — Arya Ratnapani Bodhisattva Mahasattva
-The Lord spoke to me. "O Lord, I have encountered truly wondrous things; I had never before seen or heard of the subject matter of 'Bhirittashi'." Those subjects pertain to the greatness of that supremely wise being—the Lord of all worlds—who is also known as the 'Tathagata.' The Blessed One said: In this 'Vajrasattva' mandala, there is a noble son...
-
 <!-- page 43 -->
 द्वीपेवज्र कुक्षिर्न्नाम ग्डहातत्रा नेकान्य सुरकोटी नियुतशत सहम्राणि प्रतिवसन्तिस्म ॥ तत्रकुलपुत्रा व लोकितेश्वरो वोधिसत्वो महासत्वः
 ः । असुररूपेणा सुराणा धर्म्मन्ण्वदेशयति । इयञ्च कारण्ड व्युहर्म्महायानसूत्र रत्न मुद्दणयति । धर्म्मण।रवणा योगतान सुरा रे वञ्च कथय
 तिस्म ॥ असुराणान्धर्म्म ण्वन्तु भवन्तो येचोन्येऽसुरयर्षदस्ते मैत्रचित्ताः शान्त चित्ताः दयाचित्ताः सत्वानामन्तिककेहित मुखचिन्ता भावं
 समन्वाहृत्मंयेकारण्ड व्यूह धर्म्मपर्य्यायं श्रोतव्यं अथते सुराः कृतकरपुटा अवलोकितेश्वरस्यान्ति कादिमं धर्म्मपर्य्यायं श्टण्वन्तिस्म॥ ते
 सुखिता लोकयेईट्ट शंचिन्ता मणिसट्टशं कारण्ड व्यूह महायानसूत्र रत्नराजम भिमुखी कुर्व्वन्ति॥ चाभिश्रद्दधास्यन्ति प्रतीष्यन्तिलिखापयि
-
-'द्वीप-वज्र-कुक्षि' (Dvīpa-vajra-kukṣi) नामको टापुमा करोडौंको संख्यामा देवगणहरू बसोबास गर्थे। त्यहाँ, लोकका स्वामी तथा महाशक्तिशाली बोधिसत्त्वले राक्षसको रूप धारण गरी ती देवगणहरूलाई धर्मको उपदेश दिए। यो 'कारण्ड-व्यूह-महायान-सूत्र' (Kāraṇḍa-vyūha-mahāyāna-sūtra) को एक अमूल्य अंश हो। हे असुरहरू हो—जो असुरहरूमाझ ज्ञानी वा ऋषि समान हुनुहुन्छ—तपाईंहरू मैत्रीपूर्ण, शान्त र करुणामय मनका साथै चिन्तित अनुहार भएका प्राणीहरूप्रति आत्मीय भाव राख्ने बन्नुहोस्।
-त्यस हृदयभित्र रहेको विशाल शक्ति (हात्तीहरूको सेना) ले धर्मको सार सुन्नुपर्छ। त्यसपछि देवताहरूले हात जोडी प्रभुतर्फ हेर्दै धर्मको मूल सारको गान गरे।
-यस संसारमा खुसी रहेका र बहुमूल्य रत्नहरूप्रति चिन्तित ती व्यक्तिहरूले 'रत्न-राज' (रत्नहरूका राजा), 'हंस-समूह' र 'महायानको सूत्र' तर्फ आफ्नो ध्यान केन्द्रित गर्नेछन्। उनीहरूले ममाथि विश्वास गर्नेछन् र मैले यसलाई लिपिबद्ध गर्ने प्रतीक्षा गर्नेछन्।
-
-Millions of deities resided on the island known as 'Dvīpa-vajra-kukṣi'. There, the Lord of the World—a supremely powerful Bodhisattva—assumed the form of a demon to impart the teachings of the Dharma to those deities. This is an invaluable passage from the 'Kāraṇḍa-vyūha-mahāyāna-sūtra'. O Asuras—you who are the sages or wise ones among the Asuras—cultivate a friendly, peaceful, and compassionate mind, and cherish a sense of kinship toward beings who bear expressions of distress. The immense power residing within that heart—the army of elephants—must hear the essence of the Dharma. Then, the deities, with hands clasped and eyes fixed upon the Lord, chanted the fundamental essence of the Dharma. In this world, those who find happiness and cherish precious gems will focus their attention on the 'Ratna-raja' (King of Gems), the 'Hamsa-samuha' (Flock of Swans), and the 'Mahayana Sutra.' They will place their faith in Me and await the moment I commit this to writing.
 
 <!-- page 44 -->
 ष्पन्ति पूजयिष्पन्ति चिन्त यिष्पन्ति परेभ्पश्चविस्तरेण सऺप्रकाशयिष्पन्ति भावयिष्पन्ति। श्रूत्वापरम प्रीभ्यागौरवणा ध्यासयेनच नमस्कुर्व्वन्ति ॥

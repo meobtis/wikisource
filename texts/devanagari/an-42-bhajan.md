@@ -1,7 +1,7 @@
 ---
 title: "Bhajan"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN-PM-42-Bhajan.pdf"
-language: new
+language: unassessed
 script: deva
 buddhist: false
 plain: true

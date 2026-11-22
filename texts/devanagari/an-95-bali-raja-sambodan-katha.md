@@ -1,9 +1,11 @@
 ---
 title: "Bali Raja Sambodan Katha"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_95_Bali_Raja_Sambodan_Katha.pdf"
-language: new
+language: mixed
 script: deva
 buddhist: true
+language_note: "Sanskrit with Newar or Old Newar glosses and songs (assessed by reading samples)"
+machine_translations_removed: 0
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_95_Bali_Raja_Sambodan_Katha.pdf"
 pages: 32

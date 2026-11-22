@@ -4,6 +4,8 @@ wikisource_index: "https://wikisource.org/wiki/Index%3AAN_98_Kapisa_Awadan.pdf"
 language: new
 script: deva
 buddhist: true
+language_note: "Nepal Bhasa (Newar) with some Sanskrit verses (assessed by reading samples)"
+machine_translations_removed: 24
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_98_Kapisa_Awadan.pdf"
 pages: 184
@@ -22,10 +24,6 @@ note: "Transcribed by Wikisource volunteers from a manuscript scan digitised wit
 
 अनुवाद
 
-..... ॥ ॥ यहाँबाट ॥ एक समयमा । श्री साक्य सिंह भगवान पनि भयो भने । श्रावतिपुर भनेर नाम भएको ठाउँमा धेरै नै ठूलो राज्य एउटा थियो । कस्तो राज्या भने ॥ अत्यन्त सुन्दर महा स्बभायमान भएको थियो । सुलक्षण संजोग भएको थियो सँधै सबै काल म्तृभिक्ष थियो । तेहि काल
-
-.... ॥ ॥ From here ॥ At one time. Shri Sakya Singh Bhagwan also became. In a place called Shravatipur, there was a very big kingdom. What kind of kingdom was it? It was very beautiful and had great glory. There was a peaceful connection and it was always auspicious all the time. That time
-
 <!-- page 2 -->
 स जलवृष्टि जुयाओ चोनगु नगर छगुलि दस्यं चोङ ॥ थ्व नगरस श्री भगवान विज्यानाओ चोन थ्वगु प्रकार नं
 जिनं कनाओ तयाउ जुल थनंलि श्री भगवान तओधन पराक्रम नं संयूक्त जुयकाओ तथागत धायकाओ ॥
@@ -35,15 +33,6 @@ note: "Transcribed by Wikisource volunteers from a manuscript scan digitised wit
 द्य फलफूल ताबु‍लादि दक्षिना पंचामृत ताय अक्षतनं पूजा यानाओ श्री साक्य सिंह भगवान आनंद नं बि
 
 अनुवाद
-
-मा जलवृष्टि भइरहेको नगर एउटै भएको थियो ॥ यो नगरमा श्री भगवान आउनुभइ यस्तो प्रकारले
-मैलेपनि भनिरहेको थिएँ यहाँबाट श्री भगवान ठूलो पराक्रम बाट संयूक्त भएर तथागत भनेर ॥
-आउनुभयो ॥ यस्तो श्री तथागत ले असंख्य आनंद भिक्षु प्रमुखले । वोधिसत्व आदि देवदैत्य आदिं नाग मनूष्य
-गनपति सेननि आएर । जेतवन महाविहारमा ॥ सभामण्डल बनाएर श्री भगवान सिंहाश्रममा बस्नुभ
-यो । यो बेलमा सभालोक हरुलेपनि आफ्नो २ श्रद्धा भावनले बनाएर ल्याएको पूष्प धूप दीप ॥ सुगंध नैबे
-द्य फलफूल ताबु‍लादि दक्षिना पंचामृत ताय अक्षतले पूजा गरेर श्री साक्य सिंह भगवान आनंद ले जा
-
-The city was the only one where the rain was falling. In this city, the Lord Buddha came. In this way, I was also saying that the Lord Buddha came from here, united with great power, and called himself the Tathagata. Thus the Tathagata, with countless blissful monks, chiefs, Bodhisattvas, devas, demons, serpents, humans, Ganapatis, came with his army. In the Jetavana Mahavihara. Having formed a council, Shri Bhagwan resided in the Singhashram. At this time, all the people of the assembly also brought flowers, incense, lamps, fragrances, offerings, fruits, and offerings of Dakshina, Panchamrit, and Akshata, and worshipped Shri Sakya Singh Bhagwan with joy.
 
 <!-- page 3 -->
 ज्यातं ॥ ॥ थनंलि निश्चय नं थओ आयु थमनं बस तय हयाओ चोनम्ह । धर्म स्यनापति भिक्षु । शारिपुत्र । धर्मया
@@ -62,8 +51,6 @@ The city was the only one where the rain was falling. In this city, the Lord Bud
 मलमा निहुरिएर यस्तो प्रकारले बिन्ति गरे । हे भगवन् । हे लोकनाथ । यो संसारमा भूत भविष्य वर्तमान
 पनि । सबै थाहा पाएर आउनुभइको । फेरी ठूलो ऐश्वर्या चीवर र स्तुनंति गरेर आउनुभएको तपाईँ हाम्रो गुरु
 
-He has come. ॥ ॥ From here, he has certainly brought his life under his own control. Dharma Syanapati monk. Sariputra. The authority of the Dharma. Maudgalyayana. The two monks, having risen from their hermitage. Sitting in seclusion, covered themselves with robes, with their right knee on the ground and their left knee raised, chanting the mantras with their hands. Sitting. The Lord Buddha had come to the Bodhi Mandapa Mahavihara, having paid homage to the Lord Buddha. Having gone around three times. He bowed down at the lotus feet and requested in this way. O Lord. O Loknath. In this world, the past, the future, the present. You have come knowing everything. Again, you have come with great wealth and praise, you are our Guru.
-
 <!-- page 4 -->
 जुया विज्याकम्हं छलपोल खओ थुका । हनं थ्व संसारस दक्व सत्वप्रानि गन मनूष्य पनि हित याय का
 रनस क्षिपनि खनाओ करुनाकृपा तस्य अति मनोहर चित्त नं ङेने ययापूगु न्हापा पूर्वजन्मस बिस्ता
@@ -71,11 +58,6 @@ He has come. ॥ ॥ From here, he has certainly brought his life under his own 
 ओगु ॥ हे भगवान् ॥ ग्वम्ह मनूष्यनं गुलिन पूण्य फल लानाओ ॥ अनुत्तर बोधिज्ञान लानाओ निर्वान प
 द लानाओ ओन धकं थूगु कथा छलपोलस्यनं आज्ञा दयकाओ बिज्यायमाल धकं । शारिपूत्र । मौद्गल्या
 यन निम्हस्यनं बिनतियातं ॥ थनंलि श्री भगवान नं थूति शारिपूत्र । मौद्गल्यायन भिक्षु निम्ह
-
-अनुवाद
-भक्तले चलपोल खाओ फ्याँकिदिए। तर, यस संसारमा, सबै सत्त्व प्राणीहरू, जहाँ मानवहरू पनि रुचि राख्छन्, करुणा र अनुग्रहको विनाश देख्छन्। त्यसपछि केर्मयासिनले आफ्नो पुण्य कर्मको फल पाए। उनले यस्ता कर्महरू गरेका छन्। हे प्रभु। कति मानिसहरूले कति पुण्य फल पाउँछन्? अनुत्तरित ज्ञान प्राप्त गर्नुहोस् र निर्वाण प्राप्त गर्नुहोस्। लानाओ ओन भन्छन् कि यो कथा चालपोलाहरूद्वारा क्रमबद्ध हुनुपर्छ। शरिपुत्र। मौद्गल्य यहाँ तिनीहरू दुवै बिना छन्। त्यसपछि भगवानले शरिपुत्रलाई पनि जन्म दिनुभयो। दुई मौद्गल्ययन भिक्षुहरू
-
-The devotee threw away the Chalpola Khao. But, in this world, all sentient beings, where even humans are interested, see the destruction of compassion and grace. Then Kermayasin got the fruit of his virtuous deeds. He has done such deeds. O Lord. How many people get how many virtuous fruits? Gain unanswerable knowledge and attain Nirvana. Lanao On says that this story should be arranged by Chalpola. Shariputra. Maudgalya is here without both of them. Then the Blessed One also gave birth to Shariputra. The two Maudgalyayana monks
 
 <!-- page 5 -->
 सया भाखा द्धेनाओ । मुसुहु नं न्हिलाओ आज्ञा दयकलं । हे शारिपूत्र । मौद्गल्यायन परापूर्वकालस । ग्वम्ह मनूष्य
@@ -85,10 +67,6 @@ The devotee threw away the Chalpola Khao. But, in this world, all sentient being
 थिंङ धालसा । ऋद्धिसिऋि प्रकास जुयाओ । आपालं सर्जन मनूष्य नं ब्याप्त मान जुयाओ चोन । थ्व नगरस
 न्यागु चक्र लानाओ बिज्याकम्ह । श्री बिपश्वि तथागत विज्यानाओ चोन । गथिंङम्ह विपश्वि भगवाल धाल
 
-साया भाखा धेनाओ। मुसुहु पनि हाँसे र आज्ञा दिए। हे शरिपुत्र। मौद्गल्यायन प्राचीन काल। कति मानिसहरूले कस्तो प्रकारको कर्म गर्छन् भन्ने कथा मनलाई स्थिर बनाउँछ। यदि म भन्छु कि विगतमा, शिक्षकले आज्ञाहरू बनाउनुहुन्थ्यो। चापनिश्यन भू। हे सारिपुत्र मौद्गल्यायन, अघिल्लो वर्षका भिक्षु। यो शहरको नाम वन्धु मतिधाको नामबाट राखिएको हो। यो शहरलाई कुरा भन्छ। धनको ज्योति बन। धेरै सर्जनहरू पनि लोकप्रिय हुँदै गइरहेका छन्। यो शहर पाँच चक्र लानाओ उपासक। श्री बिपस्वी तथागतलाई दृश्यमान होस्। गठिंगा विपश्वी भगवालले भने
-
-Saya Bhakha Dhenao. Musuhu also laughed and gave the order. O Shariputra. Maudgalyayana ancient times. The story of what kind of deeds some people do makes the mind steady. If I say that in the past, the teacher used to make the orders. Chapanisyana Bhu. O Shariputra Maudgalyayana, monks of the previous year. This city is named after Bandhu Matidha. This city is called the word. Become the light of wealth. Many surgeons are also becoming popular. This city brings the five chakras, worshipers. May Shri Vipasvi be visible to the Tathagata. Gathinga Vipasvi Bhagawan said.
-
 <!-- page 6 -->
 तओधन पुरुष पनिष्यनं निश्चय नं बुद्ध धायकाओ । दक्व सत्वप्रानिया नायक जुयाव बिज्याकम्ह । हनं थ्वम्ह
 विपश्वि भगवानया पर्य्यायस सत्यजुग आदि व्येलस । मनूष्यया आयुष गुलीत दु धालसा चयदोल ८०००
@@ -96,10 +74,6 @@ Saya Bhakha Dhenao. Musuhu also laughed and gave the order. O Shariputra. Maudga
 श्री बिपश्वि भगवान नं असंख्य सुनंद भिक्षु प्रमुखनं असंख्य श्रावक भिक्षु गन दोलं दोल बोधिसत्वगनपिं
 चय  दोल सुद्धा बास कायिका नाम भूवनस बिज्याकपनि देव पुत्रगनपिं हनं साहाभुबनस बिज्यानाओ चो
 नम्हा ब्रम्हा गनपनिं । हनं अमरावतिपुर नगरया नायक देव राज इद्रादि देवगनपति । हनं । बैकुंण्ठ ना
-
-ताओधन पुरुष पाणिश्यनले उनलाई अवश्य पनि बुद्ध भन्नुपर्छ। उनी सबै सत्वका नायक बने। त्यसपछि यो भगवान विपस्वी, सत्ययुग, आदिको पर्यायवाची हो। मानिसको आयु कति हुन्छ? सुयनिकु ३२ को आकारसँग दयाओ चोन कली झगडा भन्ने कुनै कुरा छैन। यस समयमा श्री विपश्वी भगवान पनि अनगिन्ती सुन्दर भिक्षु प्रमुख अनगिन्ती भिक्षुहरू जहाँ दर्जनौं बोधिसत्वहरू छे डोल शुद्ध बस कायिका नाम भुवनस बिज्यकापानि देव पुत्रगण पिन हान सहभुवनस बिज्ञानौ छ नमः ब्रह्म जहाँ पनि। त्यसपछि अमरावतीपुर नगरका नायक देवराज इद्रादी, देवगणपति। हान। बैकुण्ठ ना
-
-Taodhana Purush Panishyan should definitely call him Buddha. He became the hero of all beings. After that, this Lord is synonymous with Vipasvi, Satyayuga, etc. How long is a person's life? There is no such thing as a fight between the size of Suyaniku 32 and the Kali. At this time, Sri Vipasvi Lord also had countless beautiful monks, chiefs, countless monks, where dozens of Bodhisattvas were, the body was pure, the name of the world was Bhuvanas, the sons of God, and the sons of the world were also there, they all bowed down to Brahma, wherever they were. After that Amaravatipur Nagaraka Nayak Devraj Idradi, Devganapati. Han. Baikuntha na
 
 <!-- page 7 -->
 यक बिष्णु गनपति । हनं कैलास पर्वतया नायक । श्री महादेव । कामधातु भुवनया नायक । कामदेब आ
@@ -109,10 +83,6 @@ Taodhana Purush Panishyan should definitely call him Buddha. He became the hero 
 गवानयात । स्वचाक लउलाओ चरन कममलसं भोक पुयाओ । छखे चोनाओ थगा न्यया ओण्त तांजलि याना
 ओ । लाहातहा जोजलपा ओ बिनति यातं ॥  ॥ हे हे भगवान हे सर्वज्ञ । हे बुद्ध । क्षि पनिस यागु बुद्धयाओ बिज्याक
 
-याक विष्णु गणपति। त्यसपछि कैलास पर्वतका नायक। श्री महादेव। कामधातु भुवनका नायक। कामदेव र दश दिशात्मक लोकपालहरू जहाँ हामी लोक धातुको संसारमा पूजा गर्छौं। तथागत आदि। यो पनिश्यन ली चाकाओ। ग्वाम्हा श्री विपश्वी भगवानले सभा मण्डल निर्माण गर्नुभयो । त्यो कुरा अवसरहरू। सबै विभागहरूले पूजा गरिरहेका छन् र आफ्ना भावनाहरू व्यक्त गरिरहेका छन्। केवल एक श्रीनन्द भिक्षु। ती ठाउँहरू पनि उभिएका छन्। बिपस्वी भगवनलाई। स्वच्छ लुलाओ चरन कमल कमल भोक पुयाओ। एकातिर, म चोनाओ थागा न्याय ओन्टसँग नाच्थें। उनले। लहताहाले अभिवादन गरे र बिन्ती गरे। हे प्रभु, तपाईं सर्वज्ञ हुनुहुन्छ। हे बुद्ध। बुद्धको बिज्यक
-
-Yak Vishnu Ganapati. Then the hero of Kailash Parvat. Shri Mahadev. The hero of Kamadhatu Bhuvan. Kamadheva and the ten directional Lokpals where we worship in the world of Lok Dhau. Tathagata etc. This panishyan li chakao. Gwamha Shri Vipasvi Bhagwan built the assembly mandal. That thing occasions. All the departments are worshiping and expressing their feelings. Only one Shrinanda monk. Those places are also standing. To Vipasvi Bhagwan. Clean Lulao pasture lotus lotus hunger puyao. On the one hand, I used to dance with Chonao Thaga Nyaya Camel. He. Lahtaha greeted and begged. O Lord, you are omniscient. O Buddha. Buddha's knowledge
-
 <!-- page 8 -->
 म्ह छलपोल खओ थुका । थ्व संसारस दानया पुण्यया पुसा गुलित । प्रभाव दओ । थ्व दक्वं जिपनि दक्व सया का
 रनस छलपोलसेनं आज्ञा दयकाओ विज्याय माल धकं । थ्वुगु प्रकारनं सुनंद भिक्षु नं विनति यातं ॥
@@ -120,10 +90,6 @@ Yak Vishnu Ganapati. Then the hero of Kailash Parvat. Shri Mahadev. The hero of 
 क । आनंद कुसल जुयाओ चोनपिं सर्वसत्व हितार्थ याय कारनस पुर्व जन्मया फल जि नं कने तेना छप
 निस्यनं एकचित्त यानाओ ङओ । गथ्य धालसा । मामया गर्भस जन्म जुयाओ गर्भ बास यानाओ वोनेमाल
 थथिंङ समयस । बिधाता दैवनं कपालस आखल चोयाओ हयिओ । गथिगु आखलया माला धालसा
-
-शरीर चलपोलले ढाकिएको छ। यस संसारमा दानका पुण्यका बीउ कति छन्। त्यसको प्रभाव त्यहाँ छ। यो सबै थाहा पाएर राणा चलपोलसेनले विजयलाई पराजित गर्ने आदेश दिए। यसरी भिक्षु सुनन्दाले पनि बिन्ती गरे। म यो अनुरोध भाषा दोहोर्‍याउँछु। श्री बिपस्वी भगवानले पनि आदेश दिए। हे सुनन्दा भिक्षु हे सभलो एक पटक । आनन्द कुसलाओ जुआओपिन सवसत्व लाभ कर्णहरू अघिल्लो जन्मको फल पनि म तिमीलाई भन्छु निस्यानाले आफ्नो मन बनाइन्। कसरी भन्ने। तिमी आफ्नी आमाको गर्भमा जन्मनु पर्छ र उनको गर्भमा बस्नु पर्छ। त्यतिबेला। विधाता दैवनले कपालस अक्षरहरू लेखेका थिए। तिमी कुन अक्षरहरू खोज्दै छौ?
-
-The body is covered with Chalpol. How many seeds of charity are there in this world. Its effect is there. Knowing all this, Rana Chalpolsen ordered to defeat Vijaya. Thus the monk Sunanda also requested. I repeat this request language. Sri Vipasvi Bhagwan also ordered. O Sunanda, monk, once. Ananda Kusalao Juaopin Savasatva Labh Karnas The fruits of previous births I also tell you Nisyana made up her mind. How to say. You should be born in your mother's womb and live in her womb. At that time. The creator God wrote the letters Kapalas. Which letters are you looking for?
 
 <!-- page 9 -->
 थुलित आयु दओ । थुलित कर्म दु । थुलित श्राम्त्र बिद्या सयिओ । थुलित दान पुन्य यायिओ धकं । कपालस चो
@@ -133,10 +99,6 @@ The body is covered with Chalpol. How many seeds of charity are there in this wo
 यकाओ तल । वम्ह मनूष्य नं अप कीर्त्ति पाप मखुगु यानाओ ओलसा । दुःख नरकस भोग यायमाल
  हाकनं ग्वम्ह मनूष्यनं भिनगू । पुणाकर्म धर्म यानाओ । ओयु । ओम्ह मनूष्यया सुख भोग लानाओ निर्वा
 
-थुलित बाँच्छन्। कर्म धेरै छ। थुलित श्रमत्र ज्ञान। थुलित दानले पुरस्कृत हुन्छ। कपालस चो याओ हैयो थुक। यी सबै चीजहरू भएको। सबै सम्भावित विषयहरूबाट। अघिल्लो जन्म र उसको मृत्युको फल आफैंले भोग्नुपर्छ। ॥ अघिल्लो जन्ममा यसरी नै गरिन्छ। कर्म भोग भुक्ताल पयमल धकम। पहिले, देवताहरूले पनि आदेश दिएका थिए। आफ्नो प्रसिद्धिमा आएको मानिसले पनि पाप गरेको थियो। नर्कमा दुःख भोग्नु
-
-Thulit lives. Karma is much. Thulit is hard work. Thulit is rewarded with charity. Kapalas cho yao hayo tuk. Having all these things. From all possible subjects. One has to suffer the fruits of the previous birth and his death. ॥ In the previous birth, this is how it is done. Karma bhog bhuktal payamal dhakam. Earlier, the gods also ordered. The man who came to his fame also committed sins. Suffering in hell
-
 <!-- page 10 -->
 न पद लायुओ। थ्वतेया कारनस ज्ञानिगुनि बिच क्षनि मनूष्य पनिस्यनं न्हापा यानाओ ओयागुलि सि
 यकाओ । अनेक जत्न जुगुति नं धर्मकर्म यायमाल थ्वतेया कारनस भिनगु कर्म यायगु स्वओ । अष्ट किर्ति
@@ -145,10 +107,6 @@ Thulit lives. Karma is much. Thulit is hard work. Thulit is rewarded with charit
 चोङ । थ्व मनूष्य धालसा । दशा कुशल धयागु पापि जुयाओ चोन्य दशा कुशल धयागु छु धालसा थओ क्षी
 वनें मेव स्यानाओ ओम्ह । हनं मबियकं वल ने मेवया धन सम्पत्ति कयाओ जुओम्ह । हनं मेवया म्त्री योके
 
-न त लयुओको स्थिति। यसको कारण यो हो कि मानिसहरूले यो पहिले नै गरिसकेका छन्। यदि तपाईं बच्चा हुनुहुन्छ भने पनि, तपाईंले धार्मिक कर्महरू गर्नुपर्छ। आठ कीर्तिहरू पापपूर्ण कर्महरूलाई सन्तुलनमा राख्न र क्रमशः राम्रो गर्न हो। देवताहरूले आदेश दिए। फेरि प्रभुले आज्ञा दिनुभयो। हे भिक्षु, समय कहाँ छ? मानिसहरू एक समयमा एउटै देशमा बस्छन्। यदि यो मानव हो भने। दशा कुशलको अर्थ पापी हो, चोन्या दशा कुशलको अर्थ उसले जे भन्छ, मलाई मार्न जान्छ। ऊ मेभको सम्पत्ति नदिई लिन आएको थियो। हान मेभ्या म्त्री योक
-
-Nor the position of the lyuo. The reason for this is that people have already done it. Even if you are a child, you must do righteous deeds. The eight kirtis are to balance sinful deeds and do good deeds in order. The gods ordered. Again the Lord ordered. O monk, where is the time? People live in one country at a time. If it is a human. Dasha kushal means sinful, chonya dasha kushal means whatever he says, he goes to kill me. He came to take Mev's property without giving it. Han Mevya Mtri Yok
-
 <!-- page 11 -->
 काम भोग रस याना जुओम्ह । हनं मेवयात मखुगु ख कनाओ । अतिजाक पनि फयाव चोनम्ह हनं थओति तओ ध
 न सृंमदू थ्यनेनक । थ्व पाय धन मदयकं जुओम्ह हनं मेवयात निद्रा याकम्ह । हनं थओ गुम्हपाल तोल
@@ -156,10 +114,6 @@ Nor the position of the lyuo. The reason for this is that people have already do
 नम्ह थ्व पापिनं पापस रस यानाओ जुया निंतिंनं । थ्वते पाप नं दाह जुयाओ । दानिद्र जुया ठोओनं हकनं
 आहार नापं मदयाओः महादुख जुस्यंलि मेवया धनस लोभ यातं । थ्वते लोभ याना पापनं दाह जुयाओ
 मेवनं थ्व पापिष्ट यात तोलताओः हलं । थ्वते तोलताओ हयानंलि धीक्कार २ धकं निदा यानाओ तल । ह
-
-जो वासनाको आनन्द लिन्छ। हान मेवलाई झूट बोल्छ। हान थोती तू धा ना श्रीमदु त्शेयेंक। यो त्यही हो जसले मेवलाई धन बिना सुताउँछ। त्यसपछि ऊ ताओ मेव यम्हा बने। त्यसपछि उसले धेरै कडा प्रतिज्ञा गर्यो, र उसले यो सुख मात्र भोग्यो। यो पाप पनि जलेको छ। दानिद्रा बनेर, थुनाले उसलाई खानाको साथ दिएनन्। तिनीहरू लोभले पापले जलेका थिए र यस पापीलाई क्षमा गरे। यसलाई तौल गरेपछि, तिनीहरूले ढिक्काराले सुरु गरेर यसको निन्दा गरे
-
-Who enjoys lust. Han Mew lies. Han thoti tu dha na shrimadhu tsheyenka. This is the one who makes Mew sleep without wealth. Then he became Tao Mew Yamha. Then he made a very strict vow, and he enjoyed only this pleasure. This sin is also burned. Becoming a sleeper, the thuna did not accompany him with food. They were burned with greed by sin and forgave this sinner. After weighing it, they began with a rebuke and condemned it
 
 <!-- page 12 -->
 नं समस्त लोक जनपनिस्यनं बिग्रह यानाओ । महाअहंकारी जुयाओ चोन थ्वते पापनं थओ थिथि इष्ट
@@ -171,8 +125,6 @@ Who enjoys lust. Han Mew lies. Han thoti tu dha na shrimadhu tsheyenka. This is 
 
 देशका सबै जनताले फरक पार्नु पर्छ। एक महान अहंकारी व्यक्ति भएको कारणले गर्दा, यो पापले यो प्रिय मित्र, दाजुभाइ, भाइ र साथीलाई सबैले सहन बाध्य बनायो। त्यसपछि अर्को २ पीडा जुआओ रोग बिरामी कयाओ ठूलो पीडा भयो। त्यसपछि, सहनु, सहनु, माफिया, आपत्ति, विपत्ति, पीडा, जीवनको क्षति, लगभग मृत्यु। यस्ता अवसरहरूमा। यो पापोट्मा पनि मूर्ख छ। हा हा पीडा महान छ। जिक्षा थ्यम् मृत्यु जुयिका धकम ज्ञान ओह शंख कायाओ चोन बेलास महाकष्ट नयाओ चोन धकम। श्री शाक्यशिह भगवान नान अजन दयाकाल।
 
-All the people of the country should make a difference. Because of being a great arrogant person, this sin forced this dear friend, brother, brother and friend to bear it all. Then another 2 pains Juao disease sick Kayao became a great pain. Then, endure, endure, mafia, objection, disaster, pain, loss of life, almost death. On such occasions. This papotma is also foolish. Ha ha pain is great. Jiksha thyam death Juyika dhakam jnan oh conch kayao chon belas mahakashta nyao chon dhakam. Sri Shakyasih Bhagwan Nan Ajan Dayakaal.
-
 <!-- page 13 -->
 हे भिक्षु गनपनि थ्वम्ह मनुष्य न्हे थु जन्मस छुं छुं पुण्य यानाओ ओगु मदु । थुगुलि पाप नं दाह जुयाओ;
 पाप फलनं थुलित दुख जुयकाओ चोस्यंलि छन्हुया दीनस थ्व पापिष्ट दैवया संजोगनं मृत्यु जुयाओ ओ
@@ -180,10 +132,6 @@ All the people of the country should make a difference. Because of being a great
 तब्य पुन्य याय थनलि थ्वम्ह मनुष्य मृत्यु जुयाओ कल्पांत रस हनं । थ्व पापि । किंशुक धाया भतुस्वान
 या वनसं । माकल जन्म कालओनं थ्व वन जुयु गथिं न्यगु धालसा । न्हापा अनेक फलफुल स्वान मुल द
 याओ । अत्यन्त महास्वभायमान जुयाओ चोन हनं नाना झंगल पंछि दयाओ चोन्य हनं सिंह किसिस
-
-हे भिक्षु, यो मानिसले यस जन्ममा कुनै पुण्य गरेको छैन। यस पटक पनि पाप जलेको छ; पापको फलबाट यति धेरै दुःख भोगेपछि, एक दिन यो पापी देवताको दुर्घटनाबाट उसको मृत्यु भयो। हे भिक्षु। न्गो चान भन्छन् यो संसार। सार वस्तु कुनै पनि होइन। त्यसपछि यो मानिस मरे र कल्पनाको आनन्द उठाए। यो पापी। भातुस्वानको वनलाई किंशुक भनिन्थ्यो। यदि बाँदर जन्मिएको थियो भने, उसले भन्यो कि ऊ यस वनमा जन्मिएको हो। विगतमा, धेरै फलफूल हंसहरू याओलाई मुल गर्थे। अति महास्वभाइमान जुयाओ छोन्या हान नाना झङ्गल पञ्ची दयाओ छोन्या हान सिंह किसिस
-
-O monk, this man has not done any merit in this birth. This time too, sin has burned; Having suffered so much from the fruits of sin, one day this sinful god died by accident. O monk. Ngo Chan says this world. The essence is nothing. Then this man died and enjoyed imagination. This sinful. The forest of Bhatuswan was called Kinshuka. If a monkey was born, he said that he was born in this forest. In the past, many fruit swans used to root Yao. Ati Mahaswabhaiman Juao Chonya Han Nana Jhangal Panchi Dayao Chonya Han Singh Kisis
 
 <!-- page 14 -->
 आदिनं बन जंतु पनि दयाओ चोन असंख्य वानर माकल दयाओ अति हर्षमान जुयाओ चोन्य बनस

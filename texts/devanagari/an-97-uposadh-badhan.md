@@ -1,9 +1,11 @@
 ---
 title: "Uposadh Badhan"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_97_Uposadh_Badhan.pdf"
-language: new
+language: sa
 script: deva
 buddhist: true
+language_note: "Sanskrit (assessed by reading samples)"
+machine_translations_removed: 0
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_97_Uposadh_Badhan.pdf"
 pages: 6

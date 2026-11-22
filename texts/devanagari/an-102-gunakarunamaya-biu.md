@@ -1,9 +1,11 @@
 ---
 title: "Gunakarunamaya Biu"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_102_Gunakarunamaya_Biu.pdf"
-language: new
+language: mixed
 script: deva
 buddhist: true
+language_note: "Sanskrit with Newar or Old Newar glosses and songs (assessed by reading samples)"
+machine_translations_removed: 0
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_102_Gunakarunamaya_Biu.pdf"
 pages: 4

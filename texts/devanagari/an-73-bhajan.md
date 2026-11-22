@@ -1,7 +1,7 @@
 ---
 title: "बसुंधरा देवीया तिलाब्रत दनिगुया बाखं"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN-PM-73-Bhajan.pdf"
-language: new
+language: unassessed
 script: deva
 buddhist: false
 plain: true

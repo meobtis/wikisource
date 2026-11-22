@@ -1,9 +1,11 @@
 ---
 title: "Debya Awadan"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_96_Debya_Awadan.pdf"
-language: new
+language: sa
 script: deva
 buddhist: true
+language_note: "Sanskrit (assessed by reading samples)"
+machine_translations_removed: 6
 plain: true
 source_scan: "https://commons.wikimedia.org/wiki/File:AN_96_Debya_Awadan.pdf"
 pages: 67
@@ -21,10 +23,6 @@ note: "Transcribed by Wikisource volunteers from a manuscript scan digitised wit
 हिषी सम्पन्न धार्म्मिको धर्म्मराजा धर्म्मण राज्यं कारयति ॥ तस्मिंच नगरे महाहृदे उत्पल कु
 मुद पुण्डरीक सम्पन्ना हंस कारण्डव चक्र वाकोँपशोभितो रमणीय स्तन्नचक्षदे जन्मचित्र
 
-१ ओम नमः बुद्धाय। ॥ हे भिज्जवहरू, मैले फेरि एक पटक तिमीलाई ज्ञानको पूर्णताबाट प्राप्त गरेका वरदानहरू दिएको छु। विगतमा, भिज्जवहरू पाच राज्यमा राजा बनेका थिए। उत्तरापाचनालका छोरा, दक्षिणापांजलश्व, उत्तरापाचनालका छोरा हुन्, र उनका छोरा महाधन हुन्, जसले हस्तिनापुरको राज्यमा शासन गर्छन्। तिनीहरूले धन र समृद्धि र समृद्धि र समृद्धिको घोषणा गरे धेरै मानिसहरू र मानिसहरू, शान्तिप्रिय, हलचल, त्रिमवण्डा, चोर, अनिकाल, रोग, धान, उखु, गाई एक धनी र धार्मिक राजाले धार्मिक सिद्धान्तहरू अनुसार राज्य शासन गर्छन् त्यही शहरमा, महान हृदय भएका उत्पल कुमुड पुण्डारिका हंस हाँसको चक्रले सम्पन्न वाको सुन्दर स्तनले सजिएको चाक्षदे जन्म चित्र
-
-1 Om Namah Buddhaya. ॥ O Bhijjavas, I have once again bestowed upon you the boons I have received from the perfection of knowledge. In the past, the Bhijjavas became kings in five kingdoms. The son of Uttarapachanala, Dakshinapanjalashva, is the son of Uttarapachanala, and his son is Mahadhana, who rules the kingdom of Hastinapur. They declared wealth and prosperity and prosperity and prosperity Many people and people, peaceful, bustling, Trimvanda, thieves, famine, disease, rice, sugarcane, cows A rich and pious king rules the kingdom according to religious principles In that city, Utpala with a great heart Kumud Pundarika Swan Swan's wheel adorned with beautiful breasts Chakshade Janma Pictura
-
 <!-- page 2 -->
 को नाम नागपोत प्रतिवसति ॥ सं कालेन कालङ सम्पग्वरिधारामनुप्रयच्छति ॥ हतीव शस्यस
 म्पर्भ्तार्शस्यवती वसुमती सुभिक्षाश्वपाना देशादानमान सत्कारवाश्च लोक ॥ श्रमण ब्राम्हण
@@ -34,10 +32,6 @@ note: "Transcribed by Wikisource volunteers from a manuscript scan digitised wit
 ति ॥ ततोसौ महाजन कायः सत्रस्तः स्वजीवितापेक्षया राष्ट्रपरित्यागं कृत्वा उत्तरपाचञ
 लस्यैब राज्ञो विषये गत्वा प्रतिवसति ॥ यावदपरेण समयेन दक्षिणपाच्ञालो राजा मृग
 
-त्यहाँ बस्ने सर्पको जहाज को हो? समय बित्दै जाँदा, कालङ्ग नदीले पानीका नदीहरूलाई प्रशस्त मात्रामा प्रदान गर्छ। पृथ्वीमा प्रशस्त अन्नबाली छ, र घोडाहरूको लागि प्रशस्त खाना छ। श्रमण, ब्राह्मण, गरिब व्यापारी र व्यापारीले सूर्यको भोजन खानुपर्छ। राजा, जो सबैभन्दा अधार्मिक छ, जो घोडा जस्तै छ र जो कठोर छ, दक्षिण तर्फ सरून्। अन्तर्गत रम्मनले दैनिक दण्ड, घटन, घराना, बन्धन, हदिनीगदोपरोधाई सहित राज्यमा शासन गर्दछ, राष्ट्र बस्छ यसले मलाई डराउँदैन। यी देवताहरूमध्ये अधर्म सबैभन्दा ठूलो हो, र समय-समयमा, पानीको धार्मिक धारा छोड्नुहोस् ति ॥ त्यसपछि महापुरुषको शरीर सन्तुष्ट भएर आफ्नो जीवनको खातिर राष्ट्र त्यागेर उत्तरतिर गयो लास्याइब राजाको देशमा गए र त्यहाँ बसोबास गरे। अर्को समयमा दक्षिणी पच्चला मृगको राजा सम्म
-
-Who is the ship of the serpent that lives there? As time passes, the Kalanga River provides abundantly to the rivers of water. There is abundant grain on the earth, and there is abundant food for horses. The ascetic, the Brahmin, the poor merchant and the merchant should eat the food of the sun. The king, who is the most unrighteous, who is like a horse and who is harsh, should move towards the south. Under Ramman, with daily punishment, ghatan, gharana, bondage, hadinigadoparodhai, the nation lives, it does not scare me. Among these gods, the greatest is the unrighteous, and from time to time, release the righteous stream of water. Then the body of the great man, satisfied with his life, left the country and went north to the country of the king of Lasyaib and settled there. At another time, the king of the southern Pachala deer.
-
 <!-- page 3 -->
 याव्यवदेशेन जनपदान् व्यवलोकनाय निर्गतो । यावत् पश्यति ग्रामनगराणि शून्यानि ॥ उद्यान दे
 वकुलानि भिन्न प्रभग्नानि । स जनकायः क्वगत इति कथयति ॥ अमात्याः कथयन्ति ॥ दे
@@ -46,13 +40,6 @@ Who is the ship of the serpent that lives there? As time passes, the Kalanga Riv
 श्च सुभिक्षाश्चाकीर्ण जनमनुष्याश्च प्रशान्तकलि कलह डिम्ब डमर तस्कर दुर्भिक्ष
 रोगोपगताः शालीक्षु गोमहिषी संपन्नाः दान मान सत्कार वांश्च लोकः श्रमण ब्राह्मण क्व
 षण वनिपकोभोज्यः ॥ देवःतु चण्डाल भसः कर्कशः ॥ नित्यं ताडन घाटन धारण बन्धन
-
-उनी याव्यका नगरहरूको निरीक्षण गर्न निस्किए। जति टाढासम्म हेर्न सकिन्थ्यो, गाउँ र नगरहरू सुनसान थिए। बगैँचाका देवकुलहरू भत्किएका थिए। ती पिताको शरीर कहाँ गयो? मन्त्रीहरू हामीलाई बताउँछन्। देवोत्तरन पाञ्चाल राज्यमा गए। "हे प्रभु, मलाई सुरक्षा प्रदान गर्नुहोस्, म हजुरलाई बताउनेछु।" ॥ "तिमीलाई त्यो प्राप्त होस्। हे देवोत्तर, पाञ्चालका राजा धर्मपूर्वक राज्य सञ्चालन गर्छन्।" त्यहाँको ग्रामीण क्षेत्र समृद्ध र सम्पन्न छ; त्यहाँ अनिकाल, छरिएर रहेका मानिसहरू र कलहको वातावरण पनि छ।
-धान, गाईभैंसी, दान, सम्मान र आतिथ्यले सम्पन्न, तर रोगले ग्रस्त ती श्रमण वा ब्राह्मण कहाँ छन्?
-छ प्रकारका भिक्षुकहरू भोजनका पात्र हुन्। देवता चाण्डाल हुन् र भास कठोर स्वभावका व्यक्ति हुन्; त्यहाँ निरन्तर कुटपिट, पकड र बन्धनको अवस्था छ।
-
-He set out to inspect the cities of the realm. As far as the eye could see, the villages and towns were desolate. The shrines in the gardens lay in ruins. "Where has my father's body gone?" the ministers asked. Devottaran traveled to the kingdom of Panchala. "O Lord, grant me protection, and I shall tell you." "May it be granted to you. O Devottar, the King of Panchala rules righteously." The countryside there is prosperous and wealthy; yet, there is also famine, a scattered populace, and an atmosphere of discord. Where are those Shramanas or Brahmins who are prosperous in terms of paddy, cattle, charity, honor, and hospitality, yet afflicted by disease?
-There are six types of mendicants who are worthy of receiving alms. There are 'deity-chandalas' and 'vulture-like' individuals of harsh temperament; a state of constant beating, seizing, and binding prevails there.
 
 <!-- page 4 -->
 निगडो पराधो राष्ट्रं त्रासयति । यतो ऽ सौजनकायः संत्रस्तः संवेगमा यन्त्र ॥ उत्तर पांचालस्य

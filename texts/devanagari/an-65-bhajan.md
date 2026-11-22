@@ -1,7 +1,7 @@
 ---
 title: "Bhajan from Shree Bishnubir Dafa Bhajan Khala"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN-PM-65-Bhajan.pdf"
-language: new
+language: unassessed
 script: deva
 buddhist: false
 plain: true

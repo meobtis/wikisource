@@ -1,7 +1,7 @@
 ---
 title: "Kartik and Tripurasundari Sambad"
 wikisource_index: "https://wikisource.org/wiki/Index%3AAN_100_KartikandTripurasundariSambad.pdf"
-language: new
+language: unassessed
 script: deva
 buddhist: false
 plain: true
